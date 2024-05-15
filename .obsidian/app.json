@@ -1,5 +1,6 @@
 {
   "promptDelete": false,
   "attachmentFolderPath": "Image file",
-  "spellcheck": true
+  "spellcheck": true,
+  "vimMode": false
 }
