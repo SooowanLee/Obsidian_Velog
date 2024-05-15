@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "caffbcd8a07a25ef",
+        "id": "d7d9e77276a09c6a",
         "type": "tabs",
         "children": [
           {
-            "id": "bc74873d5a0a974d",
+            "id": "cc9db0770b34eef8",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "staged": false,
-                "file": "Spring-React/프론트에서 로그인할 때 기본 인증 서비스 호출하기.md"
+                "file": "Spring-React/프론트에서 로그인할 때 기본 인증 서비스 호출하기.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -85,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spring-React/프론트에서 로그인할 때 기본 인증 서비스 호출하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spring-React/프론트에서 로그인할 때 기본 인증 서비스 호출하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spring-React/프론트에서 로그인할 때 기본 인증 서비스 호출하기.md"
+              }
             }
           },
           {
@@ -142,11 +148,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,9 +168,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bc74873d5a0a974d",
+  "active": "cc9db0770b34eef8",
   "lastOpenFiles": [
     "Spring-React/프론트에서 로그인할 때 기본 인증 서비스 호출하기.md",
+    "Image file/Pasted image 20240515224010.png",
     "Image file/Pasted image 20240515222843.png",
     "Image file/Pasted image 20240515222500.png",
     "Image file/Pasted image 20240515221722.png",
@@ -183,7 +191,6 @@
     "Git 관련",
     "프로젝트 만들면서 배운 컴퓨터 지식",
     "새 폴더",
-    "Image file/Pasted Image 20240514170113_789.png",
     "Excalidraw/Drawing 2024-05-14 16.58.25.excalidraw.md",
     "Excalidraw",
     "Projects - Demo Project/Untitled.md",
