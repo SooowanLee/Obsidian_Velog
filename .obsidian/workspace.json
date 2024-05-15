@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "3918dab56bbef911",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc7ddd61cbcb52c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36b0508a580002ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Daily/2024-05-14.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bc35b0f29acc0e4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c16b704fc94bbe2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2289f872d95506e0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "69ebdaf4a243a1e0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cf8e0a8f6bf313a8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 202.50260543823242
+  },
+  "right": {
+    "id": "5a2dcc2e0a541c4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "41688d32c212a556",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37c7aa9d1f35492d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. Daily/2024-05-14.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7dc857f38d7bdfd8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. Daily/2024-05-14.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a32de0ec24cbe55f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4fc69bbc71092d5c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Daily/2024-05-14.md"
+              }
+            }
+          },
+          {
+            "id": "712e6d2b41973448",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "36b0508a580002ce",
+  "lastOpenFiles": [
+    "새 텍스트 문서.txt",
+    "새 폴더",
+    "Image file/Pasted Image 20240514170113_789.png",
+    "Excalidraw/Drawing 2024-05-14 16.58.25.excalidraw.md",
+    "1. Daily/2024-05-14.md",
+    "Excalidraw",
+    "Projects - Demo Project/Untitled.md",
+    "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
+    "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
+    "Projects - Demo Project/Why You Should Be Taking More Notes.md",
+    "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
+    "Projects - Demo Project/The Best Notes You'll Ever Make.md",
+    "Projects - Demo Project",
+    "Spring-React/프론트에서 로그인할 때 기본 인증 서비스 호출하기.md",
+    "Spring-React/Untitled.md",
+    "Spring-React/무제 파일.md",
+    "무제 파일.md",
+    "Spring-React/ㅁㄴㅇㅁㄴㅇ.md",
+    "2024-05-14.md",
+    "Spring-React",
+    "1. Daily/2024-05-13.md",
+    "중요프로젝트/중요2.md",
+    "중요프로젝트/중요프로젝트.md",
+    "중요프로젝트",
+    "중요한프로젝트/무제 파일.md",
+    "중요한프로젝트/Drawing 2024-05-13 22.50.14.excalidraw.md",
+    "중요한프로젝트/Untitled.md",
+    "중요한프로젝트",
+    "중요한프로젝트/sdfsdf.md",
+    "중요한프로젝트/ㄴㅇㄹㄴㅇㄹ.md",
+    "중요한프로젝트/ㄴㅇㄹㅇㄴㄹ.md",
+    "중요한프로젝트",
+    "ㅁㄴㅇㅁㄴㅇ.md",
+    "Excalidraw/Drawing 2024-05-13 22.37.04.excalidraw.md",
+    "무제 파일.canvas",
+    "4. Yearly",
+    "3. Monthly",
+    "2. Weekly",
+    "Attached file/Pasted image 20240513165921.png",
+    "Untitled.canvas",
+    "마인드맵.canvas"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "file-explorer:open": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "1"
+    }
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "B"
+    }
+  ],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "V"
+    }
+  ],
+  "obsidian-projects:show-projects": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ]
+}
