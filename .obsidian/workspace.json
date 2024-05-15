@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bc7ddd61cbcb52c6",
+        "id": "caffbcd8a07a25ef",
         "type": "tabs",
         "children": [
           {
-            "id": "36b0508a580002ce",
+            "id": "bc74873d5a0a974d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "프로젝트 만들면서 배운 컴퓨터 지식/2024-05-14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf318085aeec4a7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git 관련/SSH를 사용해서 Repository 연결하는 방법.md",
-                "mode": "source",
-                "source": false
+                "staged": false,
+                "file": "Spring-React/프론트에서 로그인할 때 기본 인증 서비스 호출하기.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +68,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 202.50260543823242
+    "width": 265.50152587890625,
+    "collapsed": true
   },
   "right": {
     "id": "5a2dcc2e0a541c4d",
@@ -98,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git 관련/SSH를 사용해서 Repository 연결하는 방법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git 관련/SSH를 사용해서 Repository 연결하는 방법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Git 관련/SSH를 사용해서 Repository 연결하는 방법.md"
-              }
+              "state": {}
             }
           },
           {
@@ -149,14 +132,21 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "d85f7e36996e7b93",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,12 +161,25 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bf318085aeec4a7c",
+  "active": "bc74873d5a0a974d",
   "lastOpenFiles": [
+    "Spring-React/프론트에서 로그인할 때 기본 인증 서비스 호출하기.md",
+    "Image file/Pasted image 20240515222843.png",
+    "Image file/Pasted image 20240515222500.png",
+    "Image file/Pasted image 20240515221722.png",
+    "Image file/Pasted image 20240515222330.png",
+    "Git 관련/SSH를 사용해서 Repository 연결하는 방법.md",
+    "프로젝트 만들면서 배운 컴퓨터 지식/CORS.md",
+    "Spring-React/ㄴㅇ.md",
+    "Spring-React/중요한거.md",
+    "Image file/Pasted image 20240515204508 1.png",
+    "Image file/Pasted image 20240515204508.png",
+    "Image file/Pasted image 20240515204507 1.png",
+    "Image file/Pasted image 20240515204507.png",
+    "Image file/Pasted image 20240515204502.png",
+    "Spring-React",
     "4913",
     "새 텍스트 문서.txt",
-    "프로젝트 만들면서 배운 컴퓨터 지식/2024-05-14.md",
-    "Git 관련/SSH를 사용해서 Repository 연결하는 방법.md",
     "Git 관련",
     "프로젝트 만들면서 배운 컴퓨터 지식",
     "새 폴더",
@@ -190,10 +193,8 @@
     "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
     "Projects - Demo Project/The Best Notes You'll Ever Make.md",
     "Projects - Demo Project",
-    "Spring-React/프론트에서 로그인할 때 기본 인증 서비스 호출하기.md",
     "Spring-React/Untitled.md",
     "Spring-React/무제 파일.md",
-    "Spring-React/ㅁㄴㅇㅁㄴㅇ.md",
     "2024-05-14.md",
     "Spring-React",
     "1. Daily/2024-05-13.md",
@@ -203,15 +204,11 @@
     "중요한프로젝트/무제 파일.md",
     "중요한프로젝트/Drawing 2024-05-13 22.50.14.excalidraw.md",
     "중요한프로젝트/Untitled.md",
-    "중요한프로젝트",
     "중요한프로젝트/sdfsdf.md",
     "중요한프로젝트/ㄴㅇㄹㄴㅇㄹ.md",
     "중요한프로젝트/ㄴㅇㄹㅇㄴㄹ.md",
-    "중요한프로젝트",
     "ㅁㄴㅇㅁㄴㅇ.md",
-    "Excalidraw/Drawing 2024-05-13 22.37.04.excalidraw.md",
     "무제 파일.canvas",
-    "Attached file/Pasted image 20240513165921.png",
     "Untitled.canvas",
     "마인드맵.canvas"
   ]

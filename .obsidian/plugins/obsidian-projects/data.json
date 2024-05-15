@@ -1,6 +1,81 @@
 {
   "version": 2,
-  "projects": [],
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Spring-React",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "Spring-React",
+      "views": [
+        {
+          "config": {
+            "orderFields": [
+              "상태",
+              "name",
+              "시작일",
+              "마감일"
+            ],
+            "fieldConfig": {
+              "상태": {
+                "width": 180
+              },
+              "path": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "시작일",
+                "order": "asc",
+                "enabled": true
+              }
+            ]
+          },
+          "id": "051af6cd-b6bd-4f68-ba4a-a7483a8714c9",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "groupByField": "상태"
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "4d223b3b-6569-49cc-a8f3-e7f2e3bf89bb",
+          "name": "Board",
+          "type": "board"
+        }
+      ],
+      "id": "15ec2cbc-5211-4cc7-8f08-35aedd383c25",
+      "name": "프로젝트"
+    }
+  ],
   "archives": [],
   "preferences": {
     "projectSizeLimit": 1000,
