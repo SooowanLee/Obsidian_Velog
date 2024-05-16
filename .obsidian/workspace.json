@@ -84,11 +84,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 374.5086555480957
+    "width": 374.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "5a2dcc2e0a541c4d",
@@ -104,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spring-React/프론트에서 로그인할 때 기본 인증 서비스 호출하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spring-React/프론트에서 로그인할 때 기본 인증 서비스 호출하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spring-React/프론트에서 로그인할 때 기본 인증 서비스 호출하기.md"
+              }
             }
           },
           {
@@ -181,9 +187,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2289f872d95506e0",
+  "active": "c2d254bef154c35b",
   "lastOpenFiles": [
+    "Git 관련/SSH사용해서 Repository 연결하기.md",
     "Spring-React/프론트에서 로그인할 때 기본 인증 서비스 호출하기.md",
+    "무제 폴더",
     "Git 관련/SSH를 사용해서 Repository 연결하는 방법.md",
     "Image/Pasted image 20240516150750.png",
     "Image/프론트에서 로그인할 때 기본 인증 서비스 호출하기-20240516150453135.webp",
@@ -217,7 +225,6 @@
     "Spring-React/Untitled.md",
     "Spring-React/무제 파일.md",
     "2024-05-14.md",
-    "Spring-React",
     "1. Daily/2024-05-13.md",
     "중요프로젝트/중요2.md",
     "중요프로젝트/중요프로젝트.md",

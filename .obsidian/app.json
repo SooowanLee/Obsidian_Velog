@@ -6,5 +6,5 @@
   "alwaysUpdateLinks": false,
   "useMarkdownLinks": false,
   "showUnsupportedFiles": true,
-  "trashOption": "local"
+  "trashOption": "system"
 }
