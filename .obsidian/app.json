@@ -1,6 +1,8 @@
 {
   "promptDelete": false,
-  "attachmentFolderPath": "Image file",
+  "attachmentFolderPath": "Image",
   "spellcheck": false,
-  "vimMode": false
+  "vimMode": false,
+  "alwaysUpdateLinks": false,
+  "useMarkdownLinks": true
 }
