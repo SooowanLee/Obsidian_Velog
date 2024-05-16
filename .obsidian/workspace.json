@@ -84,13 +84,11 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 374.5086555480957,
-    "collapsed": true
+    "width": 374.5086555480957
   },
   "right": {
     "id": "5a2dcc2e0a541c4d",
@@ -106,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring-React/프론트에서 로그인할 때 기본 인증 서비스 호출하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +120,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring-React/프론트에서 로그인할 때 기본 인증 서비스 호출하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +141,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Spring-React/프론트에서 로그인할 때 기본 인증 서비스 호출하기.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,13 +181,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c2d254bef154c35b",
+  "active": "2289f872d95506e0",
   "lastOpenFiles": [
+    "Spring-React/프론트에서 로그인할 때 기본 인증 서비스 호출하기.md",
+    "Git 관련/SSH를 사용해서 Repository 연결하는 방법.md",
     "Image/Pasted image 20240516150750.png",
     "Image/프론트에서 로그인할 때 기본 인증 서비스 호출하기-20240516150453135.webp",
     "Image",
     "Image/Untitled Diagram.svg",
-    "Spring-React/프론트에서 로그인할 때 기본 인증 서비스 호출하기.md",
     "프론트에서 로그인할 때 기본 인증 서비스 호출하기-20240516150327501.webp",
     "4913",
     "Image file/Pasted image 20240515222843.png",
@@ -202,8 +197,6 @@
     "Image file/프론트에서 로그인할 때 기본 인증 서비스 호출하기-20240516141952022.webp",
     "Image file/프론트에서 로그인할 때 기본 인증 서비스 호출하기-20240516142027139.webp",
     "Image file/프론트에서 로그인할 때 기본 인증 서비스 호출하기-20240516142026896.webp",
-    "Image file/프론트에서 로그인할 때 기본 인증 서비스 호출하기-20240516142026770.webp",
-    "Git 관련/SSH를 사용해서 Repository 연결하는 방법.md",
     "프로젝트 만들면서 배운 컴퓨터 지식/CORS.md",
     "Spring-React/ㄴㅇ.md",
     "Spring-React/중요한거.md",

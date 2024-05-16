@@ -4,5 +4,7 @@
   "spellcheck": false,
   "vimMode": false,
   "alwaysUpdateLinks": false,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": false,
+  "showUnsupportedFiles": true,
+  "trashOption": "local"
 }
