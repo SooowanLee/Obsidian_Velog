@@ -105,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spring-React/프론트에서 로그인할 때 기본 인증 서비스 호출하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spring-React/프론트에서 로그인할 때 기본 인증 서비스 호출하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spring-React/프론트에서 로그인할 때 기본 인증 서비스 호출하기.md"
+              }
             }
           },
           {
@@ -182,8 +186,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5ab3f70515b1b88c",
+  "active": "c2d254bef154c35b",
   "lastOpenFiles": [
+    "Image/프론트에서 로그인할 때 기본 인증 서비스 호출하기-20240516150453135.webp",
     "Image",
     "Image/Untitled Diagram.svg",
     "Spring-React/프론트에서 로그인할 때 기본 인증 서비스 호출하기.md",
@@ -222,7 +227,6 @@
     "1. Daily/2024-05-13.md",
     "중요프로젝트/중요2.md",
     "중요프로젝트/중요프로젝트.md",
-    "중요프로젝트",
     "중요한프로젝트/무제 파일.md",
     "중요한프로젝트/Drawing 2024-05-13 22.50.14.excalidraw.md",
     "중요한프로젝트/Untitled.md",
