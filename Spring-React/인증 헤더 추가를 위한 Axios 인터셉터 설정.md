@@ -8,3 +8,5 @@
 Token을 공통적으로 적용할 방법을 알아보겠다.
 
 현재 두 개의 API가 있기 때문에 두 API에서 통합으로 사용하는 API를 만들겠다.
+![](https://i.imgur.com/6yx7GYN.png)
+
