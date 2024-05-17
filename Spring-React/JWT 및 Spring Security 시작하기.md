@@ -10,3 +10,6 @@
 
 #### JWT
 - Header, Payload, Signature 구조로 되어있다.
+![](https://i.imgur.com/SxP6ZTb.png)
+
+##### Header
