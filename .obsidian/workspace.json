@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring-React/기본 인증과 Spring Boot 문제 해결하기.md",
+                "file": "Spring-React/JWT 및 Spring Security 시작하기.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d8a5eece3c6b7076",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "프로젝트 만들면서 배운 컴퓨터 지식/JWT.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374.5086555480957,
-    "collapsed": true
+    "width": 374.5086555480957
   },
   "right": {
     "id": "5a2dcc2e0a541c4d",
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring-React/기본 인증과 Spring Boot 문제 해결하기.md",
+                "file": "프로젝트 만들면서 배운 컴퓨터 지식/JWT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring-React/기본 인증과 Spring Boot 문제 해결하기.md",
+                "file": "프로젝트 만들면서 배운 컴퓨터 지식/JWT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring-React/기본 인증과 Spring Boot 문제 해결하기.md"
+                "file": "프로젝트 만들면서 배운 컴퓨터 지식/JWT.md"
               }
             }
           },
@@ -184,9 +197,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0ab782a50e37c808",
+  "active": "d8a5eece3c6b7076",
   "lastOpenFiles": [
-    "Spring-React/기본 인증과 Spring Boot 문제 해결하기.md",
+    "Spring-React/JWT 및 Spring Security 시작하기.md",
+    "프로젝트 만들면서 배운 컴퓨터 지식/JWT.md",
     "Spring-React/인증 헤더 추가를 위한 Axios 인터셉터 설정.md",
     "Spring-React/AuthContext에 기본 인증 토큰 설정하기.md",
     "Spring-React/프론트에서 로그인할 때 기본 인증 서비스 호출하기.md",
@@ -231,7 +245,6 @@
     "중요프로젝트/중요프로젝트.md",
     "중요한프로젝트/무제 파일.md",
     "중요한프로젝트/Drawing 2024-05-13 22.50.14.excalidraw.md",
-    "중요한프로젝트/Untitled.md",
     "무제 파일.canvas",
     "Untitled.canvas",
     "마인드맵.canvas"
