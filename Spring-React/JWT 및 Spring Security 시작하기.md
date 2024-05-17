@@ -9,4 +9,3 @@
 - 디코딩이 쉽다. 
 
 #### JWT
-header.payload.signature
