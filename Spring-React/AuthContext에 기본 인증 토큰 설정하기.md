@@ -7,3 +7,6 @@
 이것 바꿔보겠다.
 
 ### 기존코드
+![](https://i.imgur.com/6qcgJc8.png)
+
+### AuthContext를 통해서 token을 받아서 넘겨주는 형태
