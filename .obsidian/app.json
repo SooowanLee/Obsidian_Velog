@@ -6,5 +6,6 @@
   "alwaysUpdateLinks": false,
   "useMarkdownLinks": false,
   "showUnsupportedFiles": true,
-  "trashOption": "system"
+  "trashOption": "system",
+  "foldHeading": false
 }
