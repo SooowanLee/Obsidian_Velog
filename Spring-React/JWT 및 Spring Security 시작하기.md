@@ -9,3 +9,4 @@
 - 디코딩이 쉽다. 
 
 #### JWT
+- Header, Payload, Signature 구조로 되어있다.
