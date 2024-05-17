@@ -14,3 +14,5 @@ Token을 공통적으로 적용할 방법을 알아보겠다.
 - 일단은 간단하게 8080에 요청하는 코드만 삽입
 ![](https://i.imgur.com/krdjbWO.png)
 
+
+![](https://i.imgur.com/zA6Wgko.png)
