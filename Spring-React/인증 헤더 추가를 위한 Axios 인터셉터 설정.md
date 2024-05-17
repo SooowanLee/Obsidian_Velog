@@ -14,5 +14,5 @@ Token을 공통적으로 적용할 방법을 알아보겠다.
 - 일단은 간단하게 8080에 요청하는 코드만 삽입
 ![](https://i.imgur.com/krdjbWO.png)
 
-
+### Axios 인터셉터 기능을 사용해서 요청을 받으면 intercepter가 가로채
 ![](https://i.imgur.com/zA6Wgko.png)
