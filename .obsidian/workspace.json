@@ -19,8 +19,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "95f80f568dbf7995",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +113,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring-React/인증 헤더 추가를 위한 Axios 인터셉터 설정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +129,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring-React/인증 헤더 추가를 위한 Axios 인터셉터 설정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +150,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Spring-React/인증 헤더 추가를 위한 Axios 인터셉터 설정.md"
-              }
+              "state": {}
             }
           },
           {
@@ -184,7 +189,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "26a946158a7d0bdd",
+  "active": "95f80f568dbf7995",
   "lastOpenFiles": [
     "Spring-React/인증 헤더 추가를 위한 Axios 인터셉터 설정.md",
     "Spring-React/AuthContext에 기본 인증 토큰 설정하기.md",
