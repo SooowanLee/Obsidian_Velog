@@ -11,8 +11,13 @@
             "id": "26a946158a7d0bdd",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Spring-React/인증 헤더 추가를 위한 Axios 인터셉터 설정.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -99,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spring-React/인증 헤더 추가를 위한 Axios 인터셉터 설정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spring-React/인증 헤더 추가를 위한 Axios 인터셉터 설정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spring-React/인증 헤더 추가를 위한 Axios 인터셉터 설정.md"
+              }
             }
           },
           {
@@ -177,6 +186,7 @@
   },
   "active": "26a946158a7d0bdd",
   "lastOpenFiles": [
+    "Spring-React/인증 헤더 추가를 위한 Axios 인터셉터 설정.md",
     "Spring-React/AuthContext에 기본 인증 토큰 설정하기.md",
     "Spring-React/프론트에서 로그인할 때 기본 인증 서비스 호출하기.md",
     "프로젝트 만들면서 배운 컴퓨터 지식/CORS.md",
@@ -222,7 +232,6 @@
     "중요한프로젝트/Drawing 2024-05-13 22.50.14.excalidraw.md",
     "중요한프로젝트/Untitled.md",
     "중요한프로젝트/sdfsdf.md",
-    "중요한프로젝트/ㄴㅇㄹㄴㅇㄹ.md",
     "무제 파일.canvas",
     "Untitled.canvas",
     "마인드맵.canvas"
