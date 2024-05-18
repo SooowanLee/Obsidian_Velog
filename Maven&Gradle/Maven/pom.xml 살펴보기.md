@@ -10,3 +10,8 @@
 예를 들어 Spring, Spring MVC, Spring AOP, JPA, Hibernate 등 사용할 수 있는데 이런 라이브러리 및 프레임워크를 Maven 의존성이라한다.
 의존성은 전부 pom.xml에 정의할 수 있다.
 
+### 의존성 추가를 아무것도 하지 않아서 기본 Spring Boot만 있다.
+![](https://i.imgur.com/8g2YcKE.png)
+
+#### External Libraries를 보면 수많은 의존성이 있다. 
+![](https://i.imgur.com/0JHPEWf.png)
