@@ -26,8 +26,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maven&Gradle/Maven/pom.xml 살펴보기.md",
-                "mode": "source",
+                "file": "JUnit_단위_테스트/JUnit 프로젝트 - 1.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -101,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.50152587890625,
-    "collapsed": true
+    "width": 280.50152587890625
   },
   "right": {
     "id": "5a2dcc2e0a541c4d",
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maven&Gradle/Maven/pom.xml 살펴보기.md",
+                "file": "JUnit_단위_테스트/JUnit 프로젝트 - 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maven&Gradle/Maven/pom.xml 살펴보기.md",
+                "file": "JUnit_단위_테스트/JUnit 프로젝트 - 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maven&Gradle/Maven/pom.xml 살펴보기.md"
+                "file": "JUnit_단위_테스트/JUnit 프로젝트 - 1.md"
               }
             }
           },
@@ -200,16 +199,16 @@
   },
   "active": "a675b4af2b10783a",
   "lastOpenFiles": [
-    "Maven&Gradle/Maven/Spring Boot 프로젝트 Maven으로 생성하기.md",
-    "Maven&Gradle/Maven/pom.xml 살펴보기.md",
-    "Maven&Gradle/Maven/Maven이란.md",
-    "JUnit_단위_테스트/JUnit 프로젝트 - 1.md",
-    "Maven&Gradle/Maven",
-    "Maven&Gradle",
     "JUnit_단위_테스트/JUnit과 단위 테스트는 무엇인가.md",
     "Spring-React/인증 헤더 추가를 위한 Axios 인터셉터 설정.md",
     "Spring-React/프론트에서 로그인할 때 기본 인증 서비스 호출하기.md",
     "Spring-React/AuthContext에 기본 인증 토큰 설정하기.md",
+    "Maven&Gradle/Maven/pom.xml 살펴보기.md",
+    "Maven&Gradle/Maven/Spring Boot 프로젝트 Maven으로 생성하기.md",
+    "Maven&Gradle/Maven/Maven이란.md",
+    "JUnit_단위_테스트/JUnit 프로젝트 - 1.md",
+    "Maven&Gradle/Maven",
+    "Maven&Gradle",
     "Spring-React/무제 파일.md",
     "무제 파일.md",
     "JUnit_단위_테스트",
