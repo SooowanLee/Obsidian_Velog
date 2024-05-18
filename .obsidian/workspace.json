@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "abc45832347ca36c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Maven&Gradle/Maven/Spring Boot 프로젝트 Maven으로 생성하기.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -101,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.50152587890625
+    "width": 280.50152587890625,
+    "collapsed": true
   },
   "right": {
     "id": "5a2dcc2e0a541c4d",
@@ -117,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maven&Gradle/Maven/Maven이란.md",
+                "file": "Maven&Gradle/Maven/Spring Boot 프로젝트 Maven으로 생성하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maven&Gradle/Maven/Maven이란.md",
+                "file": "Maven&Gradle/Maven/Spring Boot 프로젝트 Maven으로 생성하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maven&Gradle/Maven/Maven이란.md"
+                "file": "Maven&Gradle/Maven/Spring Boot 프로젝트 Maven으로 생성하기.md"
               }
             }
           },
@@ -197,11 +211,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5ab3f70515b1b88c",
+  "active": "abc45832347ca36c",
   "lastOpenFiles": [
+    "Maven&Gradle/Maven/Maven이란.md",
+    "Maven&Gradle/Maven/Spring Boot 프로젝트 Maven으로 생성하기.md",
     "Maven&Gradle/Maven",
     "JUnit_단위_테스트/JUnit 프로젝트 - 1.md",
-    "Maven&Gradle/Maven/Maven이란.md",
     "Maven&Gradle",
     "JUnit_단위_테스트/JUnit과 단위 테스트는 무엇인가.md",
     "Spring-React/인증 헤더 추가를 위한 Axios 인터셉터 설정.md",
@@ -235,7 +250,6 @@
     "Spring-React",
     "새 텍스트 문서.txt",
     "Git 관련",
-    "프로젝트 만들면서 배운 컴퓨터 지식",
     "Excalidraw/Drawing 2024-05-14 16.58.25.excalidraw.md",
     "Projects - Demo Project/Untitled.md",
     "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
