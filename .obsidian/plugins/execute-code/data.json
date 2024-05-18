@@ -48,7 +48,7 @@
   "golangArgs": "run",
   "golangFileExtension": "go",
   "goInject": "",
-  "javaPath": "",
+  "javaPath": "C:/Program Files/Java/jdk-17",
   "javaArgs": "-ea",
   "javaFileExtension": "java",
   "javaInject": "",
