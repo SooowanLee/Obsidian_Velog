@@ -13,5 +13,4 @@
 ### 의존성 추가를 아무것도 하지 않아서 기본 Spring Boot만 있다.
 ![](https://i.imgur.com/8g2YcKE.png)
 
-#### External Libraries를 보면 수많은 의존성이 있다. 
-![](https://i.imgur.com/0JHPEWf.png)
+#### pom.xml에 의존성을 정의하면 관련된 많은 의존성들이 같이 들어온다. 이런 의존성을 **전이 의존성**이라 한다.
