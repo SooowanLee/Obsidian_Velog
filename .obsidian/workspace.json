@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Maven&Gradle/Maven/pom.xml 살펴보기.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "byCreatedTime"
               }
             }
           }
@@ -183,13 +183,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "871be7550e9a2397",
+  "active": "5ab3f70515b1b88c",
   "lastOpenFiles": [
-    "Maven&Gradle/Maven/Spring Boot 프로젝트 Maven으로 생성하기.md",
+    "Algorithm",
     "Maven&Gradle/Maven/pom.xml 살펴보기.md",
+    "Maven&Gradle/Maven/Spring Boot 프로젝트 Maven으로 생성하기.md",
     "Maven&Gradle/Maven/Maven이란.md",
-    "프로젝트 만들면서 배운 지식/CORS.md",
-    "Git 관련/SSH사용해서 Repository 연결하기.md",
+    "프로그래밍_지식/CORS.md",
+    "Git/SSH사용해서 Repository 연결하기.md",
     "JUnit_단위_테스트/JUnit 프로젝트 - 1.md",
     "JUnit_단위_테스트/JUnit과 단위 테스트는 무엇인가.md",
     "Spring-React/인증 헤더 추가를 위한 Axios 인터셉터 설정.md",
@@ -222,7 +223,7 @@
     "Spring-React/중요한거.md",
     "Spring-React",
     "새 텍스트 문서.txt",
-    "Git 관련",
+    "Git",
     "Excalidraw/Drawing 2024-05-14 16.58.25.excalidraw.md",
     "Projects - Demo Project/Untitled.md",
     "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
@@ -230,7 +231,6 @@
     "Projects - Demo Project/Why You Should Be Taking More Notes.md",
     "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
     "Projects - Demo Project/The Best Notes You'll Ever Make.md",
-    "Spring-React/Untitled.md",
     "무제 파일.canvas",
     "Untitled.canvas",
     "마인드맵.canvas"
