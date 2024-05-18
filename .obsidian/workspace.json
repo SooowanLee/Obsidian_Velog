@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5b86bc0e1639a1e6",
+            "id": "0ab782a50e37c808",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring-React/인증 헤더 추가를 위한 Axios 인터셉터 설정.md",
+                "file": "Junit과 단위 테스는 무엇인가.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,11 +21,16 @@
             }
           },
           {
-            "id": "0ab782a50e37c808",
+            "id": "a7379bbd5a0d59bc",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Junit과 단위 테스는 무엇인가.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -112,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring-React/인증 헤더 추가를 위한 Axios 인터셉터 설정.md",
+                "file": "Junit과 단위 테스는 무엇인가.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring-React/인증 헤더 추가를 위한 Axios 인터셉터 설정.md",
+                "file": "Junit과 단위 테스는 무엇인가.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring-React/인증 헤더 추가를 위한 Axios 인터셉터 설정.md"
+                "file": "Junit과 단위 테스는 무엇인가.md"
               }
             }
           },
@@ -192,11 +197,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5b86bc0e1639a1e6",
+  "active": "0ab782a50e37c808",
   "lastOpenFiles": [
+    "Junit과 단위 테스는 무엇인가.md",
+    "Spring-React/인증 헤더 추가를 위한 Axios 인터셉터 설정.md",
     "Spring-React/AuthContext에 기본 인증 토큰 설정하기.md",
     "Spring-React/프론트에서 로그인할 때 기본 인증 서비스 호출하기.md",
-    "Spring-React/인증 헤더 추가를 위한 Axios 인터셉터 설정.md",
     "Spring-React/JWT 및 Spring Security 시작하기.md",
     "프로젝트 만들면서 배운 컴퓨터 지식/JWT.md",
     "프로젝트 만들면서 배운 컴퓨터 지식/CORS.md",
@@ -239,7 +245,6 @@
     "중요프로젝트/중요2.md",
     "중요프로젝트/중요프로젝트.md",
     "중요한프로젝트/무제 파일.md",
-    "중요한프로젝트/Drawing 2024-05-13 22.50.14.excalidraw.md",
     "무제 파일.canvas",
     "Untitled.canvas",
     "마인드맵.canvas"
