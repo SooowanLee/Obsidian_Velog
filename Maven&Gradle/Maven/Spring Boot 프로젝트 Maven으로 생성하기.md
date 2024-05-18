@@ -35,3 +35,4 @@ Maven에서는 소스 파일을 src/main/java에 정의한다.
 JUnit 테스트나 기타 모든 단위 테스트는 src/test/java에 작성된다.
 
 다운받은 모든 Maven 의존성은 External Libraries에서 볼 수 있다.
+![](https://i.imgur.com/5jEE8NF.png)
