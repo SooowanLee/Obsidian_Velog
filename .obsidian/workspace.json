@@ -199,9 +199,10 @@
   },
   "active": "0ab782a50e37c808",
   "lastOpenFiles": [
-    "Junit과 단위 테스는 무엇인가.md",
-    "Spring-React/인증 헤더 추가를 위한 Axios 인터셉터 설정.md",
     "Spring-React/AuthContext에 기본 인증 토큰 설정하기.md",
+    "Junit과 단위 테스는 무엇인가.md",
+    "무제 파일.md",
+    "Spring-React/인증 헤더 추가를 위한 Axios 인터셉터 설정.md",
     "Spring-React/프론트에서 로그인할 때 기본 인증 서비스 호출하기.md",
     "Spring-React/JWT 및 Spring Security 시작하기.md",
     "프로젝트 만들면서 배운 컴퓨터 지식/JWT.md",
@@ -244,7 +245,6 @@
     "1. Daily/2024-05-13.md",
     "중요프로젝트/중요2.md",
     "중요프로젝트/중요프로젝트.md",
-    "중요한프로젝트/무제 파일.md",
     "무제 파일.canvas",
     "Untitled.canvas",
     "마인드맵.canvas"
