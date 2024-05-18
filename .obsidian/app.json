@@ -7,5 +7,6 @@
   "useMarkdownLinks": false,
   "showUnsupportedFiles": true,
   "trashOption": "system",
-  "foldHeading": false
+  "foldHeading": false,
+  "newFileLocation": "current"
 }
