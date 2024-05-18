@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maven/Maven이란.md",
+                "file": "Maven&Gradle/Maven/Maven이란.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -101,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.50152587890625,
-    "collapsed": true
+    "width": 280.50152587890625
   },
   "right": {
     "id": "5a2dcc2e0a541c4d",
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maven/Maven이란.md",
+                "file": "Maven&Gradle/Maven/Maven이란.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maven/Maven이란.md",
+                "file": "Maven&Gradle/Maven/Maven이란.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maven/Maven이란.md"
+                "file": "Maven&Gradle/Maven/Maven이란.md"
               }
             }
           },
@@ -198,11 +197,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6c3c61fec7198b29",
+  "active": "5ab3f70515b1b88c",
   "lastOpenFiles": [
+    "Maven&Gradle/Maven",
     "JUnit_단위_테스트/JUnit 프로젝트 - 1.md",
-    "Maven/Maven이란.md",
-    "Maven",
+    "Maven&Gradle/Maven/Maven이란.md",
+    "Maven&Gradle",
     "JUnit_단위_테스트/JUnit과 단위 테스트는 무엇인가.md",
     "Spring-React/인증 헤더 추가를 위한 Axios 인터셉터 설정.md",
     "Spring-React/프론트에서 로그인할 때 기본 인증 서비스 호출하기.md",
@@ -245,7 +245,6 @@
     "Projects - Demo Project/The Best Notes You'll Ever Make.md",
     "Spring-React/Untitled.md",
     "2024-05-14.md",
-    "1. Daily/2024-05-13.md",
     "무제 파일.canvas",
     "Untitled.canvas",
     "마인드맵.canvas"
