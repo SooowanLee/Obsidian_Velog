@@ -19,4 +19,9 @@ Maven프로젝트를 만들 것이기 때문에 당연히 Project에서 Maven을
 - Project : Maven
 - Language : Java
 - Spring Boot : 3.x.x / 스냅샷 버전은 현재 개발 중인 버전이라 절대 사용하면 안된다.
-- 
+- Group: study.maven
+- Artifact: learn-maven
+- 나머지는 손대지 않는다.
+---
+`Group` : 클래스의 패키지 이름과 비슷하다.
+`Artifact`: 다른 프로젝트에서 해당 프로젝트를 이용하고 싶을 때 참조
