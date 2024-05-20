@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로그래밍_지식/CORS(Cross-Origin-Resource-Sharing).md",
-                "mode": "source",
+                "file": "프로그래밍_지식/CORS(Cross-Origin-Resource-Sharing) 알아보기.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍_지식/CORS(Cross-Origin-Resource-Sharing).md",
+                "file": "프로그래밍_지식/CORS(Cross-Origin-Resource-Sharing) 알아보기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍_지식/CORS(Cross-Origin-Resource-Sharing).md",
+                "file": "프로그래밍_지식/CORS(Cross-Origin-Resource-Sharing) 알아보기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍_지식/CORS(Cross-Origin-Resource-Sharing).md"
+                "file": "프로그래밍_지식/CORS(Cross-Origin-Resource-Sharing) 알아보기.md"
               }
             }
           },
@@ -193,7 +193,7 @@
     "Spring_React_프로젝트/인증 헤더 추가를 위한 Axios 인터셉터 설정.md",
     "Spring_React_프로젝트/AuthContext에 기본 인증 토큰 설정하기.md",
     "Algorithm",
-    "프로그래밍_지식/CORS(Cross-Origin-Resource-Sharing).md",
+    "프로그래밍_지식/CORS(Cross-Origin-Resource-Sharing) 알아보기.md",
     "Git/SSH사용해서 Repository 연결하기.md",
     "JUnit_단위_테스트/JUnit 프로젝트 - 1.md",
     "JUnit_단위_테스트/JUnit과 단위 테스트는 무엇인가.md",

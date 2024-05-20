@@ -1,0 +1,29 @@
+## SOP(Same-Origin-Policy)
+> **같은 출처**의 자원만을 허용
+
+#### 여기에서 "출처"라는 것은 다음 세 가지 요소로 구성된다.
+아래 세가지 요소가 모두 같아야 동일한 출처로 본다.
+- `프로토콜`:  http, https
+- `호스트`: www.example.com
+- `포트`: 80, 443
+#### 예를 들어
+- http://www.ecample.com와 http://www.example.com/page2는 **동일한 출처**이다.
+	- 프로토콜:호스트:포트가 모두 같고 Path만 추가되었기 때문이다.
+- 하지만, https://www.example.com과 http://www.example.com은 **다른 출처**이다.
+	- 호스트:포트가 같더라도 프로토콜이 다르기 때문에 다른 출처이다.
+
+기본적으로 HTTP 브라우저는 SOP를 사용한다. 그래서 다른 출처에서 API요청 등을 하면 막아버린다. 
+하지만, 웹 애플리케이션의 경우 상호작용을 필요로 하는 경우가 많은데 다른 출저의 API를 모두 막아버리고 같은 출처의 자료만 사용할 수 있다면 너무 불편할 것이다.
+
+
+**다른 출처의 자원을 사용하고 싶다면 CORS를 사용하면된다.**
+## CORS(Cross-Origin-Resource-Sharing)
+> **다른 출처**의 자원을 공유
+
+**프로토콜:호스트:포트번호**중 하나라도 다르면 다른 출처라고 한다.
+### CORS 접근제어 시나리오
+- 단순 요청(Simple Request)
+- 프리플라이트 요청(Preflight Request)
+- 인증정보 포함 요청(Credentialed Request)
+
+
