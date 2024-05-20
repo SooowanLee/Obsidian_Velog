@@ -6,3 +6,5 @@
 - 프리플라이트 요청(Preflight Request)
 - 인증정보 포함 요청(Credentialed Request)
 
+### SOP(Same-Origin-Policy)
+> 같은 출처의 자원만을 허용
