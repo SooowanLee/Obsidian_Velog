@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maven&Gradle/Maven/pom.xml 살펴보기.md",
-                "mode": "preview",
+                "file": "프로그래밍_지식/CORS(Cross-Origin-Resource-Sharing).md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -87,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.50152587890625
+    "width": 280.50152587890625,
+    "collapsed": true
   },
   "right": {
     "id": "5a2dcc2e0a541c4d",
@@ -103,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maven&Gradle/Maven/pom.xml 살펴보기.md",
+                "file": "프로그래밍_지식/CORS(Cross-Origin-Resource-Sharing).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maven&Gradle/Maven/pom.xml 살펴보기.md",
+                "file": "프로그래밍_지식/CORS(Cross-Origin-Resource-Sharing).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maven&Gradle/Maven/pom.xml 살펴보기.md"
+                "file": "프로그래밍_지식/CORS(Cross-Origin-Resource-Sharing).md"
               }
             }
           },
@@ -185,17 +186,17 @@
   },
   "active": "871be7550e9a2397",
   "lastOpenFiles": [
-    "Algorithm",
-    "Maven&Gradle/Maven/pom.xml 살펴보기.md",
-    "Maven&Gradle/Maven/Spring Boot 프로젝트 Maven으로 생성하기.md",
     "Maven&Gradle/Maven/Maven이란.md",
-    "프로그래밍_지식/CORS.md",
+    "Maven&Gradle/Maven/Spring Boot 프로젝트 Maven으로 생성하기.md",
+    "Maven&Gradle/Maven/pom.xml 살펴보기.md",
+    "Spring_React_프로젝트/프론트에서 로그인할 때 기본 인증 서비스 호출하기.md",
+    "Spring_React_프로젝트/인증 헤더 추가를 위한 Axios 인터셉터 설정.md",
+    "Spring_React_프로젝트/AuthContext에 기본 인증 토큰 설정하기.md",
+    "Algorithm",
+    "프로그래밍_지식/CORS(Cross-Origin-Resource-Sharing).md",
     "Git/SSH사용해서 Repository 연결하기.md",
     "JUnit_단위_테스트/JUnit 프로젝트 - 1.md",
     "JUnit_단위_테스트/JUnit과 단위 테스트는 무엇인가.md",
-    "Spring-React/인증 헤더 추가를 위한 Axios 인터셉터 설정.md",
-    "Spring-React/프론트에서 로그인할 때 기본 인증 서비스 호출하기.md",
-    "Spring-React/AuthContext에 기본 인증 토큰 설정하기.md",
     "Maven&Gradle/Maven",
     "Maven&Gradle",
     "Spring-React/무제 파일.md",
@@ -221,9 +222,8 @@
     "Image file/프론트에서 로그인할 때 기본 인증 서비스 호출하기-20240516142026896.webp",
     "Spring-React/ㄴㅇ.md",
     "Spring-React/중요한거.md",
-    "Spring-React",
+    "Spring_React_프로젝트",
     "새 텍스트 문서.txt",
-    "Git",
     "Excalidraw/Drawing 2024-05-14 16.58.25.excalidraw.md",
     "Projects - Demo Project/Untitled.md",
     "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
