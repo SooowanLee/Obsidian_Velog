@@ -30,3 +30,9 @@
 ### Preflight(프리플라이트)
 - OPTIONS 메서드를 통해 다른 도메인의 리소스에 요청이 가능한 지 확인 작업
 - 요청이 가능하다면 실제 요청( Actual Request)을 보낸다.
+![](https://i.imgur.com/vpj0Olj.png)
+
+PREFLIGHT REQUEST
+- Origin : 요청출처
+- Access-Control-Request-Method : 실제 요청의 메서드
+- Access-Control-Request-Headers : 실제 요청의 추가 헤더
