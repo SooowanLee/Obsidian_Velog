@@ -27,3 +27,6 @@
 - 프리플라이트 요청(Preflight Request)
 - 인증정보 포함 요청(Credentialed Request)
 
+### Preflight(프리플라이트)
+- OPTIONS 메서드를 통해 다른 도메인의 리소스에 요청이 가능한 지 확인 작업
+- 요청이 가능하다면 실제 요청( Actual Request)을 보낸다.
