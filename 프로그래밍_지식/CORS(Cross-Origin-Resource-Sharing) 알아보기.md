@@ -43,3 +43,7 @@ PREFLIGHT RESPONSE
 - Access-Control-Allow-Headers : 서버 측 허가 헤더
 - Access-Control-Max-Age : 응답 캐시 시간
 ![](https://i.imgur.com/BqTCxir.png)
+
+Preflight Response 특징
+- 응답 코드는 200대여야 한다.
+- 응답 바디는 비어있는 것이 좋다.
