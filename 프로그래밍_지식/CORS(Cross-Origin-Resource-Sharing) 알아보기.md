@@ -35,4 +35,11 @@
 PREFLIGHT REQUEST
 - Origin : 요청출처
 - Access-Control-Request-Method : 실제 요청의 메서드
-- Access-Control-Request-Headers : 실제 요청의 추가 헤더
+- Access-Control-Request-Headers : 실제 요청의 추가 헤더![](https://i.imgur.com/IXA7WY6.png)
+
+PREFLIGHT RESPONSE
+- Access-Control-Allow-Origin : 서버 측 허가 출처
+- Access-Control-Allow-Methods : 서버 측 허가 메서드
+- Access-Control-Allow-Headers : 서버 측 허가 헤더
+- Access-Control-Max-Age : 응답 캐시 시간
+![](https://i.imgur.com/BqTCxir.png)
