@@ -27,5 +27,3 @@
 - 프리플라이트 요청(Preflight Request)
 - 인증정보 포함 요청(Credentialed Request)
 
-
-
