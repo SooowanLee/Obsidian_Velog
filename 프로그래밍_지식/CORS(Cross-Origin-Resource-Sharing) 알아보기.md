@@ -72,3 +72,4 @@ credentials: include
 
 서버
 Access-Control-Allow-Credentalis : true
+특정 출처만 허용 가능 : Access-Control-Allow-Origin : *(와일드카드)를 사용할 수 없다.
