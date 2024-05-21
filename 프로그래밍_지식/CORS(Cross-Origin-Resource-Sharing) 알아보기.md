@@ -15,7 +15,7 @@
 기본적으로 웹 브라우저는 SOP를 사용한다. 그래서 다른 출처에서 API요청 등을 하면 막아버린다. 
 하지만, 웹 애플리케이션의 경우 상호작용을 필요로 하는 경우가 많은데 다른 출저의 API를 모두 막아버리고 같은 출처의 자료만 사용할 수 있다면 너무 불편할 것이다.
 
-
+---
 **다른 출처의 자원을 사용하고 싶다면 CORS를 사용하면된다.**
 ## CORS(Cross-Origin-Resource-Sharing)
 > **다른 출처**의 자원을 공유
@@ -47,6 +47,7 @@ PREFLIGHT RESPONSE
 Preflight Response 특징
 - 응답 코드는 200대여야 한다.
 - 응답 바디는 비어있는 것이 좋다.
+---
 ### Simple Request
 > Preflight 요청 없이 바로 본 요청을 보낸다.
 
@@ -59,3 +60,15 @@ Preflight Response 특징
 - 헤더는 Accept, Accept-Language, Content-Language, Content-Type만 허용된다.
 
 ### 왜 굳이 두번 요청을 하는 Preflight를 사용해야할까?
+- 보안강화 : 민감한 데이터가 포함된 요청이 서버의 상태를 변경할 수 있는 요청이 있을 경우, 브라우저는 사전에 서버의 허가를 받습니다. 
+	- 예를 들어서 **PUT, DELETE** 같은 **서버의 정보**를 **수정**하거나 **삭제**하는 요청을 **CORS가 없는 서버**가 받았다면 **이미 SERVER에서 요청을 처리**하고 **브라우저에 응답**을 하는데 
+	- 그제서야 **브라우저**는 **CORS 에러를 발생**해서 **CLIENT에 보낸다**면 SERVER는 **이미 데이터**는 **수정, 삭제**한 후이기 때문에 **크리티컬한 문제가 발생**한다.
+---
+### Credentialed Request
+> 인증 관련 헤더를 호함할 때 사용하는 요청
+
+클라이언트
+credentials: include
+
+서버
+Access-Control-Allow-Credentalis : true
