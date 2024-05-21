@@ -8,9 +8,9 @@
 - `포트`: 80, 443
 #### 예를 들어
 - http://www.ecample.com와 http://www.example.com/page2는 **동일한 출처**이다.
-	- 프로토콜:호스트:포트가 모두 같고 Path만 추가되었기 때문이다.
+	- 프로토콜:호스트:포트가 **모두 같고 Path만 추가**되었기 때문이다.
 - 하지만, https://www.example.com과 http://www.example.com은 **다른 출처**이다.
-	- 호스트:포트가 같더라도 프로토콜이 다르기 때문에 다른 출처이다.
+	- 호스트:포트가 같더라도 **프로토콜이 다르기 때문**에 다른 출처이다.
 
 기본적으로 웹 브라우저는 SOP를 사용한다. 그래서 다른 출처에서 API요청 등을 하면 막아버린다. 
 하지만, 웹 애플리케이션의 경우 상호작용을 필요로 하는 경우가 많은데 다른 출저의 API를 모두 막아버리고 같은 출처의 자료만 사용할 수 있다면 너무 불편할 것이다.
@@ -32,19 +32,19 @@
 - 요청이 가능하다면 실제 요청( Actual Request)을 보낸다.
 ![](https://i.imgur.com/vpj0Olj.png)
 
-PREFLIGHT REQUEST
+**PREFLIGHT REQUEST**
 - Origin : 요청출처
 - Access-Control-Request-Method : 실제 요청의 메서드
 - Access-Control-Request-Headers : 실제 요청의 추가 헤더![](https://i.imgur.com/IXA7WY6.png)
 
-PREFLIGHT RESPONSE
+**PREFLIGHT RESPONSE**
 - Access-Control-Allow-Origin : 서버 측 허가 출처
 - Access-Control-Allow-Methods : 서버 측 허가 메서드
 - Access-Control-Allow-Headers : 서버 측 허가 헤더
 - Access-Control-Max-Age : 응답 캐시 시간
 ![](https://i.imgur.com/BqTCxir.png)
 
-Preflight Response 특징
+**Preflight Response 특징**
 - 응답 코드는 200대여야 한다.
 - 응답 바디는 비어있는 것이 좋다.
 ---
