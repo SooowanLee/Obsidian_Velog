@@ -47,3 +47,13 @@ PREFLIGHT RESPONSE
 Preflight Response 특징
 - 응답 코드는 200대여야 한다.
 - 응답 바디는 비어있는 것이 좋다.
+### Simple Request
+> Preflight 요청 없이 바로 본 요청을 보낸다.
+
+#### 다음 조건을 모두 만족해야 한다.
+- GET, POST, HEAD 메서드 중 하나여야한다.
+- Content-Type
+	- application/x-www-form-urlencoded
+	- multipart/form-data
+	- text/plain
+- 헤더는 Accept, Accept-Language, Content-Language, Content-Type만 허용된다.
