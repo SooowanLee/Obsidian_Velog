@@ -52,8 +52,10 @@ Preflight Response 특징
 
 #### 다음 조건을 모두 만족해야 한다.
 - GET, POST, HEAD 메서드 중 하나여야한다.
-- Content-Type
+- Content-Type / 아래 중 하나의 타입이어야한다.
 	- application/x-www-form-urlencoded
 	- multipart/form-data
 	- text/plain
 - 헤더는 Accept, Accept-Language, Content-Language, Content-Type만 허용된다.
+
+### 왜 굳이 두번 요청을 하는 Preflight를 사용해야할까?
