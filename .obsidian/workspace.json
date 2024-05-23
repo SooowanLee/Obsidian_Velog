@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2c500eaee3d5f6b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "프로그래밍_지식/무제 파일.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.50152587890625,
-    "collapsed": true
+    "width": 280.50152587890625
   },
   "right": {
     "id": "5a2dcc2e0a541c4d",
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍_지식/CORS(Cross-Origin-Resource-Sharing) 알아보기.md",
+                "file": "프로그래밍_지식/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍_지식/CORS(Cross-Origin-Resource-Sharing) 알아보기.md",
+                "file": "프로그래밍_지식/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로그래밍_지식/CORS(Cross-Origin-Resource-Sharing) 알아보기.md"
+                "file": "프로그래밍_지식/무제 파일.md"
               }
             }
           },
@@ -184,8 +197,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "871be7550e9a2397",
+  "active": "2c500eaee3d5f6b3",
   "lastOpenFiles": [
+    "프로그래밍_지식/CORS(Cross-Origin-Resource-Sharing) 알아보기.md",
+    "프로그래밍_지식/무제 파일.md",
     "Maven&Gradle/Maven/Maven이란.md",
     "Maven&Gradle/Maven/Spring Boot 프로젝트 Maven으로 생성하기.md",
     "Maven&Gradle/Maven/pom.xml 살펴보기.md",
@@ -193,7 +208,6 @@
     "Spring_React_프로젝트/인증 헤더 추가를 위한 Axios 인터셉터 설정.md",
     "Spring_React_프로젝트/AuthContext에 기본 인증 토큰 설정하기.md",
     "Algorithm",
-    "프로그래밍_지식/CORS(Cross-Origin-Resource-Sharing) 알아보기.md",
     "Git/SSH사용해서 Repository 연결하기.md",
     "JUnit_단위_테스트/JUnit 프로젝트 - 1.md",
     "JUnit_단위_테스트/JUnit과 단위 테스트는 무엇인가.md",
