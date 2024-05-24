@@ -8,16 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "871be7550e9a2397",
+            "id": "74c2e4723d46a639",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "프로그래밍_지식/CORS(Cross-Origin-Resource-Sharing) 알아보기.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "obsidian-projects",
+              "state": {}
             }
           }
         ]
@@ -103,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로그래밍_지식/CORS(Cross-Origin-Resource-Sharing) 알아보기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로그래밍_지식/CORS(Cross-Origin-Resource-Sharing) 알아보기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +135,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "프로그래밍_지식/CORS(Cross-Origin-Resource-Sharing) 알아보기.md"
-              }
+              "state": {}
             }
           },
           {
@@ -183,16 +174,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "871be7550e9a2397",
+  "active": "74c2e4723d46a639",
   "lastOpenFiles": [
-    "프로그래밍_지식/무제 파일.md",
+    "EasyDocker/가상화 기술.md",
+    "EasyDocker/가상화 기술",
     "프로그래밍_지식/CORS(Cross-Origin-Resource-Sharing) 알아보기.md",
+    "자바TPC(생각하고, 표현하고, 코딩하고)/무제 파일.md",
+    "EasyDocker",
+    "자바TCP/무제 파일 1.md",
+    "자바TPC(생각하고, 표현하고, 코딩하고)",
+    "Spring_React_프로젝트/AuthContext에 기본 인증 토큰 설정하기.md",
+    "Spring_React_프로젝트/인증 헤더 추가를 위한 Axios 인터셉터 설정.md",
+    "Spring_React_프로젝트/프론트에서 로그인할 때 기본 인증 서비스 호출하기.md",
     "Maven&Gradle/Maven/Maven이란.md",
     "Maven&Gradle/Maven/Spring Boot 프로젝트 Maven으로 생성하기.md",
     "Maven&Gradle/Maven/pom.xml 살펴보기.md",
-    "Spring_React_프로젝트/프론트에서 로그인할 때 기본 인증 서비스 호출하기.md",
-    "Spring_React_프로젝트/인증 헤더 추가를 위한 Axios 인터셉터 설정.md",
-    "Spring_React_프로젝트/AuthContext에 기본 인증 토큰 설정하기.md",
     "Algorithm",
     "Git/SSH사용해서 Repository 연결하기.md",
     "JUnit_단위_테스트/JUnit 프로젝트 - 1.md",
@@ -213,7 +209,6 @@
     "Image",
     "Image/Untitled Diagram.svg",
     "프론트에서 로그인할 때 기본 인증 서비스 호출하기-20240516150327501.webp",
-    "4913",
     "Image file/Pasted image 20240515222843.png",
     "Image file/Pasted image 20240516144037.png",
     "Image file/프론트에서 로그인할 때 기본 인증 서비스 호출하기-20240516142105596.webp",
@@ -222,15 +217,10 @@
     "Image file/프론트에서 로그인할 때 기본 인증 서비스 호출하기-20240516142026896.webp",
     "Spring-React/ㄴㅇ.md",
     "Spring-React/중요한거.md",
-    "Spring_React_프로젝트",
-    "새 텍스트 문서.txt",
     "Excalidraw/Drawing 2024-05-14 16.58.25.excalidraw.md",
     "Projects - Demo Project/Untitled.md",
     "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
     "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
-    "Projects - Demo Project/Why You Should Be Taking More Notes.md",
-    "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
-    "Projects - Demo Project/The Best Notes You'll Ever Make.md",
     "무제 파일.canvas",
     "Untitled.canvas",
     "마인드맵.canvas"

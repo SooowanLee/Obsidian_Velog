@@ -10,7 +10,7 @@
       "dataSource": {
         "kind": "folder",
         "config": {
-          "path": "Spring-React",
+          "path": "Spring_React_프로젝트",
           "recursive": false
         }
       },
@@ -74,6 +74,41 @@
       ],
       "id": "15ec2cbc-5211-4cc7-8f08-35aedd383c25",
       "name": "Spring-React"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "EasyDocker",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "c4849dfd-570c-4d3e-b75a-37f701794918",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "871a6df0-87d3-4eff-9361-5dff24baf521",
+      "name": "EasyDocker"
     }
   ],
   "archives": [],
