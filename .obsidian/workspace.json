@@ -11,11 +11,25 @@
             "id": "74c2e4723d46a639",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EasyDocker/가상화 기술/애플리케이션 서버.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "acb39831f06925e4",
+            "type": "leaf",
+            "state": {
               "type": "obsidian-projects",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.50152587890625
+    "width": 280.50152587890625,
+    "collapsed": true
   },
   "right": {
     "id": "5a2dcc2e0a541c4d",
@@ -174,8 +189,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "74c2e4723d46a639",
+  "active": "acb39831f06925e4",
   "lastOpenFiles": [
+    "EasyDocker/가상화 기술/애플리케이션 서버.md",
     "EasyDocker/가상화 기술.md",
     "EasyDocker/가상화 기술",
     "프로그래밍_지식/CORS(Cross-Origin-Resource-Sharing) 알아보기.md",
@@ -196,7 +212,6 @@
     "Maven&Gradle/Maven",
     "Maven&Gradle",
     "Spring-React/무제 파일.md",
-    "무제 파일.md",
     "JUnit_단위_테스트",
     "Spring-React/JWT 및 Spring Security 시작하기.md",
     "프로젝트 만들면서 배운 컴퓨터 지식/JWT.md",

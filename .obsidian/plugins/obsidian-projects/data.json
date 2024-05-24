@@ -91,7 +91,15 @@
       "newNotesFolder": "",
       "views": [
         {
-          "config": {},
+          "config": {
+            "orderFields": [
+              "name",
+              "path",
+              "상태",
+              "시작일",
+              "마감일"
+            ]
+          },
           "filter": {
             "conjunction": "and",
             "conditions": []
