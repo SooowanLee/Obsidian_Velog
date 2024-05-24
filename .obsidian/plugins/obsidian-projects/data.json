@@ -84,7 +84,7 @@
       "dataSource": {
         "kind": "folder",
         "config": {
-          "path": "EasyDocker",
+          "path": "EasyDocker/가상화 기술",
           "recursive": false
         }
       },
@@ -116,7 +116,7 @@
         }
       ],
       "id": "871a6df0-87d3-4eff-9361-5dff24baf521",
-      "name": "EasyDocker"
+      "name": "쉬운도커/가상화_기술"
     }
   ],
   "archives": [],
