@@ -14,13 +14,27 @@
               "type": "markdown",
               "state": {
                 "file": "EasyDocker/가상화 기술/하이퍼바이저 가상화.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b72a8538a93f1bd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EasyDocker/가상화 기술/컨테이너 가상화.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EasyDocker/가상화 기술/하이퍼바이저 가상화.md",
+                "file": "EasyDocker/가상화 기술/컨테이너 가상화.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EasyDocker/가상화 기술/하이퍼바이저 가상화.md",
+                "file": "EasyDocker/가상화 기술/컨테이너 가상화.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EasyDocker/가상화 기술/하이퍼바이저 가상화.md"
+                "file": "EasyDocker/가상화 기술/컨테이너 가상화.md"
               }
             }
           },
@@ -184,15 +198,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7faf91ca7ac40648",
+  "active": "b72a8538a93f1bd7",
   "lastOpenFiles": [
+    "EasyDocker/가상화 기술/하이퍼바이저 가상화.md",
+    "EasyDocker/가상화 기술/컨테이너 가상화.md",
+    "자바TPC(생각하고, 표현하고, 코딩하고)/무제 파일.md",
     "무제 파일.md",
     "EasyDocker/가상화 기술/애플리케이션 서버.md",
-    "EasyDocker/가상화 기술/하이퍼바이저 가상화.md",
     "EasyDocker/가상화 기술.md",
     "EasyDocker/가상화 기술",
     "프로그래밍_지식/CORS(Cross-Origin-Resource-Sharing) 알아보기.md",
-    "자바TPC(생각하고, 표현하고, 코딩하고)/무제 파일.md",
     "EasyDocker",
     "자바TCP/무제 파일 1.md",
     "자바TPC(생각하고, 표현하고, 코딩하고)",
@@ -231,7 +246,6 @@
     "Spring-React/중요한거.md",
     "Excalidraw/Drawing 2024-05-14 16.58.25.excalidraw.md",
     "Projects - Demo Project/Untitled.md",
-    "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
     "무제 파일.canvas",
     "Untitled.canvas",
     "마인드맵.canvas"
