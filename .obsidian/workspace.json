@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EasyDocker/가상화 기술/하이퍼바이저 가상화.md",
+                "file": "EasyDocker/가상화 기술/컨테이너 실행.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -114,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.50152587890625
+    "width": 280.50152587890625,
+    "collapsed": true
   },
   "right": {
     "id": "5a2dcc2e0a541c4d",
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EasyDocker/가상화 기술/하이퍼바이저 가상화.md",
+                "file": "EasyDocker/가상화 기술/컨테이너 실행.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EasyDocker/가상화 기술/하이퍼바이저 가상화.md",
+                "file": "EasyDocker/가상화 기술/컨테이너 실행.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EasyDocker/가상화 기술/하이퍼바이저 가상화.md"
+                "file": "EasyDocker/가상화 기술/컨테이너 실행.md"
               }
             }
           },
@@ -212,10 +213,10 @@
   },
   "active": "18b8ab601dea2d3c",
   "lastOpenFiles": [
-    "EasyDocker/가상화 기술/컨테이너 실행.md",
-    "EasyDocker/가상화 기술/컨테이너 가상화.md",
     "EasyDocker/가상화 기술/도커(Docker) 란.md",
+    "EasyDocker/가상화 기술/컨테이너 가상화.md",
     "EasyDocker/가상화 기술/하이퍼바이저 가상화.md",
+    "EasyDocker/가상화 기술/컨테이너 실행.md",
     "자바TPC(생각하고, 표현하고, 코딩하고)/무제 파일.md",
     "무제 파일.md",
     "EasyDocker/가상화 기술/애플리케이션 서버.md",
