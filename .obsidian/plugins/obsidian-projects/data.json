@@ -74,49 +74,6 @@
       ],
       "id": "15ec2cbc-5211-4cc7-8f08-35aedd383c25",
       "name": "Spring-React"
-    },
-    {
-      "fieldConfig": {},
-      "defaultName": "",
-      "templates": [],
-      "excludedNotes": [],
-      "isDefault": false,
-      "dataSource": {
-        "kind": "folder",
-        "config": {
-          "path": "EasyDocker/가상화 기술",
-          "recursive": false
-        }
-      },
-      "newNotesFolder": "",
-      "views": [
-        {
-          "config": {
-            "orderFields": [
-              "name",
-              "path",
-              "상태",
-              "시작일",
-              "마감일"
-            ]
-          },
-          "filter": {
-            "conjunction": "and",
-            "conditions": []
-          },
-          "colors": {
-            "conditions": []
-          },
-          "sort": {
-            "criteria": []
-          },
-          "id": "c4849dfd-570c-4d3e-b75a-37f701794918",
-          "name": "Table",
-          "type": "table"
-        }
-      ],
-      "id": "871a6df0-87d3-4eff-9361-5dff24baf521",
-      "name": "쉬운도커/가상화_기술"
     }
   ],
   "archives": [],
