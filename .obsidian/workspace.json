@@ -19,16 +19,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a007da6be977680f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/이미지_메타데이터.md"
-              }
-            }
           }
         ]
       }
@@ -97,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.50152587890625,
-    "collapsed": true
+    "width": 280.50152587890625
   },
   "right": {
     "id": "5a2dcc2e0a541c4d",
