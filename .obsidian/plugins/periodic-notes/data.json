@@ -3,8 +3,8 @@
   "hasMigratedDailyNoteSettings": false,
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
-    "format": "",
-    "template": "1. Daily/Daily_Template.md",
+    "format": "YYYY년-MMM-DD일 (dd)",
+    "template": "Template/Daily_Template.md",
     "folder": "1. Daily",
     "enabled": true
   },

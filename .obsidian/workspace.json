@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024-05-27.md",
+                "file": "1. Daily/2024년-5월-27일 (월).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -114,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.50152587890625,
-    "collapsed": true
+    "width": 280.50152587890625
   },
   "right": {
     "id": "5a2dcc2e0a541c4d",
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2024-05-27.md",
+                "file": "1. Daily/2024년-5월-27일 (월).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2024-05-27.md",
+                "file": "1. Daily/2024년-5월-27일 (월).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2024-05-27.md"
+                "file": "1. Daily/2024년-5월-27일 (월).md"
               }
             }
           },
@@ -191,11 +190,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,7 +213,12 @@
   },
   "active": "4590c529a3bb19dc",
   "lastOpenFiles": [
-    "1. Daily/Daily_Template.md",
+    "Template/Daily_Template.md",
+    "1. Daily/2024년-5월-27일 (월).md",
+    "Template",
+    "1. Daily/2024년/5월/27일 (월).md",
+    "1. Daily/2024년/5월",
+    "1. Daily/2024년",
     "1. Daily/2024-05-27.md",
     "EasyDocker/이미지와 컨테이너/도커 이미지와 컨테이너 - 메타데이터.md",
     "2024-05-27.md",
@@ -241,13 +247,7 @@
     "Algorithm",
     "Git/SSH사용해서 Repository 연결하기.md",
     "JUnit_단위_테스트/JUnit 프로젝트 - 1.md",
-    "JUnit_단위_테스트/JUnit과 단위 테스트는 무엇인가.md",
     "Maven&Gradle/Maven",
-    "Maven&Gradle",
-    "Spring-React/무제 파일.md",
-    "JUnit_단위_테스트",
-    "Spring-React/JWT 및 Spring Security 시작하기.md",
-    "프로젝트 만들면서 배운 컴퓨터 지식/CORS.md~",
     "Image/Pasted image 20240516150750.png",
     "Image/프론트에서 로그인할 때 기본 인증 서비스 호출하기-20240516150453135.webp",
     "Image/Untitled Diagram.svg",
