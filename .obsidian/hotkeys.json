@@ -71,5 +71,15 @@
       ],
       "key": "D"
     }
+  ],
+  "obsidian-excalidraw-plugin:crop-image": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
   ]
 }
