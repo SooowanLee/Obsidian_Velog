@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b622f258951b9846",
+        "id": "19eb80d9bfbcc47c",
         "type": "tabs",
         "children": [
           {
-            "id": "4590c529a3bb19dc",
+            "id": "05aae6aef4efe4a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "도커(Docker)/이미지와 컨테이너/도커 이미지와 컨테이너 - 메타데이터.md",
-                "mode": "preview",
+                "file": "자바TPC(생각하고, 표현하고, 코딩하고)/무제 파일.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.50152587890625,
-    "collapsed": true
+    "width": 280.50152587890625
   },
   "right": {
     "id": "5a2dcc2e0a541c4d",
@@ -104,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "도커(Docker)/이미지와 컨테이너/도커 이미지와 컨테이너 - 메타데이터.md",
+                "file": "자바TPC(생각하고, 표현하고, 코딩하고)/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "도커(Docker)/이미지와 컨테이너/도커 이미지와 컨테이너 - 메타데이터.md",
+                "file": "자바TPC(생각하고, 표현하고, 코딩하고)/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "도커(Docker)/이미지와 컨테이너/도커 이미지와 컨테이너 - 메타데이터.md"
+                "file": "자바TPC(생각하고, 표현하고, 코딩하고)/무제 파일.md"
               }
             }
           },
@@ -185,11 +184,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4590c529a3bb19dc",
+  "active": "05aae6aef4efe4a6",
   "lastOpenFiles": [
-    "프로그래밍_지식/CORS(Cross-Origin-Resource-Sharing) 알아보기.md",
     "1. Daily/2024년-5월-27일 (월).md",
+    "자바TPC(생각하고, 표현하고, 코딩하고)/무제 파일.md",
     "도커(Docker)/이미지와 컨테이너/도커 이미지와 컨테이너 - 메타데이터.md",
+    "프로그래밍_지식/CORS(Cross-Origin-Resource-Sharing) 알아보기.md",
     "Excalidraw/이미지_메타데이터.md",
     "Excalidraw/Drawing 2024-05-27 13.37.12.excalidraw.md",
     "Excalidraw/Drawing 2024-05-27 13.32.02.excalidraw.md",
@@ -209,7 +209,6 @@
     "도커(Docker)/가상화 기술/하이퍼바이저 가상화.md",
     "도커(Docker)/가상화 기술/컨테이너 가상화.md",
     "도커(Docker)/가상화 기술/도커(Docker) 란.md",
-    "자바TPC(생각하고, 표현하고, 코딩하고)/무제 파일.md",
     "무제 파일.md",
     "도커(Docker)/가상화 기술/애플리케이션 서버.md",
     "EasyDocker/가상화 기술.md",
