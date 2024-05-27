@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EasyDocker/이미지와 컨테이너/도커 이미지와 컨테이너 - 메타데이터.md",
-                "mode": "source",
+                "file": "도커(Docker)/이미지와 컨테이너/도커 이미지와 컨테이너 - 메타데이터.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EasyDocker/이미지와 컨테이너/도커 이미지와 컨테이너 - 메타데이터.md",
+                "file": "도커(Docker)/이미지와 컨테이너/도커 이미지와 컨테이너 - 메타데이터.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EasyDocker/이미지와 컨테이너/도커 이미지와 컨테이너 - 메타데이터.md",
+                "file": "도커(Docker)/이미지와 컨테이너/도커 이미지와 컨테이너 - 메타데이터.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EasyDocker/이미지와 컨테이너/도커 이미지와 컨테이너 - 메타데이터.md"
+                "file": "도커(Docker)/이미지와 컨테이너/도커 이미지와 컨테이너 - 메타데이터.md"
               }
             }
           },
@@ -187,15 +187,16 @@
   },
   "active": "4590c529a3bb19dc",
   "lastOpenFiles": [
-    "Excalidraw/이미지_메타데이터.md",
-    "EasyDocker/이미지와 컨테이너/도커 이미지와 컨테이너 - 메타데이터.md",
-    "Excalidraw/Drawing 2024-05-27 13.37.12.excalidraw.md",
+    "프로그래밍_지식/CORS(Cross-Origin-Resource-Sharing) 알아보기.md",
     "1. Daily/2024년-5월-27일 (월).md",
+    "도커(Docker)/이미지와 컨테이너/도커 이미지와 컨테이너 - 메타데이터.md",
+    "Excalidraw/이미지_메타데이터.md",
+    "Excalidraw/Drawing 2024-05-27 13.37.12.excalidraw.md",
     "Excalidraw/Drawing 2024-05-27 13.32.02.excalidraw.md",
     "Excalidraw/Drawing 2024-05-27 13.30.33.excalidraw.md",
-    "EasyDocker/이미지와 컨테이너/도커에서 이미지란.md",
+    "도커(Docker)/이미지와 컨테이너/도커에서 이미지란.md",
     "Excalidraw",
-    "EasyDocker/가상화 기술/컨테이너 실행.md",
+    "도커(Docker)/가상화 기술/컨테이너 실행.md",
     "Template/Daily_Template.md",
     "Template",
     "1. Daily/2024년/5월/27일 (월).md",
@@ -204,17 +205,16 @@
     "1. Daily/2024-05-27.md",
     "2024-05-27.md",
     "1. Daily",
-    "EasyDocker/이미지와 컨테이너",
-    "EasyDocker/가상화 기술/하이퍼바이저 가상화.md",
-    "EasyDocker/가상화 기술/컨테이너 가상화.md",
-    "EasyDocker/가상화 기술/도커(Docker) 란.md",
+    "도커(Docker)/이미지와 컨테이너",
+    "도커(Docker)/가상화 기술/하이퍼바이저 가상화.md",
+    "도커(Docker)/가상화 기술/컨테이너 가상화.md",
+    "도커(Docker)/가상화 기술/도커(Docker) 란.md",
     "자바TPC(생각하고, 표현하고, 코딩하고)/무제 파일.md",
     "무제 파일.md",
-    "EasyDocker/가상화 기술/애플리케이션 서버.md",
+    "도커(Docker)/가상화 기술/애플리케이션 서버.md",
     "EasyDocker/가상화 기술.md",
-    "EasyDocker/가상화 기술",
-    "프로그래밍_지식/CORS(Cross-Origin-Resource-Sharing) 알아보기.md",
-    "EasyDocker",
+    "도커(Docker)/가상화 기술",
+    "도커(Docker)",
     "자바TCP/무제 파일 1.md",
     "자바TPC(생각하고, 표현하고, 코딩하고)",
     "Spring_React_프로젝트/AuthContext에 기본 인증 토큰 설정하기.md",
