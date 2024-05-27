@@ -21,7 +21,7 @@
             }
           },
           {
-            "id": "a33f413203aeb7d2",
+            "id": "045a66195aebac0f",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -196,13 +196,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a33f413203aeb7d2",
+  "active": "045a66195aebac0f",
   "lastOpenFiles": [
     "EasyDocker/이미지와 컨테이너/도커 이미지와 컨테이너 - 메타데이터.md",
     "Excalidraw/Drawing 2024-05-27 13.24.38.excalidraw.md",
+    "1. Daily/2024년-5월-27일 (월).md",
+    "Excalidraw/Drawing 2024-05-27 13.32.02.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-27 13.30.33.excalidraw.md",
     "EasyDocker/이미지와 컨테이너/도커에서 이미지란.md",
     "Excalidraw",
-    "1. Daily/2024년-5월-27일 (월).md",
     "EasyDocker/가상화 기술/컨테이너 실행.md",
     "Template/Daily_Template.md",
     "Template",
@@ -232,8 +234,6 @@
     "Maven&Gradle/Maven/Spring Boot 프로젝트 Maven으로 생성하기.md",
     "Maven&Gradle/Maven/pom.xml 살펴보기.md",
     "Algorithm",
-    "Git/SSH사용해서 Repository 연결하기.md",
-    "JUnit_단위_테스트/JUnit 프로젝트 - 1.md",
     "Image/Pasted image 20240516150750.png",
     "Image/프론트에서 로그인할 때 기본 인증 서비스 호출하기-20240516150453135.webp",
     "Image/Untitled Diagram.svg",

@@ -46,9 +46,10 @@
   "periodic-notes:open-daily-note": [
     {
       "modifiers": [
-        "Alt"
+        "Mod",
+        "Shift"
       ],
-      "key": "D"
+      "key": "1"
     }
   ],
   "obsidian-excalidraw-plugin:export-image": [
@@ -59,6 +60,16 @@
         "Shift"
       ],
       "key": "E"
+    }
+  ],
+  "obsidian-excalidraw-plugin:excalidraw-autocreate-newtab": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
     }
   ]
 }
