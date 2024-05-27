@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "자바TPC(생각하고, 표현하고, 코딩하고)/무제 파일.md",
+                "file": "자바TPC(생각하고, 표현하고, 코딩하고)/자바의 배열(Array).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.50152587890625
+    "width": 280.50152587890625,
+    "collapsed": true
   },
   "right": {
     "id": "5a2dcc2e0a541c4d",
@@ -103,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "자바TPC(생각하고, 표현하고, 코딩하고)/무제 파일.md",
+                "file": "자바TPC(생각하고, 표현하고, 코딩하고)/자바의 배열(Array).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "자바TPC(생각하고, 표현하고, 코딩하고)/무제 파일.md",
+                "file": "자바TPC(생각하고, 표현하고, 코딩하고)/자바의 배열(Array).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "자바TPC(생각하고, 표현하고, 코딩하고)/무제 파일.md"
+                "file": "자바TPC(생각하고, 표현하고, 코딩하고)/자바의 배열(Array).md"
               }
             }
           },
@@ -187,7 +188,7 @@
   "active": "05aae6aef4efe4a6",
   "lastOpenFiles": [
     "1. Daily/2024년-5월-27일 (월).md",
-    "자바TPC(생각하고, 표현하고, 코딩하고)/무제 파일.md",
+    "자바TPC(생각하고, 표현하고, 코딩하고)/자바의 배열(Array).md",
     "도커(Docker)/이미지와 컨테이너/도커 이미지와 컨테이너 - 메타데이터.md",
     "프로그래밍_지식/CORS(Cross-Origin-Resource-Sharing) 알아보기.md",
     "Excalidraw/이미지_메타데이터.md",
