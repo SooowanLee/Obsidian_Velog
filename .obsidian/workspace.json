@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024-05-27.md",
+                "file": "1. Daily/Daily.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -114,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.50152587890625,
-    "collapsed": true
+    "width": 280.50152587890625
   },
   "right": {
     "id": "5a2dcc2e0a541c4d",
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2024-05-27.md",
+                "file": "1. Daily/Daily.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2024-05-27.md",
+                "file": "1. Daily/Daily.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2024-05-27.md"
+                "file": "1. Daily/Daily.md"
               }
             }
           },
@@ -214,7 +213,7 @@
   "active": "4590c529a3bb19dc",
   "lastOpenFiles": [
     "EasyDocker/이미지와 컨테이너/도커 이미지와 컨테이너 - 메타데이터.md",
-    "1. Daily/2024-05-27.md",
+    "1. Daily/Daily.md",
     "2024-05-27.md",
     "1. Daily",
     "EasyDocker/이미지와 컨테이너/도커에서 이미지란.md",
