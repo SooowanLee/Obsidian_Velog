@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/Daily.md",
+                "file": "1. Daily/2024-05-27.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -114,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.50152587890625
+    "width": 280.50152587890625,
+    "collapsed": true
   },
   "right": {
     "id": "5a2dcc2e0a541c4d",
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/Daily.md",
+                "file": "1. Daily/2024-05-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/Daily.md",
+                "file": "1. Daily/2024-05-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/Daily.md"
+                "file": "1. Daily/2024-05-27.md"
               }
             }
           },
@@ -212,8 +213,8 @@
   },
   "active": "4590c529a3bb19dc",
   "lastOpenFiles": [
+    "1. Daily/Daily_Template.md",
     "1. Daily/2024-05-27.md",
-    "1. Daily/Daily.md",
     "EasyDocker/이미지와 컨테이너/도커 이미지와 컨테이너 - 메타데이터.md",
     "2024-05-27.md",
     "1. Daily",
