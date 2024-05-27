@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EasyDocker/이미지와 컨테이너/도커 이미지와 컨테이너 - 메타데이터.md",
+                "file": "1. Daily/2024-05-27.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EasyDocker/이미지와 컨테이너/도커 이미지와 컨테이너 - 메타데이터.md",
+                "file": "1. Daily/2024-05-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EasyDocker/이미지와 컨테이너/도커 이미지와 컨테이너 - 메타데이터.md",
+                "file": "1. Daily/2024-05-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EasyDocker/이미지와 컨테이너/도커 이미지와 컨테이너 - 메타데이터.md"
+                "file": "1. Daily/2024-05-27.md"
               }
             }
           },
@@ -213,10 +213,12 @@
   },
   "active": "4590c529a3bb19dc",
   "lastOpenFiles": [
-    "EasyDocker/이미지와 컨테이너/도커에서 이미지란.md",
     "EasyDocker/이미지와 컨테이너/도커 이미지와 컨테이너 - 메타데이터.md",
+    "1. Daily/2024-05-27.md",
+    "2024-05-27.md",
+    "1. Daily",
+    "EasyDocker/이미지와 컨테이너/도커에서 이미지란.md",
     "EasyDocker/가상화 기술/컨테이너 실행.md",
-    "무제 폴더",
     "EasyDocker/이미지와 컨테이너",
     "EasyDocker/가상화 기술/하이퍼바이저 가상화.md",
     "EasyDocker/가상화 기술/컨테이너 가상화.md",
@@ -246,9 +248,7 @@
     "JUnit_단위_테스트",
     "Spring-React/JWT 및 Spring Security 시작하기.md",
     "프로젝트 만들면서 배운 컴퓨터 지식/JWT.md",
-    "().md",
     "프로젝트 만들면서 배운 컴퓨터 지식/CORS.md~",
-    "Git 관련/SSH를 사용해서 Repository 연결하는 방법.md",
     "Image/Pasted image 20240516150750.png",
     "Image/프론트에서 로그인할 때 기본 인증 서비스 호출하기-20240516150453135.webp",
     "Image/Untitled Diagram.svg",
