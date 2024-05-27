@@ -19,19 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "045a66195aebac0f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-05-27 13.24.38.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-27 13.24.38.excalidraw.md",
+                "file": "EasyDocker/이미지와 컨테이너/도커 이미지와 컨테이너 - 메타데이터.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-27 13.24.38.excalidraw.md",
+                "file": "EasyDocker/이미지와 컨테이너/도커 이미지와 컨테이너 - 메타데이터.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-27 13.24.38.excalidraw.md"
+                "file": "EasyDocker/이미지와 컨테이너/도커 이미지와 컨테이너 - 메타데이터.md"
               }
             }
           },
@@ -196,11 +185,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "045a66195aebac0f",
+  "active": "4590c529a3bb19dc",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-05-27 13.37.12.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-27 13.24.38.excalidraw.md",
+    "Excalidraw/이미지_메타데이터.md",
     "EasyDocker/이미지와 컨테이너/도커 이미지와 컨테이너 - 메타데이터.md",
+    "Excalidraw/Drawing 2024-05-27 13.37.12.excalidraw.md",
     "1. Daily/2024년-5월-27일 (월).md",
     "Excalidraw/Drawing 2024-05-27 13.32.02.excalidraw.md",
     "Excalidraw/Drawing 2024-05-27 13.30.33.excalidraw.md",
