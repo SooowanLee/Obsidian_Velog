@@ -50,5 +50,15 @@
       ],
       "key": "D"
     }
+  ],
+  "obsidian-excalidraw-plugin:export-image": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
+    }
   ]
 }
