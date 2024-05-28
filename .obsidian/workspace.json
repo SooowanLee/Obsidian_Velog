@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "자바TPC(생각하고, 표현하고, 코딩하고)/자바의 배열(Array).md",
+                "file": "자바TPC(생각하고, 표현하고, 코딩하고)/자바의 데이터 타입.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "자바TPC(생각하고, 표현하고, 코딩하고)/자바의 배열(Array).md",
+                "file": "자바TPC(생각하고, 표현하고, 코딩하고)/자바의 데이터 타입.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "자바TPC(생각하고, 표현하고, 코딩하고)/자바의 배열(Array).md",
+                "file": "자바TPC(생각하고, 표현하고, 코딩하고)/자바의 데이터 타입.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "자바TPC(생각하고, 표현하고, 코딩하고)/자바의 배열(Array).md"
+                "file": "자바TPC(생각하고, 표현하고, 코딩하고)/자바의 데이터 타입.md"
               }
             }
           },
@@ -201,7 +201,7 @@
   "active": "a2cd75e7a0892a16",
   "lastOpenFiles": [
     "1. Daily/2024년 5월 28일 (화).md",
-    "자바TPC(생각하고, 표현하고, 코딩하고)/자바의 배열(Array).md",
+    "자바TPC(생각하고, 표현하고, 코딩하고)/자바의 데이터 타입.md",
     "1. Daily/2024년 5월 27일 (월).md",
     "무제 파일.md",
     "1. Daily/2024년-5월-28일 (화).md",
