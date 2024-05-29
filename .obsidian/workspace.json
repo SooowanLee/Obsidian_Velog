@@ -8,38 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e6aa46859f985bed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JPA/영속성 관리/영속성 컨텍스트란.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "348701792d63ed05",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JPA/영속성 관리/영속성 컨텍스트란.md",
+                "file": "JPA/영속성 관리/영속성 컨텍스트의 특징.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "ceac4d88896d1f44",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/엔티티_생명주기.md"
               }
             }
           },
@@ -56,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.50152587890625
+    "width": 280.50152587890625,
+    "collapsed": true
   },
   "right": {
     "id": "5a2dcc2e0a541c4d",
@@ -140,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JPA/영속성 관리/영속성 컨텍스트란.md",
+                "file": "JPA/영속성 관리/영속성 컨텍스트의 특징.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JPA/영속성 관리/영속성 컨텍스트란.md",
+                "file": "JPA/영속성 관리/영속성 컨텍스트의 특징.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JPA/영속성 관리/영속성 컨텍스트란.md"
+                "file": "JPA/영속성 관리/영속성 컨텍스트의 특징.md"
               }
             }
           },
@@ -222,11 +199,11 @@
   },
   "active": "348701792d63ed05",
   "lastOpenFiles": [
-    "JPA/영속성 관리/영속성 컨텍스트의 특징.md",
-    "JPA/영속성 관리/영속성 컨텍스트란.md",
-    "Excalidraw/엔티티_생명주기.md",
-    "Excalidraw/이미지_메타데이터.md",
     "1. Daily/2024년 5월 29일 (수).md",
+    "JPA/영속성 관리/영속성 컨텍스트의 특징.md",
+    "Excalidraw/엔티티_생명주기.md",
+    "JPA/영속성 관리/영속성 컨텍스트란.md",
+    "Excalidraw/이미지_메타데이터.md",
     "JPA/영속성 관리",
     "자바TPC(생각하고, 표현하고, 코딩하고)/무제 파일무제 파.md",
     "JPA/영속성 관리",
