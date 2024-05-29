@@ -11,9 +11,12 @@
             "id": "e6aa46859f985bed",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/엔티티_생명주기.md"
+                "file": "JPA/영속성 관리/영속성 컨텍스트란.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -124,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/엔티티_생명주기.md",
+                "file": "JPA/영속성 관리/영속성 컨텍스트란.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/엔티티_생명주기.md",
+                "file": "JPA/영속성 관리/영속성 컨텍스트란.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/엔티티_생명주기.md"
+                "file": "JPA/영속성 관리/영속성 컨텍스트란.md"
               }
             }
           },
@@ -206,9 +209,9 @@
   },
   "active": "e6aa46859f985bed",
   "lastOpenFiles": [
-    "Excalidraw/이미지_메타데이터.md",
-    "JPA/영속성 관리/영속성 컨텍스트란.md",
     "Excalidraw/엔티티_생명주기.md",
+    "JPA/영속성 관리/영속성 컨텍스트란.md",
+    "Excalidraw/이미지_메타데이터.md",
     "1. Daily/2024년 5월 29일 (수).md",
     "JPA/영속성 관리",
     "자바TPC(생각하고, 표현하고, 코딩하고)/무제 파일무제 파.md",
