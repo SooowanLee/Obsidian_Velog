@@ -8,20 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a2cd75e7a0892a16",
+            "id": "e6aa46859f985bed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "자바TPC(생각하고, 표현하고, 코딩하고)/자바의 데이터 타입.md",
-                "mode": "preview",
+                "file": "자바TPC(생각하고, 표현하고, 코딩하고)/무제 파일.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           },
           {
-            "id": "8fbc5e936bf14da1",
+            "id": "dc2da7037c3c5902",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -100,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.50152587890625
+    "width": 280.50152587890625,
+    "collapsed": true
   },
   "right": {
     "id": "5a2dcc2e0a541c4d",
@@ -116,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "자바TPC(생각하고, 표현하고, 코딩하고)/자바의 데이터 타입.md",
+                "file": "자바TPC(생각하고, 표현하고, 코딩하고)/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "자바TPC(생각하고, 표현하고, 코딩하고)/자바의 데이터 타입.md",
+                "file": "자바TPC(생각하고, 표현하고, 코딩하고)/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "자바TPC(생각하고, 표현하고, 코딩하고)/자바의 데이터 타입.md"
+                "file": "자바TPC(생각하고, 표현하고, 코딩하고)/무제 파일.md"
               }
             }
           },
@@ -196,14 +197,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a2cd75e7a0892a16",
+  "active": "e6aa46859f985bed",
   "lastOpenFiles": [
+    "자바TPC(생각하고, 표현하고, 코딩하고)/자바의 데이터 타입.md",
+    "자바TPC(생각하고, 표현하고, 코딩하고)/무제 파일.md",
     "1. Daily/2024년 5월 29일 (수).md",
     "1. Daily/2024년 5월 28일 (화).md",
     "1. Daily/2024년 5월 27일 (월).md",
     "Template/Daily_Template.md",
     "자바TPC(생각하고, 표현하고, 코딩하고)/JVM 메모리 모델.md",
-    "자바TPC(생각하고, 표현하고, 코딩하고)/자바의 데이터 타입.md",
     "무제 파일.md",
     "1. Daily/2024년-5월-28일 (화).md",
     "도커(Docker)/이미지와 컨테이너/도커 이미지와 컨테이너 - 메타데이터.md",
@@ -232,7 +234,6 @@
     "도커(Docker)",
     "자바TCP/무제 파일 1.md",
     "자바TPC(생각하고, 표현하고, 코딩하고)",
-    "Spring_React_프로젝트/AuthContext에 기본 인증 토큰 설정하기.md",
     "Algorithm",
     "Image/Pasted image 20240516150750.png",
     "Image/프론트에서 로그인할 때 기본 인증 서비스 호출하기-20240516150453135.webp",
