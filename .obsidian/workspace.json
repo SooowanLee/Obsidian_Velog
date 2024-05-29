@@ -26,7 +26,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/엔티티_생명주기_2024_05_29.md"
+                "file": "Excalidraw/엔티티_생명주기.md"
               }
             }
           },
@@ -111,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.50152587890625
+    "width": 280.50152587890625,
+    "collapsed": true
   },
   "right": {
     "id": "5a2dcc2e0a541c4d",
@@ -127,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/엔티티_생명주기_2024_05_29.md",
+                "file": "Excalidraw/엔티티_생명주기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/엔티티_생명주기_2024_05_29.md",
+                "file": "Excalidraw/엔티티_생명주기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/엔티티_생명주기_2024_05_29.md"
+                "file": "Excalidraw/엔티티_생명주기.md"
               }
             }
           },
@@ -207,10 +208,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ceac4d88896d1f44",
+  "active": "5ab3f70515b1b88c",
   "lastOpenFiles": [
     "JPA/영속성 관리/영속성 컨텍스트란.md",
-    "Excalidraw/엔티티_생명주기_2024_05_29.md",
+    "Excalidraw/엔티티_생명주기.md",
     "1. Daily/2024년 5월 29일 (수).md",
     "JPA/영속성 관리",
     "자바TPC(생각하고, 표현하고, 코딩하고)/무제 파일무제 파.md",
