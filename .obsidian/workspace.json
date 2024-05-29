@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "자바TPC(생각하고, 표현하고, 코딩하고)/무제 파일.md",
+                "file": "JPA/영속성 관리/영속성이란.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.50152587890625,
-    "collapsed": true
+    "width": 280.50152587890625
   },
   "right": {
     "id": "5a2dcc2e0a541c4d",
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "자바TPC(생각하고, 표현하고, 코딩하고)/무제 파일.md",
+                "file": "JPA/영속성 관리/영속성이란.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "자바TPC(생각하고, 표현하고, 코딩하고)/무제 파일.md",
+                "file": "JPA/영속성 관리/영속성이란.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "자바TPC(생각하고, 표현하고, 코딩하고)/무제 파일.md"
+                "file": "JPA/영속성 관리/영속성이란.md"
               }
             }
           },
@@ -197,10 +196,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e6aa46859f985bed",
+  "active": "5ab3f70515b1b88c",
   "lastOpenFiles": [
+    "JPA/영속성 관리",
+    "자바TPC(생각하고, 표현하고, 코딩하고)/무제 파일무제 파.md",
+    "JPA/영속성 관리/영속성이란.md",
+    "JPA/영속성 관리",
+    "JPA",
     "자바TPC(생각하고, 표현하고, 코딩하고)/자바의 데이터 타입.md",
-    "자바TPC(생각하고, 표현하고, 코딩하고)/무제 파일.md",
     "1. Daily/2024년 5월 29일 (수).md",
     "1. Daily/2024년 5월 28일 (화).md",
     "1. Daily/2024년 5월 27일 (월).md",
@@ -229,12 +232,8 @@
     "도커(Docker)/가상화 기술/컨테이너 가상화.md",
     "도커(Docker)/가상화 기술/도커(Docker) 란.md",
     "도커(Docker)/가상화 기술/애플리케이션 서버.md",
-    "EasyDocker/가상화 기술.md",
     "도커(Docker)/가상화 기술",
     "도커(Docker)",
-    "자바TCP/무제 파일 1.md",
-    "자바TPC(생각하고, 표현하고, 코딩하고)",
-    "Algorithm",
     "Image/Pasted image 20240516150750.png",
     "Image/프론트에서 로그인할 때 기본 인증 서비스 호출하기-20240516150453135.webp",
     "Image/Untitled Diagram.svg",
