@@ -14,6 +14,19 @@
               "type": "markdown",
               "state": {
                 "file": "JPA/영속성 관리/영속성 컨텍스트란.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "348701792d63ed05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JPA/영속성 관리/영속성 컨텍스트란.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -43,7 +56,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,8 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.50152587890625,
-    "collapsed": true
+    "width": 280.50152587890625
   },
   "right": {
     "id": "5a2dcc2e0a541c4d",
@@ -207,10 +220,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e6aa46859f985bed",
+  "active": "348701792d63ed05",
   "lastOpenFiles": [
-    "Excalidraw/엔티티_생명주기.md",
+    "JPA/영속성 관리/영속성 컨텍스트의 특징.md",
     "JPA/영속성 관리/영속성 컨텍스트란.md",
+    "Excalidraw/엔티티_생명주기.md",
     "Excalidraw/이미지_메타데이터.md",
     "1. Daily/2024년 5월 29일 (수).md",
     "JPA/영속성 관리",
@@ -243,7 +257,6 @@
     "도커(Docker)/가상화 기술/하이퍼바이저 가상화.md",
     "도커(Docker)/가상화 기술/컨테이너 가상화.md",
     "도커(Docker)/가상화 기술/도커(Docker) 란.md",
-    "도커(Docker)/가상화 기술/애플리케이션 서버.md",
     "도커(Docker)/가상화 기술",
     "Image/Pasted image 20240516150750.png",
     "Image/프론트에서 로그인할 때 기본 인증 서비스 호출하기-20240516150453135.webp",
