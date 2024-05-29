@@ -11,12 +11,9 @@
             "id": "e6aa46859f985bed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "JPA/영속성 관리/영속성 컨텍스트란.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Excalidraw/엔티티_생명주기.md"
               }
             }
           },
@@ -43,8 +40,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,8 +204,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5ab3f70515b1b88c",
+  "active": "e6aa46859f985bed",
   "lastOpenFiles": [
+    "Excalidraw/이미지_메타데이터.md",
     "JPA/영속성 관리/영속성 컨텍스트란.md",
     "Excalidraw/엔티티_생명주기.md",
     "1. Daily/2024년 5월 29일 (수).md",
@@ -226,7 +223,6 @@
     "1. Daily/2024년-5월-28일 (화).md",
     "도커(Docker)/이미지와 컨테이너/도커 이미지와 컨테이너 - 메타데이터.md",
     "프로그래밍_지식/CORS(Cross-Origin-Resource-Sharing) 알아보기.md",
-    "Excalidraw/이미지_메타데이터.md",
     "Excalidraw/Drawing 2024-05-27 13.37.12.excalidraw.md",
     "Excalidraw/Drawing 2024-05-27 13.32.02.excalidraw.md",
     "Excalidraw/Drawing 2024-05-27 13.30.33.excalidraw.md",
