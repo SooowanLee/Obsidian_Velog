@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily/2024년 5월 29일 (수).md",
-                "mode": "source",
+                "file": "1. Daily/2024년 5월 30일 (목).md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2024년 5월 29일 (수).md",
+                "file": "1. Daily/2024년 5월 30일 (목).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2024년 5월 29일 (수).md",
+                "file": "1. Daily/2024년 5월 30일 (목).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2024년 5월 29일 (수).md"
+                "file": "1. Daily/2024년 5월 30일 (목).md"
               }
             }
           },
@@ -185,8 +185,8 @@
   },
   "active": "d14a011e4a767187",
   "lastOpenFiles": [
-    "1. Daily/2024년 5월 28일 (화).md",
     "1. Daily/2024년 5월 29일 (수).md",
+    "1. Daily/2024년 5월 28일 (화).md",
     "1. Daily/2024년 5월 30일 (목).md",
     "자바TPC(생각하고, 표현하고, 코딩하고)/JVM 메모리 모델.md",
     "JPA/영속성 관리/영속성 컨텍스트의 특징.md",
