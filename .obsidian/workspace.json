@@ -8,26 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "394a2f455b5e26d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "자바TPC(생각하고, 표현하고, 코딩하고)/JVM 메모리 모델.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc2da7037c3c5902",
+            "id": "d14a011e4a767187",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "1. Daily/2024년 5월 29일 (수).md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -116,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "자바TPC(생각하고, 표현하고, 코딩하고)/JVM 메모리 모델.md",
+                "file": "1. Daily/2024년 5월 29일 (수).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "자바TPC(생각하고, 표현하고, 코딩하고)/JVM 메모리 모델.md",
+                "file": "1. Daily/2024년 5월 29일 (수).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "자바TPC(생각하고, 표현하고, 코딩하고)/JVM 메모리 모델.md"
+                "file": "1. Daily/2024년 5월 29일 (수).md"
               }
             }
           },
@@ -196,12 +183,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "394a2f455b5e26d0",
+  "active": "d14a011e4a767187",
   "lastOpenFiles": [
-    "JPA/영속성 관리/영속성 컨텍스트의 특징.md",
-    "자바TPC(생각하고, 표현하고, 코딩하고)/JVM 메모리 모델.md",
-    "자바TPC(생각하고, 표현하고, 코딩하고)/무제 파일무제 파.md",
+    "1. Daily/2024년 5월 28일 (화).md",
     "1. Daily/2024년 5월 29일 (수).md",
+    "1. Daily/2024년 5월 30일 (목).md",
+    "자바TPC(생각하고, 표현하고, 코딩하고)/JVM 메모리 모델.md",
+    "JPA/영속성 관리/영속성 컨텍스트의 특징.md",
+    "자바TPC(생각하고, 표현하고, 코딩하고)/무제 파일무제 파.md",
     "Excalidraw/엔티티_생명주기.md",
     "JPA/영속성 관리/영속성 컨텍스트란.md",
     "Excalidraw/이미지_메타데이터.md",
@@ -209,7 +198,6 @@
     "JPA/영속성 관리",
     "JPA",
     "자바TPC(생각하고, 표현하고, 코딩하고)/자바의 데이터 타입.md",
-    "1. Daily/2024년 5월 28일 (화).md",
     "1. Daily/2024년 5월 27일 (월).md",
     "Template/Daily_Template.md",
     "무제 파일.md",
@@ -232,7 +220,6 @@
     "도커(Docker)/이미지와 컨테이너",
     "도커(Docker)/가상화 기술/하이퍼바이저 가상화.md",
     "도커(Docker)/가상화 기술/컨테이너 가상화.md",
-    "도커(Docker)/가상화 기술/도커(Docker) 란.md",
     "도커(Docker)/가상화 기술",
     "Image/Pasted image 20240516150750.png",
     "Image/프론트에서 로그인할 때 기본 인증 서비스 호출하기-20240516150453135.webp",
