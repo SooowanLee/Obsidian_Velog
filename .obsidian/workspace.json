@@ -110,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.50152587890625,
-    "collapsed": true
+    "width": 280.50152587890625
   },
   "right": {
     "id": "5a2dcc2e0a541c4d",
@@ -211,15 +210,15 @@
   "lastOpenFiles": [
     "Excalidraw/영속성 컨텍스트 - 1차 캐시에 없는 데이터 조회.md",
     "JPA/영속성 관리/영속성 컨텍스트의 특징.md",
+    "1. Daily/2024년 5월 30일 (목).md",
+    "JPA/영속성 관리/영속성 컨텍스트란.md",
     "Excalidraw/영속성 컨텍스트_1차캐시.md",
     "Excalidraw/Drawing 2024-05-30 15.19.26.excalidraw.md",
-    "1. Daily/2024년 5월 30일 (목).md",
     "1. Daily/2024년 5월 29일 (수).md",
     "1. Daily/2024년 5월 28일 (화).md",
     "자바TPC(생각하고, 표현하고, 코딩하고)/JVM 메모리 모델.md",
     "자바TPC(생각하고, 표현하고, 코딩하고)/무제 파일무제 파.md",
     "Excalidraw/엔티티_생명주기.md",
-    "JPA/영속성 관리/영속성 컨텍스트란.md",
     "Excalidraw/이미지_메타데이터.md",
     "JPA/영속성 관리",
     "JPA/영속성 관리",
