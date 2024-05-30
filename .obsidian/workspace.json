@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "도커(Docker)/이미지와 컨테이너/컨테이너의 라이프사이클.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -33,7 +33,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "도커(Docker)/이미지와 컨테이너/컨테이너의 라이프사이클.md",
+                "file": "1. Daily/2024년 5월 30일 (목).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "도커(Docker)/이미지와 컨테이너/컨테이너의 라이프사이클.md",
+                "file": "1. Daily/2024년 5월 30일 (목).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "도커(Docker)/이미지와 컨테이너/컨테이너의 라이프사이클.md"
+                "file": "1. Daily/2024년 5월 30일 (목).md"
               }
             }
           },
@@ -197,10 +198,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "93c093105af0fea5",
+  "active": "d14a011e4a767187",
   "lastOpenFiles": [
-    "1. Daily/2024년 5월 30일 (목).md",
     "도커(Docker)/이미지와 컨테이너/컨테이너의 라이프사이클.md",
+    "1. Daily/2024년 5월 30일 (목).md",
     "Excalidraw/컨테이너_라이프사이클.md",
     "JPA/영속성 관리/영속성 컨텍스트의 특징.md",
     "JPA/영속성 관리/영속성 컨텍스트란.md",
