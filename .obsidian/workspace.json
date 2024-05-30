@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "297c77d8b276a366",
+            "id": "3d4a9eda1c1eee4a",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/영속성 컨텍스트 - 1차 캐시에 없는 데이터 조회.md"
+                "file": "Excalidraw/트랜잭션을 지원하는 쓰기지연.md"
               }
             }
           },
@@ -110,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.50152587890625
+    "width": 280.50152587890625,
+    "collapsed": true
   },
   "right": {
     "id": "5a2dcc2e0a541c4d",
@@ -208,11 +209,12 @@
   },
   "active": "b3546ed77dd49b76",
   "lastOpenFiles": [
-    "Excalidraw/영속성 컨텍스트 - 1차 캐시에 없는 데이터 조회.md",
+    "Excalidraw/트랜잭션을 지원하는 쓰기지연.md",
     "JPA/영속성 관리/영속성 컨텍스트의 특징.md",
-    "1. Daily/2024년 5월 30일 (목).md",
-    "JPA/영속성 관리/영속성 컨텍스트란.md",
     "Excalidraw/영속성 컨텍스트_1차캐시.md",
+    "1. Daily/2024년 5월 30일 (목).md",
+    "Excalidraw/영속성 컨텍스트 - 1차 캐시에 없는 데이터 조회.md",
+    "JPA/영속성 관리/영속성 컨텍스트란.md",
     "Excalidraw/Drawing 2024-05-30 15.19.26.excalidraw.md",
     "1. Daily/2024년 5월 29일 (수).md",
     "1. Daily/2024년 5월 28일 (화).md",
@@ -240,7 +242,6 @@
     "1. Daily/2024년/5월/27일 (월).md",
     "1. Daily/2024년/5월",
     "1. Daily/2024년",
-    "1. Daily/2024-05-27.md",
     "1. Daily",
     "도커(Docker)/이미지와 컨테이너",
     "도커(Docker)/가상화 기술",
