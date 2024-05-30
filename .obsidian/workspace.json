@@ -11,9 +11,12 @@
             "id": "b3546ed77dd49b76",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/영속성 컨텍스트_1차캐시.md"
+                "file": "JPA/영속성 관리/영속성 컨텍스트의 특징.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -23,7 +26,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-30 15.25.11.excalidraw.md"
+                "file": "Excalidraw/영속성 컨텍스트 - 1차 캐시에 없는 데이터 조회.md"
               }
             }
           },
@@ -40,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-30 15.25.11.excalidraw.md",
+                "file": "JPA/영속성 관리/영속성 컨텍스트의 특징.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-30 15.25.11.excalidraw.md",
+                "file": "JPA/영속성 관리/영속성 컨텍스트의 특징.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-30 15.25.11.excalidraw.md"
+                "file": "JPA/영속성 관리/영속성 컨텍스트의 특징.md"
               }
             }
           },
@@ -205,11 +207,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "297c77d8b276a366",
+  "active": "b3546ed77dd49b76",
   "lastOpenFiles": [
-    "Excalidraw/영속성 컨텍스트_1차캐시.md",
-    "Excalidraw/Drawing 2024-05-30 15.25.11.excalidraw.md",
+    "Excalidraw/영속성 컨텍스트 - 1차 캐시에 없는 데이터 조회.md",
     "JPA/영속성 관리/영속성 컨텍스트의 특징.md",
+    "Excalidraw/영속성 컨텍스트_1차캐시.md",
     "Excalidraw/Drawing 2024-05-30 15.19.26.excalidraw.md",
     "1. Daily/2024년 5월 30일 (목).md",
     "1. Daily/2024년 5월 29일 (수).md",
