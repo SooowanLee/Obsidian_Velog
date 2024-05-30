@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b3546ed77dd49b76",
+            "id": "93c093105af0fea5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -17,16 +17,6 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "3d4a9eda1c1eee4a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/트랜잭션을 지원하는 쓰기지연.md"
               }
             }
           },
@@ -207,12 +197,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b3546ed77dd49b76",
+  "active": "93c093105af0fea5",
   "lastOpenFiles": [
     "Excalidraw/트랜잭션을 지원하는 쓰기지연.md",
+    "1. Daily/2024년 5월 30일 (목).md",
     "JPA/영속성 관리/영속성 컨텍스트의 특징.md",
     "Excalidraw/영속성 컨텍스트_1차캐시.md",
-    "1. Daily/2024년 5월 30일 (목).md",
     "Excalidraw/영속성 컨텍스트 - 1차 캐시에 없는 데이터 조회.md",
     "JPA/영속성 관리/영속성 컨텍스트란.md",
     "Excalidraw/Drawing 2024-05-30 15.19.26.excalidraw.md",
