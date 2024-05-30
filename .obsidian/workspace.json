@@ -8,6 +8,19 @@
         "type": "tabs",
         "children": [
           {
+            "id": "b3546ed77dd49b76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JPA/영속성 관리/영속성 컨텍스트의 특징.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d14a011e4a767187",
             "type": "leaf",
             "state": {
@@ -87,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.50152587890625
+    "width": 280.50152587890625,
+    "collapsed": true
   },
   "right": {
     "id": "5a2dcc2e0a541c4d",
@@ -103,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2024년 5월 30일 (목).md",
+                "file": "JPA/영속성 관리/영속성 컨텍스트의 특징.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2024년 5월 30일 (목).md",
+                "file": "JPA/영속성 관리/영속성 컨텍스트의 특징.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2024년 5월 30일 (목).md"
+                "file": "JPA/영속성 관리/영속성 컨텍스트의 특징.md"
               }
             }
           },
@@ -183,11 +197,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d14a011e4a767187",
+  "active": "b3546ed77dd49b76",
   "lastOpenFiles": [
+    "1. Daily/2024년 5월 30일 (목).md",
     "1. Daily/2024년 5월 29일 (수).md",
     "1. Daily/2024년 5월 28일 (화).md",
-    "1. Daily/2024년 5월 30일 (목).md",
     "자바TPC(생각하고, 표현하고, 코딩하고)/JVM 메모리 모델.md",
     "JPA/영속성 관리/영속성 컨텍스트의 특징.md",
     "자바TPC(생각하고, 표현하고, 코딩하고)/무제 파일무제 파.md",
