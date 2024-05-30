@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JPA/영속성 관리/영속성 컨텍스트의 특징.md",
-                "mode": "preview",
+                "file": "도커(Docker)/이미지와 컨테이너/컨테이너의 라이프사이클.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.50152587890625
+    "width": 280.50152587890625,
+    "collapsed": true
   },
   "right": {
     "id": "5a2dcc2e0a541c4d",
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Daily/2024년 5월 30일 (목).md",
+                "file": "도커(Docker)/이미지와 컨테이너/컨테이너의 라이프사이클.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Daily/2024년 5월 30일 (목).md",
+                "file": "도커(Docker)/이미지와 컨테이너/컨테이너의 라이프사이클.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Daily/2024년 5월 30일 (목).md"
+                "file": "도커(Docker)/이미지와 컨테이너/컨테이너의 라이프사이클.md"
               }
             }
           },
@@ -197,11 +197,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d14a011e4a767187",
+  "active": "93c093105af0fea5",
   "lastOpenFiles": [
+    "Excalidraw/컨테이너_라이프사이클.md",
+    "도커(Docker)/이미지와 컨테이너/컨테이너의 라이프사이클.md",
     "JPA/영속성 관리/영속성 컨텍스트의 특징.md",
-    "JPA/영속성 관리/영속성 컨텍스트란.md",
     "1. Daily/2024년 5월 30일 (목).md",
+    "JPA/영속성 관리/영속성 컨텍스트란.md",
     "Excalidraw/JPA-변경감지.md",
     "Excalidraw/트랜잭션을 지원하는 쓰기지연.md",
     "Excalidraw/영속성 컨텍스트_1차캐시.md",
@@ -226,9 +228,7 @@
     "Excalidraw/Drawing 2024-05-27 13.37.12.excalidraw.md",
     "Excalidraw/Drawing 2024-05-27 13.32.02.excalidraw.md",
     "Excalidraw/Drawing 2024-05-27 13.30.33.excalidraw.md",
-    "도커(Docker)/이미지와 컨테이너/도커에서 이미지란.md",
     "Excalidraw",
-    "도커(Docker)/가상화 기술/컨테이너 실행.md",
     "Template",
     "1. Daily/2024년/5월",
     "1. Daily/2024년",
