@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "도커(Docker)/이미지 레지스트리/이미지 레지스트리 명령어 사용하기.md",
-                "mode": "preview",
+                "file": "JPA/영속성 관리/플러시.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.50152587890625,
-    "collapsed": true
+    "width": 280.50152587890625
   },
   "right": {
     "id": "5a2dcc2e0a541c4d",
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "도커(Docker)/이미지 레지스트리/이미지 레지스트리 명령어 사용하기.md",
+                "file": "JPA/영속성 관리/플러시.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "도커(Docker)/이미지 레지스트리/이미지 레지스트리 명령어 사용하기.md",
+                "file": "JPA/영속성 관리/플러시.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "도커(Docker)/이미지 레지스트리/이미지 레지스트리 명령어 사용하기.md"
+                "file": "JPA/영속성 관리/플러시.md"
               }
             }
           },
@@ -199,9 +198,12 @@
   },
   "active": "a2cb8ffde6008573",
   "lastOpenFiles": [
+    "JPA/영속성 관리/영속성 컨텍스트의 특징.md",
+    "JPA/영속성 관리/플러시.md",
+    "JPA/영속성 관리/영속성 컨텍스트란.md",
+    "도커(Docker)/이미지 레지스트리/이미지 레지스트리 명령어 사용하기.md",
     "1. Daily/2024년 5월 31일 (금).md",
     "도커(Docker)/이미지 레지스트리/이미지 레지스트리.md",
-    "도커(Docker)/이미지 레지스트리/이미지 레지스트리 명령어 사용하기.md",
     "Excalidraw/Docker/이미지_레지스트리.md",
     "도커(Docker)/이미지와 컨테이너/컨테이너의 라이프사이클.md",
     "도커(Docker)/이미지 레지스트리",
@@ -216,8 +218,6 @@
     "Excalidraw/JPA/영속성 컨텍스트_1차캐시.md",
     "Excalidraw/JPA/JPA-변경감지.md",
     "1. Daily/2024년 5월 30일 (목).md",
-    "JPA/영속성 관리/영속성 컨텍스트의 특징.md",
-    "JPA/영속성 관리/영속성 컨텍스트란.md",
     "Excalidraw/JPA/트랜잭션을 지원하는 쓰기지연.md",
     "Excalidraw/JPA/영속성 컨텍스트 - 1차 캐시에 없는 데이터 조회.md",
     "Excalidraw/Drawing 2024-05-30 15.19.26.excalidraw.md",
@@ -230,7 +230,6 @@
     "JPA",
     "자바TPC(생각하고, 표현하고, 코딩하고)/자바의 데이터 타입.md",
     "1. Daily/2024년 5월 27일 (월).md",
-    "Template/Daily_Template.md",
     "Excalidraw",
     "Template",
     "1. Daily/2024년/5월",
