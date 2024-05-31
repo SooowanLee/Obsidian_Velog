@@ -11,12 +11,9 @@
             "id": "93c093105af0fea5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "도커(Docker)/이미지와 컨테이너/컨테이너의 라이프사이클.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Excalidraw/JPA/엔티티_생명주기.md"
               }
             }
           },
@@ -26,7 +23,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/컨테이너_라이프사이클.md"
+                "file": "Excalidraw/Docker/컨테이너_라이프사이클.md"
               }
             }
           },
@@ -126,7 +123,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "도커(Docker)/이미지와 컨테이너/컨테이너의 라이프사이클.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +139,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "도커(Docker)/이미지와 컨테이너/컨테이너의 라이프사이클.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "도커(Docker)/이미지와 컨테이너/컨테이너의 라이프사이클.md"
+                "file": "Excalidraw/Drawing 2024-05-31 12.43.32.excalidraw.md"
               }
             }
           },
@@ -208,23 +203,26 @@
   },
   "active": "5ab3f70515b1b88c",
   "lastOpenFiles": [
+    "Excalidraw/JPA/엔티티_생명주기.md",
+    "Excalidraw/Drawing 2024-05-31 12.43.32.excalidraw.md",
+    "Excalidraw/Docker/이미지_메타데이터.md",
+    "Excalidraw/Docker",
+    "Excalidraw/JPA",
+    "Excalidraw/JPA/영속성 컨텍스트_1차캐시.md",
+    "Excalidraw/Docker/컨테이너_라이프사이클.md",
+    "Excalidraw/JPA/JPA-변경감지.md",
     "1. Daily/2024년 5월 31일 (금).md",
-    "도커(Docker)/이미지와 컨테이너/컨테이너의 라이프사이클.md",
-    "Excalidraw/컨테이너_라이프사이클.md",
     "1. Daily/2024년 5월 30일 (목).md",
+    "도커(Docker)/이미지와 컨테이너/컨테이너의 라이프사이클.md",
     "JPA/영속성 관리/영속성 컨텍스트의 특징.md",
     "JPA/영속성 관리/영속성 컨텍스트란.md",
-    "Excalidraw/JPA-변경감지.md",
-    "Excalidraw/트랜잭션을 지원하는 쓰기지연.md",
-    "Excalidraw/영속성 컨텍스트_1차캐시.md",
-    "Excalidraw/영속성 컨텍스트 - 1차 캐시에 없는 데이터 조회.md",
+    "Excalidraw/JPA/트랜잭션을 지원하는 쓰기지연.md",
+    "Excalidraw/JPA/영속성 컨텍스트 - 1차 캐시에 없는 데이터 조회.md",
     "Excalidraw/Drawing 2024-05-30 15.19.26.excalidraw.md",
     "1. Daily/2024년 5월 29일 (수).md",
     "1. Daily/2024년 5월 28일 (화).md",
     "자바TPC(생각하고, 표현하고, 코딩하고)/JVM 메모리 모델.md",
     "자바TPC(생각하고, 표현하고, 코딩하고)/무제 파일무제 파.md",
-    "Excalidraw/엔티티_생명주기.md",
-    "Excalidraw/이미지_메타데이터.md",
     "JPA/영속성 관리",
     "JPA/영속성 관리",
     "JPA",
@@ -236,14 +234,11 @@
     "도커(Docker)/이미지와 컨테이너/도커 이미지와 컨테이너 - 메타데이터.md",
     "프로그래밍_지식/CORS(Cross-Origin-Resource-Sharing) 알아보기.md",
     "Excalidraw/Drawing 2024-05-27 13.37.12.excalidraw.md",
-    "Excalidraw/Drawing 2024-05-27 13.32.02.excalidraw.md",
     "Excalidraw",
     "Template",
     "1. Daily/2024년/5월",
     "1. Daily/2024년",
     "1. Daily",
-    "도커(Docker)/이미지와 컨테이너",
-    "도커(Docker)/가상화 기술",
     "Image/Pasted image 20240516150750.png",
     "Image/프론트에서 로그인할 때 기본 인증 서비스 호출하기-20240516150453135.webp",
     "Image/Untitled Diagram.svg",
