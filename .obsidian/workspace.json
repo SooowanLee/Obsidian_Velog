@@ -21,6 +21,16 @@
             }
           },
           {
+            "id": "474f178c32868da6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Docker/클라이언트_서버.md"
+              }
+            }
+          },
+          {
             "id": "1b95fa59bcc3a512",
             "type": "leaf",
             "state": {
@@ -33,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.50152587890625
+    "width": 280.50152587890625,
+    "collapsed": true
   },
   "right": {
     "id": "5a2dcc2e0a541c4d",
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "도커(Docker)/이미지와 컨테이너/컨테이너의 라이프사이클.md",
+                "file": "Excalidraw/Docker/클라이언트_서버.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "도커(Docker)/이미지와 컨테이너/컨테이너의 라이프사이클.md",
+                "file": "Excalidraw/Docker/클라이언트_서버.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "도커(Docker)/이미지와 컨테이너/컨테이너의 라이프사이클.md"
+                "file": "Excalidraw/Docker/클라이언트_서버.md"
               }
             }
           },
@@ -196,10 +208,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a2cb8ffde6008573",
+  "active": "474f178c32868da6",
   "lastOpenFiles": [
-    "1. Daily/2024년 5월 31일 (금).md",
     "도커(Docker)/이미지와 컨테이너/컨테이너의 라이프사이클.md",
+    "Excalidraw/Docker/클라이언트_서버.md",
+    "1. Daily/2024년 5월 31일 (금).md",
     "도커(Docker)/이미지와 컨테이너/도커 이미지와 컨테이너 - 메타데이터.md",
     "Excalidraw/Docker/컨테이너_라이프사이클.md",
     "Excalidraw/JPA/엔티티_생명주기.md",
@@ -228,7 +241,6 @@
     "무제 파일.md",
     "1. Daily/2024년-5월-28일 (화).md",
     "프로그래밍_지식/CORS(Cross-Origin-Resource-Sharing) 알아보기.md",
-    "Excalidraw/Drawing 2024-05-27 13.37.12.excalidraw.md",
     "Excalidraw",
     "Template",
     "1. Daily/2024년/5월",
