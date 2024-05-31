@@ -21,16 +21,6 @@
             }
           },
           {
-            "id": "474f178c32868da6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Docker/클라이언트_서버.md"
-              }
-            }
-          },
-          {
             "id": "1b95fa59bcc3a512",
             "type": "leaf",
             "state": {
@@ -43,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Docker/클라이언트_서버.md",
+                "file": "도커(Docker)/이미지와 컨테이너/컨테이너의 라이프사이클.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Docker/클라이언트_서버.md",
+                "file": "도커(Docker)/이미지와 컨테이너/컨테이너의 라이프사이클.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Docker/클라이언트_서버.md"
+                "file": "도커(Docker)/이미지와 컨테이너/컨테이너의 라이프사이클.md"
               }
             }
           },
@@ -208,10 +197,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "474f178c32868da6",
+  "active": "a2cb8ffde6008573",
   "lastOpenFiles": [
-    "도커(Docker)/이미지와 컨테이너/컨테이너의 라이프사이클.md",
     "Excalidraw/Docker/클라이언트_서버.md",
+    "도커(Docker)/이미지와 컨테이너/컨테이너의 라이프사이클.md",
     "1. Daily/2024년 5월 31일 (금).md",
     "도커(Docker)/이미지와 컨테이너/도커 이미지와 컨테이너 - 메타데이터.md",
     "Excalidraw/Docker/컨테이너_라이프사이클.md",
