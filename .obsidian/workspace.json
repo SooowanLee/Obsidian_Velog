@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "JPA/엔티티 매핑/객체와 테이블 매핑.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -28,19 +28,6 @@
               "state": {
                 "file": "JPA/엔티티 매핑/JPA의 DB스키마 자동 생성.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b95fa59bcc3a512",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Daily/2024년 6월 01일 (토).md",
-                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -215,6 +202,7 @@
   "lastOpenFiles": [
     "JPA/엔티티 매핑/객체와 테이블 매핑.md",
     "JPA/엔티티 매핑/JPA의 DB스키마 자동 생성.md",
+    " - 복사본.gitignore",
     "JPA/엔티티 매핑",
     "1. Daily/2024년 6월 01일 (토).md",
     "1. Daily/2024년 5월 31일 (금).md",
@@ -242,13 +230,11 @@
     "Excalidraw/JPA",
     "Excalidraw/JPA/영속성 컨텍스트_1차캐시.md",
     "1. Daily/2024년 5월 30일 (목).md",
-    "Excalidraw/Drawing 2024-05-30 15.19.26.excalidraw.md",
     "JPA/영속성 관리",
     "JPA/영속성 관리",
     "JPA",
     "Excalidraw",
     "Template",
-    "1. Daily/2024년/5월",
     "Image/Pasted image 20240516150750.png",
     "Image/프론트에서 로그인할 때 기본 인증 서비스 호출하기-20240516150453135.webp",
     "Image/Untitled Diagram.svg",
