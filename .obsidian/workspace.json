@@ -11,8 +11,13 @@
             "id": "ad05a8a09293f69b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "JPA/엔티티 매핑/객체와 테이블 매핑.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           },
           {
@@ -112,6 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JPA/엔티티 매핑/객체와 테이블 매핑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JPA/엔티티 매핑/객체와 테이블 매핑.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +156,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JPA/엔티티 매핑/객체와 테이블 매핑.md"
+              }
             }
           },
           {
@@ -188,8 +197,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5ab3f70515b1b88c",
+  "active": "ad05a8a09293f69b",
   "lastOpenFiles": [
+    "JPA/엔티티 매핑/객체와 테이블 매핑.md",
+    "JPA/엔티티 매핑",
     "1. Daily/2024년 6월 01일 (토).md",
     "1. Daily/2024년 5월 31일 (금).md",
     "Template/Daily_Template.md",
@@ -218,14 +229,12 @@
     "1. Daily/2024년 5월 30일 (목).md",
     "Excalidraw/Drawing 2024-05-30 15.19.26.excalidraw.md",
     "1. Daily/2024년 5월 29일 (수).md",
-    "1. Daily/2024년 5월 28일 (화).md",
     "JPA/영속성 관리",
     "JPA/영속성 관리",
     "JPA",
     "Excalidraw",
     "Template",
     "1. Daily/2024년/5월",
-    "1. Daily/2024년",
     "Image/Pasted image 20240516150750.png",
     "Image/프론트에서 로그인할 때 기본 인증 서비스 호출하기-20240516150453135.webp",
     "Image/Untitled Diagram.svg",
