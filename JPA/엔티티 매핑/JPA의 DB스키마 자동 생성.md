@@ -13,6 +13,7 @@ JPA가 매핑 정보를 보고 애플리케이션 로딩 시점에 자동으로 
 | update        | 엔티티와 매핑 테이블이 없다면 생성, 테이블이 있다면 컬럼을 변경 |
 | validate      | 엔티티 클래스와 테이블이 정상 매핑되는지만 검사           |
 | none(default) | 아무 설정도 안함                            |
+
 ### 사용법
 **persistence.xml**
 ```java
@@ -26,10 +27,12 @@ JPA가 매핑 정보를 보고 애플리케이션 로딩 시점에 자동으로 
 	</properties>  
 </persistence-unit>
 ```
+
 **application.properties**
 ```application.properties
 spring.jpa.hibernate.ddl-auto=옵션
 ```
+
 **application.yml**
 yml 설정에서는 계층 표현이 중요합니다. 띄어쓰기를 잘못하면 설정이 제대로 적용되지 않을 수 있습니다. 한 단계 내려갈때 띄어쓰기 2칸씩 합니다.
 ```yaml
