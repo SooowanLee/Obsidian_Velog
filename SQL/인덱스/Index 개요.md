@@ -10,7 +10,7 @@
 특정 열(또는 열들)에 대한 데이터를 정렬된 형태로 저장하여 빠른 검색을 가능하게 합니다.  책의 색인처럼 작동, 데이터 검색 시에 Full Scan을 하지 않고 빠르게 접근할 수 있게합니다.
 
 ### 구조
- - B-Tree 구조 
+ - B-Tree 구조
  - 해시 테이블 구조
 
 ### Index를 쓰는 이유
@@ -24,8 +24,3 @@ SELECT * FROM employee E JOIN department D ON E.dept_id = D.id;
 ```
 
 ### Index 생성 방법
-
-PLAYER라는 테이블이 있습니다. 
-
-| id  | name | team_id | backnumber |
-| --- | ---- | ------- | ---------- |
