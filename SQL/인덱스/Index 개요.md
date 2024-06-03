@@ -24,3 +24,8 @@ SELECT * FROM employee E JOIN department D ON E.dept_id = D.id;
 ```
 
 ### Index 생성 방법
+
+PLAYER라는 테이블이 있습니다. 
+
+| id  | name | team_id | backnumber |
+| --- | ---- | ------- | ---------- |
