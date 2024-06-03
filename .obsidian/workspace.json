@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "864dc1840a1c0ec3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JPA/엔티티 매핑/JPA 매핑 - 필드와 컬럼.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e9e936a4e1c8d7e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/인덱스.md",
+                "file": "SQL/인덱스/Index 개요.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -39,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/B-Tree.md",
+                "file": "SQL/DB_인덱스_자료구조/B-Tree 개념과 특징, 데이터 삽입 동작 방식.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/B-Tree.md",
+                "file": "SQL/인덱스/Index 개요.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/B-Tree.md",
+                "file": "SQL/인덱스/Index 개요.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/B-Tree.md"
+                "file": "SQL/인덱스/Index 개요.md"
               }
             }
           },
@@ -210,13 +196,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ccf24b80d66e0649",
+  "active": "e9e936a4e1c8d7e5",
   "lastOpenFiles": [
-    "SQL/인덱스.md",
-    "SQL/B-Tree.md",
+    "SQL/DB_인덱스_자료구조/B-Tree 개념과 특징, 데이터 삽입 동작 방식.md",
+    "SQL/인덱스/Index 개요.md",
+    "JPA/엔티티 매핑/JPA 매핑 - 필드와 컬럼.md",
+    "SQL/인덱스",
+    "SQL/DB_인덱스_자료구조",
     "JPA/엔티티 매핑/JPA 매핑 - 기본 키.md",
     "SQL",
-    "JPA/엔티티 매핑/JPA 매핑 - 필드와 컬럼.md",
     "JPA/엔티티 매핑/객체와 테이블 매핑.md",
     "도커(Docker)/이미지 레지스트리/이미지 레지스트리 명령어 사용하기.md",
     "도커(Docker)/이미지 레지스트리/이미지 레지스트리.md",
@@ -241,13 +229,10 @@
     "Excalidraw/Docker/클라이언트_서버.md",
     "도커(Docker)/이미지와 컨테이너/도커 이미지와 컨테이너 - 메타데이터.md",
     "Excalidraw/Docker/컨테이너_라이프사이클.md",
-    "Excalidraw/Docker/이미지_메타데이터.md",
     "Excalidraw/Docker",
     "Excalidraw/JPA",
     "JPA/영속성 관리",
     "JPA/영속성 관리",
-    "JPA",
-    "Excalidraw",
     "Image/Pasted image 20240516150750.png",
     "Image/프론트에서 로그인할 때 기본 인증 서비스 호출하기-20240516150453135.webp",
     "Image/Untitled Diagram.svg",
