@@ -27,7 +27,7 @@
 | length(DDL)              | 문자 길이 제약조건, String 타입에만 사용한다.                                          | 255                  |
 | precision,<br>scale(DDL) | percision은 소수점을 포함한 전체 자릿수를, scale은 소수의 자릿수<br>정밀한 소수를 다루어야 할 때만 사용한다. | precision=19         |
 
-### Enumerated
+### @Enumerated
 자바 enum 타입을 매핑할 때 사용
 무조건 EnumType.STRING으로 사용해야한다.
 
