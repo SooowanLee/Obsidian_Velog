@@ -13,6 +13,7 @@
 | @Enumerated | enum 타입 매핑     |
 | @Lob        | BLOB, CLOB 매핑  |
 | @Transient  | 특정 필드를 컬럼에서 제외 |
+
 ### @Column
 객체 필드와 테이블 컬럼 매핑에 사용
 
