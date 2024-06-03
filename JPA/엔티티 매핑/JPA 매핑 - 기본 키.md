@@ -16,7 +16,6 @@
 - **AUTO_INCREMENT는 데이터베이스에 INSERT SQL을 실행한 이후 ID값을 알 수 있음**
 - **IDENTITY 전략은 em.persist() 시점에 즉시 INSERT SQL 실행하고 DB에서 식별자를 조회**
 
-
 ### SEQUENCE 전략 - 특징
 - 데이터베이스 시퀀스는 유일한 값을 순서대로 생성하는 특별한 데이터베이스 오브젝트(예: 오라클 시퀀스)
 - 오라클, PostgreSQL, DB2, H2 데이터베이스에서 사용
