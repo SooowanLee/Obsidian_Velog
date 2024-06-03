@@ -14,6 +14,12 @@
 | @Lob        | BLOB, CLOB 매핑  |
 | @Transient  | 특정 필드를 컬럼에서 제외 |
 ### @Column
-| 속성  | 설명  | 기본값 |
-| --- | --- | --- |
-|     |     |     |
+| 속성                       | 설명                                                                     | 기본값                  |
+| ------------------------ | ---------------------------------------------------------------------- | -------------------- |
+| name                     | 필드와 매핑할 테이블의 컬럼 이름                                                     | 객체 필드명               |
+| insertable<br>updatable  | 등록, 변경 가능 여부를 설정                                                       | TRUE                 |
+| nullable(DDL)            | null값의 허용 여부를 설정, false 설정시 not null                                   |                      |
+| unique(DDL)              | @Table의 uniqueConstraints과 같지만 한 컬럼에 간단히 유니크 제약조건을 걸 때 사용한다.           |                      |
+| columnDefinition(DDL)    | 데이터베이스 컬럼 정보를 직접 줄 수 있다.<br>예) varchar(100) default 'EMPTY'            | 필드의 자바 타입과 방언 정보를 사용 |
+| length(DDL)              | 문자 길이 제약조건, String 타입에만 사용한다.                                          | 255                  |
+| precision,<br>scale(DDL) | percision은 소수점을 포함한 전체 자릿수를, scale은 소수의 자릿수<br>정밀한 소수를 다루어야 할 때만 사용한다. | precision=19         |
