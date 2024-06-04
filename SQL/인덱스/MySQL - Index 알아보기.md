@@ -56,6 +56,7 @@ CREATE TABLE player(
 `Key_name`: Index 이름
 `Seq_in_index`: 인덱스 내에서 열(column)의 순서
 - Seq_in_index가 1, 2인것으로 보아 multicolumn index라는 걸 알 수 있다.
+
 `Column_name`: 컬럼 이름
 `Null`: 해당 INDEX의 Attribute의 Null 허용 여부
 
