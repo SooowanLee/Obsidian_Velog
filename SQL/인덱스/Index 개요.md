@@ -24,3 +24,5 @@ SELECT * FROM employee E JOIN department D ON E.dept_id = D.id;
 ```
 
 ### Index 생성 방법
+#### 테이블에 데이터가 이미 존재
+- `CREATE INDEX player_name_idx ON player(name);`
