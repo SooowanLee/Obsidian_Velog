@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/SQL/B-Tree 자료.md",
+                "file": "SQL/인덱스/Index 개요.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/SQL/B-Tree 자료.md",
+                "file": "SQL/인덱스/Index 개요.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/SQL/B-Tree 자료.md"
+                "file": "SQL/인덱스/Index 개요.md"
               }
             }
           },
@@ -208,11 +207,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3bb6263988a6f96b",
+  "active": "06b0bb3fe7de12ec",
   "lastOpenFiles": [
+    "Excalidraw/SQL/B-Tree 자료.md",
     "SQL/인덱스/Index 개요.md",
     "Image/Pasted Image 20240604150354_200.png",
-    "Excalidraw/SQL/B-Tree 자료.md",
     "Image/Pasted Image 20240604150329_357.png",
     "Image/Pasted Image 20240604150329_318.png",
     "Image",
