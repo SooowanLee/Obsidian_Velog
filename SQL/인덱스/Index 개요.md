@@ -47,7 +47,7 @@ CREATE TABLE player(
 
 대부분의 RDBMS에서는 primary key에는 index가 자동 생성된다.
 
-### 인덱스 파악하기
+### 테이블에 걸린 인덱스 보기
 `SHOW INDEX FROM player`
 ![](https://i.imgur.com/tefqTIZ.png)
 
