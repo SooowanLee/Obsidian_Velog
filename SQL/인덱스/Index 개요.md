@@ -100,3 +100,13 @@ MEMBERS 라는 테이블의 a컬럼을 기준으로 인덱스를 생성합니다
 ### 쿼리가 어떤 인덱스를 사용하는지 확인하기
 SELECT 앞에 EXPLAIN을 적어주면 해당 쿼리가 어떤 INDEX를 사용하는지 알 수 있습니다.
 `EXPLAIN SELECT * FROM player WHERE backnumber = 7;`
+![](https://i.imgur.com/YMdSXqe.png)
+
+table : index를 통해서 조회한 테이블
+possible_keys: 어떤 인덱스를 사용해서 조회했는 지
+
+### 인덱스 지정하기
+SELECT 쿼리를 통해 데이터를 조회할 때 성능이 안나오거나 이상한 INDEX를 사용해서 조회해 오는 경우가 있습니다.
+그럴 때 우리가 생성하고 사용하고 싶은 인덱스를 지정해서 조회할 수 있습니다.
+**바로, UES INDEX 키워드를 사용하면 됩니다.**
+`SELECT * FROM player USE INDEX (backnumber_idx) WHERE backnumber = 7;`
