@@ -136,4 +136,3 @@ TIP
 ### Covering index
 만약 조회하려는 컬럼이 모두 인덱스에 포함되어 있다면 원래 테이블까지 조회하지 않고 INDEX에서 데이터를 바로 반환합니다.
 **예를 들어) team_id, backnumber를 조회하려할 때** -> **INDEX(team_id, backnumber)** 를 사용한다면 INDEX안에 team_id와 backnumber가 모두 있기 때문에 원래 테이블을 조회할 필요가 없습니다.
-
