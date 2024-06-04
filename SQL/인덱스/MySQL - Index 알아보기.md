@@ -21,7 +21,7 @@
 
 아래 코드에서 SELECT, DELETE, JOIN등에서 WHERE나 ON에서 데이터를 빠르게 조회하기 위해 Index를 사용합니다.
 
-```
+```SQL
 SELECT * FROM customer WHERE first_name = 'Minsoo';
 DELETE FROM logs WHERE log_datatime < '2024-01-01';
 SELECT * FROM employee E JOIN department D ON E.dept_id = D.id;
