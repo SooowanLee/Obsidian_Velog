@@ -10,8 +10,8 @@
 특정 열(또는 열들)에 대한 데이터를 정렬된 형태로 저장하여 빠른 검색을 가능하게 합니다.  책의 색인처럼 작동, 데이터 검색 시에 Full Scan을 하지 않고 빠르게 접근할 수 있게합니다.
 
 ### 구조
- - [[B-Tree]]
- - 해시 테이블 구조
+ - **B-Tree**
+ - **해시 테이블 구조**
 
 ### Index를 쓰는 이유
 **특정 조건을 만족하는 데이터를 빠르게 조회하기 위해서 사용합니다.**
@@ -49,8 +49,14 @@ CREATE TABLE player(
 
 ### 인덱스 파악하기
 `SHOW INDEX FROM player`
-![](https://i.imgur.com/Zs2yA5a.png)
+![](https://i.imgur.com/tefqTIZ.png)
 
-Table : 테이블 이름
-Non_unique: 인덱스의 유니크 여부
-Key_name: Index 이름
+`Table` : 테이블 이름
+`Non_unique`: 인덱스의 유니크 여부
+`Key_name`: Index 이름
+`Seq_in_index`: 인덱스 내에서 열(column)의 순서
+- Seq_in_index가 1, 2인것으로 보아 multicolumn index라는 걸 알 수 있다.
+`Column_name`: 컬럼 이름
+`Null`: 해당 INDEX의 Attribute의 Null 허용 여부
+
+### [[B-Tree]] 기반의 index가 동작하는 방식
