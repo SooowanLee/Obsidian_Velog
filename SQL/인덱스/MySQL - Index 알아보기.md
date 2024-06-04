@@ -98,6 +98,9 @@ MEMBERS 라는 테이블의 a컬럼을 기준으로 인덱스를 생성합니다
 하지만, 마지막 `a = 8`인 컬럼이 남아있기 때문에 `a=8, b=78`인 컬럼까지 확인을 하고 최종 값을 반환합니다.
 
 ### 쿼리가 어떤 인덱스를 사용하는지 확인하기
+우리는 INDEX를 지정하지 않았는데 신기하게 DBMS는 INDEX를 적용해서 데이터를 조회합니다. 어떻게 이런 일이 일어나는가?
+바로 옵티마이저가 적절한 INDEX 사용하기 때문입니다.
+
 SELECT 앞에 EXPLAIN을 적어주면 해당 쿼리가 어떤 INDEX를 사용하는지 알 수 있습니다.
 `EXPLAIN SELECT * FROM player WHERE backnumber = 7;`
 ![](https://i.imgur.com/YMdSXqe.png)
@@ -108,5 +111,29 @@ possible_keys: 어떤 인덱스를 사용해서 조회했는 지
 ### 인덱스 지정하기
 SELECT 쿼리를 통해 데이터를 조회할 때 성능이 안나오거나 이상한 INDEX를 사용해서 조회해 오는 경우가 있습니다.
 그럴 때 우리가 생성하고 사용하고 싶은 인덱스를 지정해서 조회할 수 있습니다.
-**바로, UES INDEX 키워드를 사용하면 됩니다.**
+- USE INDEX
+- FORCE INDEX
+
+**USE INDEX**(가급적 내가 원하는 INDEX를 사용해주세요~의 느낌)
 `SELECT * FROM player USE INDEX (backnumber_idx) WHERE backnumber = 7;`
+
+**FORCE INDEX**(꼭 내가 지정한 INDEX를 사용해 주세요!)
+`SELECT * FROM player FORCE INDEX (backnumber_idx) WHERE backnumber = 7;`
+
+TIP
+> FORCE를 사용해서 INDEX를 지정하면 옵티마이저가 최대한 지정한 INDEX를 사용해서 데이터를 조회하겠지만 정말 적절한 INDEX가 없다면 FULL SCAN을 할 수 있습니다.
+
+### 인덱스 사용 주의사항
+인덱스를 사용하면 데이터 조회 속도가 빠르니까 모든 컬럼에 인덱스를 만들어서 사용해도 괜찮을까?
+
+**인덱스를 만들때는 원래 테이블의 데이터 말고 INDEX를 위한 부가적인 데이터가 생성이됩니다.**
+만약, 원래 테이블에 생성, 수정, 삭제 같은 write 행위를 할때마다 INDEX에도 변경이 발생합니다.
+그럼 변경하기 위한 시간이 소요됩니다. 인덱스가 많아질 수록 오버헤드가 커집니다.
+
+**추가적인 저장 공간 차지**
+인덱스마다 인덱스를 위한 데이터가 생성이 되기 때문에 각가의 저장공간을 차지합니다.
+
+### Covering index
+만약 조회하려는 컬럼이 모두 인덱스에 포함되어 있다면 원래 테이블까지 조회하지 않고 INDEX에서 데이터를 바로 반환합니다.
+**예를 들어) team_id, backnumber를 조회하려할 때** -> **INDEX(team_id, backnumber)** 를 사용한다면 INDEX안에 team_id와 backnumber가 모두 있기 때문에 원래 테이블을 조회할 필요가 없습니다.
+

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/인덱스/Index 개요.md",
+                "file": "SQL/인덱스/MySQL - Index 알아보기.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/인덱스/Index 개요.md",
+                "file": "SQL/인덱스/MySQL - Index 알아보기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/인덱스/Index 개요.md",
+                "file": "SQL/인덱스/MySQL - Index 알아보기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/인덱스/Index 개요.md"
+                "file": "SQL/인덱스/MySQL - Index 알아보기.md"
               }
             }
           },
@@ -210,7 +210,7 @@
   "active": "06b0bb3fe7de12ec",
   "lastOpenFiles": [
     "Excalidraw/SQL/B-Tree 자료.md",
-    "SQL/인덱스/Index 개요.md",
+    "SQL/인덱스/MySQL - Index 알아보기.md",
     "Image/Pasted Image 20240604153119_684.png",
     "Image/Pasted Image 20240604153058_935.png",
     "Image/Pasted Image 20240604150354_200.png",
