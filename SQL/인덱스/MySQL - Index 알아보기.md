@@ -106,8 +106,8 @@ SELECT 앞에 EXPLAIN을 적어주면 해당 쿼리가 어떤 INDEX를 사용하
 `EXPLAIN SELECT * FROM player WHERE backnumber = 7;`
 ![](https://i.imgur.com/YMdSXqe.png)
 
-table : index를 통해서 조회한 테이블
-possible_keys: 어떤 인덱스를 사용해서 조회했는 지
+`table` : index를 통해서 조회한 테이블
+`possible_keys`: 어떤 인덱스를 사용해서 조회했는 지
 
 ### 인덱스 지정하기
 SELECT 쿼리를 통해 데이터를 조회할 때 성능이 안나오거나 이상한 INDEX를 사용해서 조회해 오는 경우가 있습니다.
@@ -121,8 +121,8 @@ SELECT 쿼리를 통해 데이터를 조회할 때 성능이 안나오거나 이
 **FORCE INDEX**(꼭 내가 지정한 INDEX를 사용해 주세요!)
 `SELECT * FROM player FORCE INDEX (backnumber_idx) WHERE backnumber = 7;`
 
-TIP
-> FORCE를 사용해서 INDEX를 지정하면 옵티마이저가 최대한 지정한 INDEX를 사용해서 데이터를 조회하겠지만 정말 적절한 INDEX가 없다면 FULL SCAN을 할 수 있습니다.
+**TIP**
+> FORCE를 사용해서 INDEX를 지정하면 옵티마이저가 최대한 지정한 INDEX를 사용해서 데이터를 조회하겠지만 **정말 적절한 INDEX가 없다면 FULL SCAN을 할 수 있습니다.**
 
 ### 인덱스 사용 주의사항
 인덱스를 사용하면 데이터 조회 속도가 빠르니까 모든 컬럼에 인덱스를 만들어서 사용해도 괜찮을까?
