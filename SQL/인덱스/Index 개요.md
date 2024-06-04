@@ -49,3 +49,8 @@ CREATE TABLE player(
 
 ### 인덱스 파악하기
 `SHOW INDEX FROM player`
+![](https://i.imgur.com/Zs2yA5a.png)
+
+Table : 테이블 이름
+Non_unique: 인덱스의 유니크 여부
+Key_name: Index 이름
