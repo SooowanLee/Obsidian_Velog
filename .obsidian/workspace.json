@@ -87,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.50152587890625
+    "width": 280.50152587890625,
+    "collapsed": true
   },
   "right": {
     "id": "5a2dcc2e0a541c4d",
@@ -185,9 +186,9 @@
   },
   "active": "06b0bb3fe7de12ec",
   "lastOpenFiles": [
-    "SQL/인덱스/[[B-Tree.md",
+    "SQL/DB_인덱스_자료구조/B-Tree.md",
     "SQL/인덱스/Index 개요.md",
-    "SQL/DB_인덱스_자료구조/B-Tree 개념과 특징, 데이터 삽입 동작 방식.md",
+    "SQL/인덱스/[[B-Tree.md",
     "JPA/엔티티 매핑/JPA 매핑 - 필드와 컬럼.md",
     "SQL/인덱스",
     "SQL/DB_인덱스_자료구조",

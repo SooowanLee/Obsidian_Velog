@@ -3,7 +3,7 @@
   "attachmentFolderPath": "Image",
   "spellcheck": false,
   "vimMode": false,
-  "alwaysUpdateLinks": false,
+  "alwaysUpdateLinks": true,
   "useMarkdownLinks": false,
   "showUnsupportedFiles": true,
   "trashOption": "system",
