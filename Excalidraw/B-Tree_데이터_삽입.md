@@ -18,6 +18,8 @@ tags: [excalidraw]
 
 30 ^gFsUZI6K
 
+90 ^F3oS912o
+
 %%
 # Drawing
 ```json
@@ -616,8 +618,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 355,
-			"versionNonce": 873587793,
+			"version": 380,
+			"versionNonce": 1077247519,
 			"index": "aY",
 			"isDeleted": false,
 			"id": "gFsUZI6K",
@@ -627,21 +629,21 @@ tags: [excalidraw]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 464.5299003739935,
-			"y": -31.965995833773015,
+			"x": 460.1829765458685,
+			"y": -33.373671658137624,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 59.934814453125,
-			"height": 54.727216720327206,
+			"width": 56.364348431446714,
+			"height": 51.46698025269326,
 			"seed": 1675607231,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1717570515537,
+			"updated": 1717570684361,
 			"link": null,
 			"locked": false,
-			"fontSize": 43.78177337626177,
+			"fontSize": 41.17358420215462,
 			"fontFamily": 1,
 			"text": "30",
 			"rawText": "30",
@@ -703,6 +705,43 @@ tags: [excalidraw]
 					116.28239222935281
 				]
 			]
+		},
+		{
+			"id": "F3oS912o",
+			"type": "text",
+			"x": 533.3446660786636,
+			"y": -30.99614469296357,
+			"width": 50.935191563197336,
+			"height": 49.089453287519206,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "ad",
+			"roundness": null,
+			"seed": 1949071775,
+			"version": 65,
+			"versionNonce": 708731455,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1717570684361,
+			"link": null,
+			"locked": false,
+			"text": "90",
+			"rawText": "90",
+			"fontSize": 39.27156263001537,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "90",
+			"lineHeight": 1.25
 		},
 		{
 			"id": "hY5CNMiq",
