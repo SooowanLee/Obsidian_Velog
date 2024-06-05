@@ -60,8 +60,9 @@ CREATE TABLE player(
 대부분의 RDBMS에서는 primary key에는 index가 자동 생성된다.
 
 ### 테이블에 걸린 인덱스 보기
+SHOW INDEX FROM TABLE
+- 예) `SHOW INDEX FROM player`
 
-`SHOW INDEX FROM player`
 
 ![](https://i.imgur.com/tefqTIZ.png)
 
@@ -77,8 +78,8 @@ CREATE TABLE player(
 
 ### B-Tree 기반의 index가 동작하는 방식
 
-B-Tree는 KEY=VALUE 형태로 데이터를 저장하고 있습니다.  
-KEY에는 컬럼의 값을 가지고 있고, VALUE에는 값의 주소를 가지고 있습니다.
+INDEX는 키, 값 형태로 데이터를 저장하고 있습니다.  
+키에는 컬럼의 값을 가지고 있고, 값에는 값의 주소를 가지고 있습니다.
 
 MEMBERS라는 테이블의 a컬럼을 기준으로 인덱스를 생성합니다.
 
@@ -90,7 +91,7 @@ MEMBERS라는 테이블의 a컬럼을 기준으로 인덱스를 생성합니다.
 
 ![](https://i.imgur.com/8XpYIOI.png)
 
-가운데 값인 5를 가지고 조건과 비교를 합니다. 그런데 where의 값은 8인데 가운데 값은 5이기 때문에 위쪽에 있는 값을 가지고 확인을 합니다.
+가운데 값인 5를 가지고 조건과 비교를 합니다. 그런데 **where의 값은 8인데 가운데 값은 5이기 때문에 위쪽에 있는 값을 가지고 확인**을 합니다.
 
 그럼 이제 위쪽 부분에서 가운데를 고릅니다. 9겠죠?  
 그럼 9를 기준으로 확인을 합니다. 그런데 `where a = 8`이기 때문에 아래쪽을 확인합니다.  
