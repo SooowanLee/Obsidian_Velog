@@ -26,7 +26,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/이진탐색트리.md"
+                "file": "Excalidraw/자료구조/이진탐색트리_구조.md"
               }
             }
           }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/이진탐색트리.md",
+                "file": "Excalidraw/자료구조/이진탐색트리_구조.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/이진탐색트리.md",
+                "file": "Excalidraw/자료구조/이진탐색트리_구조.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/이진탐색트리.md"
+                "file": "Excalidraw/자료구조/이진탐색트리_구조.md"
               }
             }
           },
@@ -197,17 +197,18 @@
   },
   "active": "e05b75a1da15698e",
   "lastOpenFiles": [
+    "무제 폴더",
     "SQL/DB_인덱스_자료구조/B-Tree.md",
-    "Excalidraw/이진탐색트리.md",
+    "Excalidraw/자료구조/이진탐색트리_구조.md",
     "SQL/인덱스/MySQL - Index 알아보기.md",
-    "Excalidraw/SQL/B-Tree 자료.md",
+    "Excalidraw/자료구조/B-Tree 자료.md",
     "Image/Pasted Image 20240604153119_684.png",
     "Image/Pasted Image 20240604153058_935.png",
     "Image/Pasted Image 20240604150354_200.png",
     "Image/Pasted Image 20240604150329_357.png",
     "Image/Pasted Image 20240604150329_318.png",
     "Image",
-    "Excalidraw/SQL",
+    "Excalidraw/자료구조",
     "SQL/인덱스/[[B-Tree.md",
     "JPA/엔티티 매핑/JPA 매핑 - 필드와 컬럼.md",
     "SQL/인덱스",
@@ -235,7 +236,6 @@
     "Excalidraw/Docker/이미지_레지스트리.md",
     "도커(Docker)/이미지와 컨테이너/컨테이너의 라이프사이클.md",
     "도커(Docker)/이미지 레지스트리",
-    "Excalidraw/Docker/클라이언트_서버.md",
     "Excalidraw/Docker",
     "Excalidraw/JPA",
     "Image/Pasted image 20240516150750.png",
