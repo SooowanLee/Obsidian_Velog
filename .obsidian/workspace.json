@@ -30,8 +30,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/B-Tree_데이터_삽입.md",
+                "file": "SQL/DB_인덱스_자료구조/B-Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/B-Tree_데이터_삽입.md",
+                "file": "SQL/DB_인덱스_자료구조/B-Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/B-Tree_데이터_삽입.md"
+                "file": "SQL/DB_인덱스_자료구조/B-Tree.md"
               }
             }
           },
@@ -195,10 +194,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6df7e5fa4ceece2d",
+  "active": "a4cafc10894dd63d",
   "lastOpenFiles": [
-    "SQL/DB_인덱스_자료구조/B-Tree.md",
     "Excalidraw/B-Tree_데이터_삽입.md",
+    "SQL/DB_인덱스_자료구조/B-Tree.md",
     "Excalidraw/자료구조/B-Tree 자료.md",
     "Excalidraw/자료구조/이진탐색트리_구조.md",
     "무제 폴더",
