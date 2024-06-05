@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e05b75a1da15698e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/이진탐색트리.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/DB_인덱스_자료구조/B-Tree.md",
+                "file": "Excalidraw/이진탐색트리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/DB_인덱스_자료구조/B-Tree.md",
+                "file": "Excalidraw/이진탐색트리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/DB_인덱스_자료구조/B-Tree.md"
+                "file": "Excalidraw/이진탐색트리.md"
               }
             }
           },
@@ -184,10 +195,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a4cafc10894dd63d",
+  "active": "e05b75a1da15698e",
   "lastOpenFiles": [
-    "SQL/인덱스/MySQL - Index 알아보기.md",
     "SQL/DB_인덱스_자료구조/B-Tree.md",
+    "Excalidraw/이진탐색트리.md",
+    "SQL/인덱스/MySQL - Index 알아보기.md",
     "Excalidraw/SQL/B-Tree 자료.md",
     "Image/Pasted Image 20240604153119_684.png",
     "Image/Pasted Image 20240604153058_935.png",
