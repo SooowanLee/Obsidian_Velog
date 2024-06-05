@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "e05b75a1da15698e",
+            "id": "6df7e5fa4ceece2d",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/자료구조/B-Tree 자료.md"
+                "file": "Excalidraw/B-Tree_데이터_삽입.md"
               }
             }
           }
@@ -196,8 +196,9 @@
   },
   "active": "a4cafc10894dd63d",
   "lastOpenFiles": [
-    "Excalidraw/자료구조/B-Tree 자료.md",
+    "Excalidraw/B-Tree_데이터_삽입.md",
     "SQL/DB_인덱스_자료구조/B-Tree.md",
+    "Excalidraw/자료구조/B-Tree 자료.md",
     "Excalidraw/자료구조/이진탐색트리_구조.md",
     "무제 폴더",
     "SQL/인덱스/MySQL - Index 알아보기.md",
