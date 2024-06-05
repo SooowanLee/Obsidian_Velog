@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/인덱스/MySQL - Index 알아보기.md",
-                "mode": "source",
+                "file": "SQL/DB_인덱스_자료구조/B Tree - 데이터 삽입.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/인덱스/MySQL - Index 알아보기.md",
+                "file": "SQL/DB_인덱스_자료구조/B Tree - 데이터 삽입.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/인덱스/MySQL - Index 알아보기.md",
+                "file": "SQL/DB_인덱스_자료구조/B Tree - 데이터 삽입.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/인덱스/MySQL - Index 알아보기.md"
+                "file": "SQL/DB_인덱스_자료구조/B Tree - 데이터 삽입.md"
               }
             }
           },
