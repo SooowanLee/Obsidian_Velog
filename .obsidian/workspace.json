@@ -8,29 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "06b0bb3fe7de12ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL/인덱스/MySQL - Index 알아보기.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3bb6263988a6f96b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/SQL/B-Tree 자료.md"
-              }
-            }
-          },
-          {
             "id": "a4cafc10894dd63d",
             "type": "leaf",
             "state": {
@@ -127,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/인덱스/MySQL - Index 알아보기.md",
+                "file": "SQL/DB_인덱스_자료구조/B-Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/인덱스/MySQL - Index 알아보기.md",
+                "file": "SQL/DB_인덱스_자료구조/B-Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/인덱스/MySQL - Index 알아보기.md"
+                "file": "SQL/DB_인덱스_자료구조/B-Tree.md"
               }
             }
           },
@@ -207,17 +184,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "06b0bb3fe7de12ec",
+  "active": "a4cafc10894dd63d",
   "lastOpenFiles": [
-    "Excalidraw/SQL/B-Tree 자료.md",
     "SQL/인덱스/MySQL - Index 알아보기.md",
+    "SQL/DB_인덱스_자료구조/B-Tree.md",
+    "Excalidraw/SQL/B-Tree 자료.md",
     "Image/Pasted Image 20240604153119_684.png",
     "Image/Pasted Image 20240604153058_935.png",
     "Image/Pasted Image 20240604150354_200.png",
     "Image/Pasted Image 20240604150329_357.png",
     "Image/Pasted Image 20240604150329_318.png",
     "Image",
-    "SQL/DB_인덱스_자료구조/B-Tree.md",
     "Excalidraw/SQL",
     "SQL/인덱스/[[B-Tree.md",
     "JPA/엔티티 매핑/JPA 매핑 - 필드와 컬럼.md",
