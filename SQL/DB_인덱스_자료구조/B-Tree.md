@@ -25,4 +25,6 @@
 - ⌈M/2⌉ -1 : 각 노드의 최소 key 수
 	- root node 제외
 
-- 
+
+## B-Tree 특징
+internal 노드의 key수가 x 개라면 자녀 노드의 수는 언제나 x+1 개다.

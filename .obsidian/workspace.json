@@ -30,7 +30,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/DB_인덱스_자료구조/B-Tree.md",
+                "file": "Excalidraw/자료구조/이진탐색트리_구조.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/DB_인덱스_자료구조/B-Tree.md",
+                "file": "Excalidraw/자료구조/이진탐색트리_구조.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/DB_인덱스_자료구조/B-Tree.md"
+                "file": "Excalidraw/자료구조/이진탐색트리_구조.md"
               }
             }
           },
@@ -194,11 +195,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a4cafc10894dd63d",
+  "active": "e05b75a1da15698e",
   "lastOpenFiles": [
+    "SQL/DB_인덱스_자료구조/B-Tree.md",
     "Excalidraw/자료구조/이진탐색트리_구조.md",
     "무제 폴더",
-    "SQL/DB_인덱스_자료구조/B-Tree.md",
     "SQL/인덱스/MySQL - Index 알아보기.md",
     "Excalidraw/자료구조/B-Tree 자료.md",
     "Image/Pasted Image 20240604153119_684.png",
