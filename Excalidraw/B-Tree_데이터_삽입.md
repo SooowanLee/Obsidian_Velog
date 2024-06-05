@@ -12,7 +12,9 @@ tags: [excalidraw]
 
 2 ^cuKOgkx5
 
-15 ^TW2R9H5n
+5 ^TW2R9H5n
+
+15 ^IyucdEPf
 
 %%
 # Drawing
@@ -347,8 +349,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "text",
-			"version": 285,
-			"versionNonce": 1629671601,
+			"version": 287,
+			"versionNonce": 503474943,
 			"index": "aL",
 			"isDeleted": false,
 			"id": "TW2R9H5n",
@@ -362,24 +364,24 @@ tags: [excalidraw]
 			"y": -35.55611497855101,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 38.92041015625,
+			"width": 27.0560302734375,
 			"height": 54.727216720327206,
 			"seed": 1798537727,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1717569704875,
+			"updated": 1717570181662,
 			"link": null,
 			"locked": false,
 			"fontSize": 43.78177337626177,
 			"fontFamily": 1,
-			"text": "15",
-			"rawText": "15",
+			"text": "5",
+			"rawText": "5",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "15",
+			"originalText": "5",
 			"lineHeight": 1.25
 		},
 		{
@@ -487,6 +489,43 @@ tags: [excalidraw]
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
+		},
+		{
+			"id": "IyucdEPf",
+			"type": "text",
+			"x": 156.52022727320616,
+			"y": -35.41899310542237,
+			"width": 36.25471496582033,
+			"height": 50.97686806627711,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "aV",
+			"roundness": null,
+			"seed": 1865742143,
+			"version": 42,
+			"versionNonce": 142292159,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1717570187094,
+			"link": null,
+			"locked": false,
+			"text": "15",
+			"rawText": "15",
+			"fontSize": 40.78149445302168,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "15",
+			"lineHeight": 1.25
 		},
 		{
 			"id": "hY5CNMiq",
@@ -616,7 +655,7 @@ tags: [excalidraw]
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"scrollX": 543.3718440420146,
-		"scrollY": 739.2826651903395,
+		"scrollY": 630.6075586503341,
 		"zoom": {
 			"value": 0.6999999999999997
 		},
