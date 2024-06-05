@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "JPA/연관관계 매핑 기초/단방향 연관관계.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabeticalReverse"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           }
@@ -87,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.50152587890625
+    "width": 280.50152587890625,
+    "collapsed": true
   },
   "right": {
     "id": "5a2dcc2e0a541c4d",
@@ -183,7 +184,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5ab3f70515b1b88c",
+  "active": "d029f1d685ab07ea",
   "lastOpenFiles": [
     "무제 폴더",
     "SQL/인덱스/MySQL - Index 알아보기.md",
