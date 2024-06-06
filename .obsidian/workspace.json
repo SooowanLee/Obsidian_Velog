@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "30a7ef51a8be5347",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL/인덱스/MySQL - Index 알아보기.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/인덱스/MySQL - Index 알아보기.md",
+                "file": "JPA/연관관계 매핑 기초/단방향 연관관계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/인덱스/MySQL - Index 알아보기.md",
+                "file": "JPA/연관관계 매핑 기초/단방향 연관관계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/인덱스/MySQL - Index 알아보기.md"
+                "file": "JPA/연관관계 매핑 기초/단방향 연관관계.md"
               }
             }
           },
@@ -198,11 +184,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "30a7ef51a8be5347",
+  "active": "d029f1d685ab07ea",
   "lastOpenFiles": [
+    "SQL/인덱스/MySQL - Index 알아보기.md",
     "JPA/연관관계 매핑 기초/단방향 연관관계.md",
     "무제 폴더",
-    "SQL/인덱스/MySQL - Index 알아보기.md",
     "JPA/엔티티 매핑/JPA 매핑 - 기본 키.md",
     "JPA/엔티티 매핑/JPA 매핑 - 필드와 컬럼.md",
     "JPA/엔티티 매핑/JPA의 DB스키마 자동 생성.md",
