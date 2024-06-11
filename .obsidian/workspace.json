@@ -183,9 +183,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5ab3f70515b1b88c",
+  "active": "728dad5e6b11c49b",
   "lastOpenFiles": [
     "SQL/DB_인덱스_자료구조/B Tree - 데이터 삽입.md",
+    "SQL/인덱스/MySQL - Index 알아보기.md",
+    "SQL/인덱스/B-Tree.md",
     "Spring/Thymeleaf/타임리프 기본 기능 알아보기 -1.md",
     "Spring/Thymeleaf/타임리프란 무엇인가.md",
     "Maven&Gradle/Maven/pom.xml 살펴보기.md",
@@ -194,7 +196,6 @@
     "Spring_React_프로젝트/AuthContext에 기본 인증 토큰 설정하기.md",
     "Spring_React_프로젝트/인증 헤더 추가를 위한 Axios 인터셉터 설정.md",
     "Spring_React_프로젝트/프론트에서 로그인할 때 기본 인증 서비스 호출하기.md",
-    "SQL/인덱스/MySQL - Index 알아보기.md",
     "JPA/연관관계 매핑 기초/단방향 연관관계.md",
     "Spring",
     "2024-06-09.md",
@@ -225,7 +226,6 @@
     " - 복사본.gitignore",
     "JPA/엔티티 매핑",
     "1. Daily/2024년 6월 01일 (토).md",
-    "1. Daily/2024년 5월 31일 (금).md",
     "Image/Pasted image 20240516150750.png",
     "Image/프론트에서 로그인할 때 기본 인증 서비스 호출하기-20240516150453135.webp",
     "Image/Untitled Diagram.svg",
