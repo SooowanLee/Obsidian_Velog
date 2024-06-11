@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f38a6c579c6a47a2",
+        "id": "d706484fdbb9dc9f",
         "type": "tabs",
         "children": [
           {
-            "id": "fc8475f2ab4afaed",
+            "id": "0f98a972dd48d40f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maven&Gradle/Maven/Maven이란.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -34,6 +29,16 @@
         "type": "tabs",
         "children": [
           {
+            "id": "5ab3f70515b1b88c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
             "id": "2289f872d95506e0",
             "type": "leaf",
             "state": {
@@ -47,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "진행중",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,27 +68,8 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "25198b10f441edc5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "5ab3f70515b1b88c",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "byCreatedTimeReverse"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -104,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maven&Gradle/Maven/Maven이란.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maven&Gradle/Maven/Maven이란.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       },
       {
         "id": "41730607c043a883",
@@ -179,16 +163,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Maven&Gradle/Maven/Maven이란.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 347.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,8 +186,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fc8475f2ab4afaed",
+  "active": "0f98a972dd48d40f",
   "lastOpenFiles": [
+    "무제 파일.canvas",
+    "Maven&Gradle/Maven/Maven이란.md",
     "JUnit_단위_테스트/JUnit과 단위 테스트는 무엇인가.md",
     "JUnit_단위_테스트/JUnit 프로젝트 - 1.md",
     "JPA/연관관계 매핑 기초/단방향 연관관계.md",
@@ -220,7 +205,6 @@
     "Spring/Thymeleaf/타임리프란 무엇인가.md",
     "Maven&Gradle/Maven/pom.xml 살펴보기.md",
     "Maven&Gradle/Maven/Spring Boot 프로젝트 Maven으로 생성하기.md",
-    "Maven&Gradle/Maven/Maven이란.md",
     "Spring_React_프로젝트/AuthContext에 기본 인증 토큰 설정하기.md",
     "Spring_React_프로젝트/인증 헤더 추가를 위한 Axios 인터셉터 설정.md",
     "Spring_React_프로젝트/프론트에서 로그인할 때 기본 인증 서비스 호출하기.md",
@@ -242,7 +226,6 @@
     "Image/Pasted Image 20240604153119_684.png",
     "Image",
     "Excalidraw/자료구조",
-    "SQL/인덱스/[[B-Tree.md",
     "SQL/인덱스",
     "SQL/DB_인덱스_자료구조",
     "SQL",
@@ -251,7 +234,6 @@
     "Image/Untitled Diagram.svg",
     "프론트에서 로그인할 때 기본 인증 서비스 호출하기-20240516150327501.webp",
     "Image file/Pasted image 20240515222843.png",
-    "무제 파일.canvas",
     "Untitled.canvas",
     "마인드맵.canvas"
   ]

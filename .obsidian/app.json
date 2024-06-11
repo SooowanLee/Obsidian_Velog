@@ -1,12 +1,12 @@
 {
-  "promptDelete": false,
+  "promptDelete": true,
   "attachmentFolderPath": "Image",
   "spellcheck": false,
   "vimMode": false,
   "alwaysUpdateLinks": true,
   "useMarkdownLinks": false,
   "showUnsupportedFiles": true,
-  "trashOption": "system",
+  "trashOption": "local",
   "foldHeading": false,
   "newFileLocation": "current",
   "defaultViewMode": "preview"
