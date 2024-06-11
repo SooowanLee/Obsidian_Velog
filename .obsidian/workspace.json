@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "스프링/타임리프/타임리프 기본 기능 알아보기 -1.md",
+                "file": "Spring/Thymeleaf/타임리프 기본 기능 알아보기 -1.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -101,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.50152587890625,
-    "collapsed": true
+    "width": 280.50152587890625
   },
   "right": {
     "id": "5a2dcc2e0a541c4d",
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "스프링/타임리프/타임리프 기본 기능 알아보기 -1.md",
+                "file": "Spring/Thymeleaf/타임리프 기본 기능 알아보기 -1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "스프링/타임리프/타임리프 기본 기능 알아보기 -1.md",
+                "file": "Spring/Thymeleaf/타임리프 기본 기능 알아보기 -1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "스프링/타임리프/타임리프 기본 기능 알아보기 -1.md"
+                "file": "Spring/Thymeleaf/타임리프 기본 기능 알아보기 -1.md"
               }
             }
           },
@@ -198,17 +197,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "32bfed102957bb91",
+  "active": "5ab3f70515b1b88c",
   "lastOpenFiles": [
     "JPA/연관관계 매핑 기초/단방향 연관관계.md",
-    "스프링/타임리프/타임리프란 무엇인가.md",
-    "스프링/타임리프/타임리프 기본 기능 알아보기 -1.md",
-    "스프링",
+    "Spring/Thymeleaf/타임리프란 무엇인가.md",
+    "Spring/Thymeleaf/타임리프 기본 기능 알아보기 -1.md",
+    "Spring",
     "2024-06-09.md",
     "JUnit_단위_테스트/JUnit과 단위 테스트는 무엇인가.md",
     "JUnit_단위_테스트/JUnit 프로젝트 - 1.md",
     "SQL/인덱스/MySQL - Index 알아보기.md",
-    "스프링/타임리프",
+    "Spring/Thymeleaf",
     "JPA/엔티티 매핑/JPA 매핑 - 기본 키.md",
     "JPA/엔티티 매핑/JPA 매핑 - 필드와 컬럼.md",
     "JPA/엔티티 매핑/JPA의 DB스키마 자동 생성.md",
