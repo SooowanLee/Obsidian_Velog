@@ -8,5 +8,6 @@
   "showUnsupportedFiles": true,
   "trashOption": "system",
   "foldHeading": false,
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "defaultViewMode": "preview"
 }

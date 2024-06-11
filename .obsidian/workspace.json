@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "4b22207490875f89",
+        "id": "02792974f32f5bbe",
         "type": "tabs",
         "children": [
           {
-            "id": "d029f1d685ab07ea",
+            "id": "728dad5e6b11c49b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JPA/연관관계 매핑 기초/단방향 연관관계.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32bfed102957bb91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring/Thymeleaf/타임리프 기본 기능 알아보기 -1.md",
+                "file": "SQL/인덱스/MySQL - Index 알아보기.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Thymeleaf/타임리프 기본 기능 알아보기 -1.md",
+                "file": "SQL/인덱스/MySQL - Index 알아보기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/Thymeleaf/타임리프 기본 기능 알아보기 -1.md",
+                "file": "SQL/인덱스/MySQL - Index 알아보기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/Thymeleaf/타임리프 기본 기능 알아보기 -1.md"
+                "file": "SQL/인덱스/MySQL - Index 알아보기.md"
               }
             }
           },
@@ -199,14 +185,21 @@
   },
   "active": "5ab3f70515b1b88c",
   "lastOpenFiles": [
-    "JPA/연관관계 매핑 기초/단방향 연관관계.md",
-    "Spring/Thymeleaf/타임리프란 무엇인가.md",
+    "SQL/DB_인덱스_자료구조/B Tree - 데이터 삽입.md",
     "Spring/Thymeleaf/타임리프 기본 기능 알아보기 -1.md",
+    "Spring/Thymeleaf/타임리프란 무엇인가.md",
+    "Maven&Gradle/Maven/pom.xml 살펴보기.md",
+    "Maven&Gradle/Maven/Spring Boot 프로젝트 Maven으로 생성하기.md",
+    "Maven&Gradle/Maven/Maven이란.md",
+    "Spring_React_프로젝트/AuthContext에 기본 인증 토큰 설정하기.md",
+    "Spring_React_프로젝트/인증 헤더 추가를 위한 Axios 인터셉터 설정.md",
+    "Spring_React_프로젝트/프론트에서 로그인할 때 기본 인증 서비스 호출하기.md",
+    "SQL/인덱스/MySQL - Index 알아보기.md",
+    "JPA/연관관계 매핑 기초/단방향 연관관계.md",
     "Spring",
     "2024-06-09.md",
     "JUnit_단위_테스트/JUnit과 단위 테스트는 무엇인가.md",
     "JUnit_단위_테스트/JUnit 프로젝트 - 1.md",
-    "SQL/인덱스/MySQL - Index 알아보기.md",
     "Spring/Thymeleaf",
     "JPA/엔티티 매핑/JPA 매핑 - 기본 키.md",
     "JPA/엔티티 매핑/JPA 매핑 - 필드와 컬럼.md",
@@ -221,7 +214,6 @@
     "Image/Pasted Image 20240604150354_200.png",
     "Image/Pasted Image 20240604153058_935.png",
     "Image/Pasted Image 20240604153119_684.png",
-    "SQL/DB_인덱스_자료구조/B Tree - 데이터 삽입.md",
     "Image",
     "Excalidraw/자료구조",
     "SQL/인덱스/[[B-Tree.md",
@@ -234,12 +226,6 @@
     "JPA/엔티티 매핑",
     "1. Daily/2024년 6월 01일 (토).md",
     "1. Daily/2024년 5월 31일 (금).md",
-    "Template/Daily_Template.md",
-    "Spring_React_프로젝트/프론트에서 로그인할 때 기본 인증 서비스 호출하기.md",
-    "JPA/영속성 관리/플러시.md",
-    "Excalidraw/JPA/JPA-변경감지.md",
-    "Excalidraw/JPA/트랜잭션을 지원하는 쓰기지연.md",
-    "Excalidraw/JPA/영속성 컨텍스트 - 1차 캐시에 없는 데이터 조회.md",
     "Image/Pasted image 20240516150750.png",
     "Image/프론트에서 로그인할 때 기본 인증 서비스 호출하기-20240516150453135.webp",
     "Image/Untitled Diagram.svg",
