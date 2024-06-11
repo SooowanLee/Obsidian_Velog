@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "eb1b165a1178da8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "스프링/타임리프/타임리프란 무엇인가.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.50152587890625,
-    "collapsed": true
+    "width": 280.50152587890625
   },
   "right": {
     "id": "5a2dcc2e0a541c4d",
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JPA/연관관계 매핑 기초/단방향 연관관계.md",
+                "file": "스프링/타임리프/타임리프란 무엇인가.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JPA/연관관계 매핑 기초/단방향 연관관계.md",
+                "file": "스프링/타임리프/타임리프란 무엇인가.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JPA/연관관계 매핑 기초/단방향 연관관계.md"
+                "file": "스프링/타임리프/타임리프란 무엇인가.md"
               }
             }
           },
@@ -184,14 +197,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d029f1d685ab07ea",
+  "active": "eb1b165a1178da8b",
   "lastOpenFiles": [
-    "2024-06-09.md",
     "JPA/연관관계 매핑 기초/단방향 연관관계.md",
+    "스프링/타임리프/타임리프란 무엇인가.md",
+    "스프링",
+    "2024-06-09.md",
     "JUnit_단위_테스트/JUnit과 단위 테스트는 무엇인가.md",
     "JUnit_단위_테스트/JUnit 프로젝트 - 1.md",
     "SQL/인덱스/MySQL - Index 알아보기.md",
-    "무제 폴더",
+    "스프링/타임리프",
     "JPA/엔티티 매핑/JPA 매핑 - 기본 키.md",
     "JPA/엔티티 매핑/JPA 매핑 - 필드와 컬럼.md",
     "JPA/엔티티 매핑/JPA의 DB스키마 자동 생성.md",
@@ -225,8 +240,6 @@
     "Excalidraw/JPA/트랜잭션을 지원하는 쓰기지연.md",
     "Excalidraw/JPA/영속성 컨텍스트 - 1차 캐시에 없는 데이터 조회.md",
     "Excalidraw/JPA/엔티티_생명주기.md",
-    "Excalidraw/Drawing 2024-05-31 23.51.47.excalidraw.md",
-    "도커(Docker)/이미지 레지스트리",
     "Image/Pasted image 20240516150750.png",
     "Image/프론트에서 로그인할 때 기본 인증 서비스 호출하기-20240516150453135.webp",
     "Image/Untitled Diagram.svg",
