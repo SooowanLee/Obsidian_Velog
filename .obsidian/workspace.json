@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "02792974f32f5bbe",
+        "id": "f38a6c579c6a47a2",
         "type": "tabs",
         "children": [
           {
-            "id": "728dad5e6b11c49b",
+            "id": "fc8475f2ab4afaed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/인덱스/MySQL - Index 알아보기.md",
+                "file": "Maven&Gradle/Maven/Maven이란.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -47,7 +47,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "진행중",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -96,6 +96,7 @@
       {
         "id": "41688d32c212a556",
         "type": "tabs",
+        "dimension": 32.514177693761816,
         "children": [
           {
             "id": "37c7aa9d1f35492d",
@@ -103,8 +104,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/인덱스/MySQL - Index 알아보기.md",
-                "collapseAll": false,
+                "file": "Maven&Gradle/Maven/Maven이란.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -120,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/인덱스/MySQL - Index 알아보기.md",
+                "file": "Maven&Gradle/Maven/Maven이란.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,16 +135,6 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "4fc69bbc71092d5c",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "SQL/인덱스/MySQL - Index 알아보기.md"
               }
             }
           },
@@ -162,13 +153,42 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "1575bf15506f4f95",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "41730607c043a883",
+        "type": "tabs",
+        "dimension": 67.48582230623819,
+        "children": [
+          {
+            "id": "4fc69bbc71092d5c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Maven&Gradle/Maven/Maven이란.md"
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 347.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,15 +198,23 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-projects:Open projects": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "728dad5e6b11c49b",
+  "active": "fc8475f2ab4afaed",
   "lastOpenFiles": [
-    "SQL/DB_인덱스_자료구조/B Tree - 데이터 삽입.md",
+    "JUnit_단위_테스트/JUnit과 단위 테스트는 무엇인가.md",
+    "JUnit_단위_테스트/JUnit 프로젝트 - 1.md",
+    "JPA/연관관계 매핑 기초/단방향 연관관계.md",
+    "Excalidraw/Docker/이미지_메타데이터.md",
+    "Excalidraw/Docker/이미지_레지스트리.md",
+    "Excalidraw/JPA/영속성 컨텍스트_1차캐시.md",
     "SQL/인덱스/MySQL - Index 알아보기.md",
+    "99. Attachment",
+    "00. Inbox",
+    "SQL/DB_인덱스_자료구조/B Tree - 데이터 삽입.md",
     "SQL/인덱스/B-Tree.md",
     "Spring/Thymeleaf/타임리프 기본 기능 알아보기 -1.md",
     "Spring/Thymeleaf/타임리프란 무엇인가.md",
@@ -196,11 +224,8 @@
     "Spring_React_프로젝트/AuthContext에 기본 인증 토큰 설정하기.md",
     "Spring_React_프로젝트/인증 헤더 추가를 위한 Axios 인터셉터 설정.md",
     "Spring_React_프로젝트/프론트에서 로그인할 때 기본 인증 서비스 호출하기.md",
-    "JPA/연관관계 매핑 기초/단방향 연관관계.md",
     "Spring",
     "2024-06-09.md",
-    "JUnit_단위_테스트/JUnit과 단위 테스트는 무엇인가.md",
-    "JUnit_단위_테스트/JUnit 프로젝트 - 1.md",
     "Spring/Thymeleaf",
     "JPA/엔티티 매핑/JPA 매핑 - 기본 키.md",
     "JPA/엔티티 매핑/JPA 매핑 - 필드와 컬럼.md",
@@ -221,11 +246,6 @@
     "SQL/인덱스",
     "SQL/DB_인덱스_자료구조",
     "SQL",
-    "도커(Docker)/이미지 레지스트리/이미지 레지스트리 명령어 사용하기.md",
-    "도커(Docker)/이미지 레지스트리/이미지 레지스트리.md",
-    " - 복사본.gitignore",
-    "JPA/엔티티 매핑",
-    "1. Daily/2024년 6월 01일 (토).md",
     "Image/Pasted image 20240516150750.png",
     "Image/프론트에서 로그인할 때 기본 인증 서비스 호출하기-20240516150453135.webp",
     "Image/Untitled Diagram.svg",

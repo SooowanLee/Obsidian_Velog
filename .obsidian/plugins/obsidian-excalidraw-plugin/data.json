@@ -6,8 +6,9 @@
   "templateFilePath": "Excalidraw/Template.excalidraw",
   "scriptFolderPath": "Excalidraw/Scripts",
   "compress": false,
+  "decompressForMDView": false,
+  "onceOffCompressFlagReset": false,
   "autosave": true,
-  "autosaveInterval": 15000,
   "autosaveIntervalDesktop": 15000,
   "autosaveIntervalMobile": 10000,
   "drawingFilenamePrefix": "Drawing ",
@@ -20,6 +21,7 @@
   "annotatePreserveSize": false,
   "previewImageType": "SVGIMG",
   "allowImageCache": true,
+  "allowImageCacheInScene": true,
   "displayExportedImageIfAvailable": false,
   "previewMatchObsidianTheme": false,
   "width": "400",
@@ -34,6 +36,7 @@
   "defaultPenMode": "never",
   "penModeCrosshairVisible": true,
   "renderImageInMarkdownReadingMode": false,
+  "renderImageInHoverPreviewForMDNotes": false,
   "renderImageInMarkdownToPDF": false,
   "allowPinchZoom": false,
   "allowWheelZoom": false,
@@ -78,6 +81,7 @@
   "fadeOutExcalidrawMarkup": false,
   "experimentalEnableFourthFont": false,
   "experimantalFourthFont": "Virgil",
+  "addDummyTextElement": false,
   "fieldSuggester": true,
   "compatibilityMode": false,
   "drawingOpenCount": 0,
@@ -85,7 +89,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.1.7",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.2.5",
     "libraryItems": [
       {
         "status": "published",
@@ -233,6 +237,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Document",
+            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -485,6 +490,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Image",
+            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -567,6 +573,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Folder",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -794,6 +801,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Email",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -996,6 +1004,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Sound",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -1340,6 +1349,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Video",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -1901,6 +1911,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Microphone",
+            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -2109,6 +2120,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Camera",
+            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -2168,7 +2180,7 @@
             "strokeColor": "#1e1e1e",
             "backgroundColor": "transparent",
             "width": 45.25275200586024,
-            "height": 63.86136130813761,
+            "height": 63.8613613081376,
             "seed": 1638223822,
             "groupIds": [
               "HM050b0AML1d6UQiWsHri",
@@ -2384,6 +2396,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Speaker",
+            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -3063,6 +3076,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Model",
+            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -3376,6 +3390,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Network",
+            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -3713,6 +3728,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Internet",
+            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -3886,6 +3902,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "User",
+            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -4066,6 +4083,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Home",
+            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -4274,6 +4292,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Pie chart",
+            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -4492,6 +4511,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Bar chart",
+            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -4724,6 +4744,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Firewall",
+            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -4902,6 +4923,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Cloud",
+            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -4979,6 +5001,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Database",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -5521,6 +5544,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Drive",
+            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -5599,6 +5623,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Server",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -6104,6 +6129,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Host",
+            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -6336,6 +6362,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Device",
+            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -6414,6 +6441,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Printer",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -7036,6 +7064,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Settings",
+            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -7252,6 +7281,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Key",
+            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -7410,6 +7440,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Yes",
+            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -7596,6 +7627,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "No",
+            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -9746,7 +9778,7 @@
             "strokeColor": "#1e1e1e",
             "backgroundColor": "transparent",
             "width": 285.02755841803753,
-            "height": 218.73898281599813,
+            "height": 218.7389828159981,
             "seed": 509271780,
             "groupIds": [
               "gDgST9bMrhWTqx5zohJHY"
@@ -9836,6 +9868,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Comment",
+            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -9918,6 +9951,7 @@
             "verticalAlign": "top",
             "containerId": "p7qAVRWw1SPg3o--WoUmB",
             "originalText": "Block",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -10100,6 +10134,7 @@
             "verticalAlign": "middle",
             "containerId": "PhtNYhgDsIdhQszVpdHIB",
             "originalText": "Task",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -10253,6 +10288,7 @@
             "verticalAlign": "middle",
             "containerId": "8r9b4YrSMWrnbgLnvNqaL",
             "originalText": "Pool",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -10693,6 +10729,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "DB\n(main)",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -10730,6 +10767,7 @@
             "verticalAlign": "middle",
             "containerId": null,
             "originalText": "API",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -10776,6 +10814,7 @@
             "verticalAlign": "middle",
             "containerId": null,
             "originalText": "LB",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -10982,6 +11021,7 @@
             "verticalAlign": "middle",
             "containerId": null,
             "originalText": "LB",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -11112,6 +11152,7 @@
             "verticalAlign": "middle",
             "containerId": null,
             "originalText": "API",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -11338,6 +11379,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "DB\n(Read)",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -11408,6 +11450,7 @@
             "verticalAlign": "middle",
             "containerId": null,
             "originalText": "Users",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -11478,6 +11521,7 @@
             "verticalAlign": "middle",
             "containerId": null,
             "originalText": "Admin",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -11874,6 +11918,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Private Cloud",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -11911,6 +11956,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Web Exposed",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -12185,6 +12231,7 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Stream",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -12250,6 +12297,7 @@
             "verticalAlign": "middle",
             "containerId": null,
             "originalText": "Batch",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -12315,6 +12363,7 @@
             "verticalAlign": "middle",
             "containerId": null,
             "originalText": "Worker",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -12357,6 +12406,7 @@
             "verticalAlign": "middle",
             "containerId": null,
             "originalText": " App Servers",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -12504,6 +12554,7 @@
             "verticalAlign": "middle",
             "containerId": null,
             "originalText": " App Servers",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -12908,6 +12959,7 @@
             "verticalAlign": "middle",
             "containerId": null,
             "originalText": "S3",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -12945,6 +12997,7 @@
             "verticalAlign": "middle",
             "containerId": null,
             "originalText": "S3",
+            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -13010,6 +13063,7 @@
             "verticalAlign": "middle",
             "containerId": null,
             "originalText": "CDN",
+            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -15054,7 +15108,7 @@
             "y": 399.7953797979802,
             "strokeColor": "transparent",
             "backgroundColor": "#82c91e",
-            "width": 1.652785120991859,
+            "width": 1.6527851209918591,
             "height": 1.597692283625513,
             "seed": 671121394,
             "groupIds": [
@@ -15274,7 +15328,7 @@
             "y": 402.354337483019,
             "strokeColor": "transparent",
             "backgroundColor": "#15aabf",
-            "width": 1.652785120991859,
+            "width": 1.6527851209918591,
             "height": 1.597692283625513,
             "seed": 488713966,
             "groupIds": [
@@ -15494,7 +15548,7 @@
             "y": 403.954337483019,
             "strokeColor": "transparent",
             "backgroundColor": "#fa5252",
-            "width": 1.652785120991859,
+            "width": 1.6527851209918591,
             "height": 1.597692283625513,
             "seed": 769099826,
             "groupIds": [
@@ -15722,7 +15776,7 @@
             "y": 456.0150355208424,
             "strokeColor": "transparent",
             "backgroundColor": "#495057",
-            "width": 1.652785120991859,
+            "width": 1.6527851209918591,
             "height": 1.597692283625513,
             "seed": 1376173938,
             "groupIds": [
@@ -16133,7 +16187,7 @@
             "strokeColor": "#000000",
             "backgroundColor": "#ced4da",
             "width": 17.500908988202333,
-            "height": 23.9820186661667,
+            "height": 23.982018666166695,
             "seed": 269281899,
             "groupIds": [
               "LKUNZcnvs-pMu1jYclJFu"
@@ -16332,7 +16386,7 @@
             "strokeColor": "#000000",
             "backgroundColor": "#868e96",
             "width": 39.25913562381306,
-            "height": 24.585870648135316,
+            "height": 24.58587064813532,
             "seed": 223786789,
             "groupIds": [
               "L_UItOnHraPrmEKAkoCbu",
@@ -16581,7 +16635,7 @@
             "strokeColor": "#000000",
             "backgroundColor": "#868e96",
             "width": 39.25913562381306,
-            "height": 24.585870648135316,
+            "height": 24.58587064813532,
             "seed": 223786789,
             "groupIds": [
               "L_UItOnHraPrmEKAkoCbu"
@@ -17364,8 +17418,8 @@
             "y": 493.5229536632805,
             "strokeColor": "#495057",
             "backgroundColor": "#868e96",
-            "width": 8.086284414665698,
-            "height": 8.500965666699845,
+            "width": 8.0862844146657,
+            "height": 8.500965666699843,
             "seed": 2057412805,
             "groupIds": [
               "W5g7Dxj3Ui7Qeui3oujnv"
@@ -17428,7 +17482,7 @@
             "strokeColor": "#000000",
             "backgroundColor": "#993300",
             "width": 35.69205569205673,
-            "height": 7.675710901517589,
+            "height": 7.67571090151759,
             "seed": 1002878859,
             "groupIds": [
               "9TtnWrEdUmqkGyzFSTisf"
@@ -17485,7 +17539,7 @@
             "strokeColor": "#000000",
             "backgroundColor": "#993300",
             "width": 18.901438094987018,
-            "height": 20.148741116483645,
+            "height": 20.14874111648364,
             "seed": 347330565,
             "groupIds": [
               "9TtnWrEdUmqkGyzFSTisf"
@@ -17680,7 +17734,7 @@
             "y": 429.79502931958837,
             "strokeColor": "#000000",
             "backgroundColor": "#fa5252",
-            "width": 50.72188073414598,
+            "width": 50.72188073414597,
             "height": 110.98820139138404,
             "seed": 1569648293,
             "groupIds": [
@@ -17837,7 +17891,7 @@
             "strokeColor": "#495057",
             "backgroundColor": "#ced4da",
             "width": 4.363172536270599,
-            "height": 6.224268038210837,
+            "height": 6.224268038210836,
             "seed": 1776561963,
             "groupIds": [
               "rsXzYnAs3QRye-AdXOINw"
@@ -17894,7 +17948,7 @@
             "strokeColor": "#495057",
             "backgroundColor": "#ced4da",
             "width": 4.363172536270599,
-            "height": 6.224268038210837,
+            "height": 6.224268038210836,
             "seed": 248686405,
             "groupIds": [
               "rsXzYnAs3QRye-AdXOINw"
@@ -17950,7 +18004,7 @@
             "y": 455.93001078577834,
             "strokeColor": "#000000",
             "backgroundColor": "#ced4da",
-            "width": 12.463710009458994,
+            "width": 12.463710009458996,
             "height": 51.48054134341747,
             "seed": 469673579,
             "groupIds": [
@@ -18495,7 +18549,7 @@
             "y": 446.20319427807925,
             "strokeColor": "#000000",
             "backgroundColor": "transparent",
-            "width": 54.44314569317326,
+            "width": 54.44314569317325,
             "height": 28.89873136320096,
             "seed": 1778902149,
             "groupIds": [
@@ -18716,8 +18770,8 @@
             "y": 523.71369900876,
             "strokeColor": "#000000",
             "backgroundColor": "#228be6",
-            "width": 38.19857249387458,
-            "height": 41.086686447629056,
+            "width": 38.19857249387457,
+            "height": 41.08668644762906,
             "seed": 1184830533,
             "groupIds": [
               "nKvYBBhCn8AZ6Yv4Y-WZF"
@@ -19085,7 +19139,7 @@
             "strokeColor": "#0091e2",
             "backgroundColor": "#0091e2",
             "width": 407.08725554597305,
-            "height": 235.8574304861887,
+            "height": 235.85743048618866,
             "seed": 1823430339,
             "groupIds": [
               "xy1wW0Qow2fVeofWiWWzd"
@@ -20957,7 +21011,7 @@
             "y": 1219.6924167778482,
             "strokeColor": "#000000",
             "backgroundColor": "#000000",
-            "width": 19.985027912629764,
+            "width": 19.985027912629768,
             "height": 27.02489151401723,
             "seed": 1968643651,
             "groupIds": [
@@ -21183,7 +21237,7 @@
             "y": 1329.434008215538,
             "strokeColor": "#000000",
             "backgroundColor": "#000000",
-            "width": 19.985027912629764,
+            "width": 19.985027912629768,
             "height": 28.470832809288055,
             "seed": 849389955,
             "groupIds": [
@@ -21297,7 +21351,7 @@
             "strokeColor": "#000000",
             "backgroundColor": "#000000",
             "width": 21.334063481895786,
-            "height": 27.38237077533567,
+            "height": 27.382370775335666,
             "seed": 1551270179,
             "groupIds": [
               "M6SqUi2mzj__u9Umj_WaA"
@@ -21765,7 +21819,7 @@
             "strokeColor": "#326ce5",
             "backgroundColor": "#ffffff",
             "width": 18.575013705259234,
-            "height": 43.832834304545955,
+            "height": 43.83283430454595,
             "seed": 938231181,
             "groupIds": [
               "0sP0_IcERIX3sXVHcF61R"
@@ -22010,7 +22064,7 @@
             "strokeColor": "#326ce5",
             "backgroundColor": "#ffffff",
             "width": 18.575013705259234,
-            "height": 43.832834304545955,
+            "height": 43.83283430454595,
             "seed": 1522928621,
             "groupIds": [
               "0sP0_IcERIX3sXVHcF61R"
@@ -22745,7 +22799,7 @@
             "strokeColor": "#326ce5",
             "backgroundColor": "#ffffff",
             "width": 18.575013705259234,
-            "height": 43.832834304545955,
+            "height": 43.83283430454595,
             "seed": 31102733,
             "groupIds": [
               "0sP0_IcERIX3sXVHcF61R"
@@ -22990,7 +23044,7 @@
             "strokeColor": "#326ce5",
             "backgroundColor": "#ffffff",
             "width": 18.575013705259234,
-            "height": 43.832834304545955,
+            "height": 43.83283430454595,
             "seed": 1173237101,
             "groupIds": [
               "0sP0_IcERIX3sXVHcF61R"
@@ -23235,7 +23289,7 @@
             "strokeColor": "#326ce5",
             "backgroundColor": "#ffffff",
             "width": 18.575013705259234,
-            "height": 43.832834304545955,
+            "height": 43.83283430454595,
             "seed": 1140848589,
             "groupIds": [
               "0sP0_IcERIX3sXVHcF61R"
@@ -23553,7 +23607,7 @@
             "strokeColor": "#326ce5",
             "backgroundColor": "#326ce5",
             "width": 49.18080130778126,
-            "height": 50.19151900397164,
+            "height": 50.19151900397165,
             "seed": 391391373,
             "groupIds": [
               "0sP0_IcERIX3sXVHcF61R"
@@ -23690,7 +23744,7 @@
             "strokeColor": "#326ce5",
             "backgroundColor": "#326ce5",
             "width": 49.18080130778126,
-            "height": 50.19151900397164,
+            "height": 50.19151900397165,
             "seed": 1765379821,
             "groupIds": [
               "0sP0_IcERIX3sXVHcF61R"
@@ -23964,7 +24018,7 @@
             "strokeColor": "#326ce5",
             "backgroundColor": "#326ce5",
             "width": 49.18080130778126,
-            "height": 50.19151900397164,
+            "height": 50.19151900397165,
             "seed": 1009416109,
             "groupIds": [
               "0sP0_IcERIX3sXVHcF61R"
@@ -24101,7 +24155,7 @@
             "strokeColor": "#326ce5",
             "backgroundColor": "#326ce5",
             "width": 49.18080130778126,
-            "height": 50.19151900397164,
+            "height": 50.19151900397165,
             "seed": 951646733,
             "groupIds": [
               "0sP0_IcERIX3sXVHcF61R"
@@ -24238,7 +24292,7 @@
             "strokeColor": "#326ce5",
             "backgroundColor": "#326ce5",
             "width": 49.18080130778126,
-            "height": 50.19151900397164,
+            "height": 50.19151900397165,
             "seed": 2030579821,
             "groupIds": [
               "0sP0_IcERIX3sXVHcF61R"
@@ -26228,7 +26282,7 @@
             "y": 3293.4377046897625,
             "strokeColor": "#1e1e1e",
             "backgroundColor": "#1e1e1e",
-            "width": 315.3724857326901,
+            "width": 315.37248573269005,
             "height": 324.1979351868783,
             "seed": 1599773571,
             "groupIds": [
@@ -28713,8 +28767,8 @@
             "y": 801.7780212257057,
             "strokeColor": "#000000",
             "backgroundColor": "#fab005",
-            "width": 69.86637452915312,
-            "height": 58.22197877429426,
+            "width": 69.8663745291531,
+            "height": 58.22197877429425,
             "seed": 464692085,
             "groupIds": [
               "KnAHs538Sl3owulsXLULH"
@@ -28766,7 +28820,7 @@
             "y": 839.4272757070506,
             "strokeColor": "#000000",
             "backgroundColor": "#ffff",
-            "width": 11.078973641526838,
+            "width": 11.078973641526837,
             "height": 22.791205194670777,
             "seed": 684931675,
             "groupIds": [
@@ -30429,6 +30483,7 @@
             "verticalAlign": "middle",
             "containerId": "pPx6ynhc7GDPDKpjMZRBv",
             "originalText": "?",
+            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -31090,5 +31145,7 @@
   "slidingPanesSupport": false,
   "areaZoomLimit": 1,
   "longPressDesktop": 500,
-  "longPressMobile": 500
+  "longPressMobile": 500,
+  "isDebugMode": false,
+  "autosaveInterval": 15000
 }
