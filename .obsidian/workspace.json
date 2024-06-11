@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JUnit_단위_테스트/JUnit과 단위 테스트는 무엇인가.md",
+                "file": "JPA/연관관계 매핑 기초/단방향 연관관계.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.50152587890625
+    "width": 280.50152587890625,
+    "collapsed": true
   },
   "right": {
     "id": "5a2dcc2e0a541c4d",
@@ -103,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JUnit_단위_테스트/JUnit과 단위 테스트는 무엇인가.md",
+                "file": "JPA/연관관계 매핑 기초/단방향 연관관계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JUnit_단위_테스트/JUnit과 단위 테스트는 무엇인가.md",
+                "file": "JPA/연관관계 매핑 기초/단방향 연관관계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JUnit_단위_테스트/JUnit과 단위 테스트는 무엇인가.md"
+                "file": "JPA/연관관계 매핑 기초/단방향 연관관계.md"
               }
             }
           },
@@ -185,8 +186,10 @@
   },
   "active": "d029f1d685ab07ea",
   "lastOpenFiles": [
-    "JUnit_단위_테스트/JUnit 프로젝트 - 1.md",
+    "2024-06-09.md",
     "JPA/연관관계 매핑 기초/단방향 연관관계.md",
+    "JUnit_단위_테스트/JUnit과 단위 테스트는 무엇인가.md",
+    "JUnit_단위_테스트/JUnit 프로젝트 - 1.md",
     "SQL/인덱스/MySQL - Index 알아보기.md",
     "무제 폴더",
     "JPA/엔티티 매핑/JPA 매핑 - 기본 키.md",
@@ -223,8 +226,6 @@
     "Excalidraw/JPA/영속성 컨텍스트 - 1차 캐시에 없는 데이터 조회.md",
     "Excalidraw/JPA/엔티티_생명주기.md",
     "Excalidraw/Drawing 2024-05-31 23.51.47.excalidraw.md",
-    "JPA/영속성 관리/영속성 컨텍스트의 특징.md",
-    "JPA/영속성 관리/영속성 컨텍스트란.md",
     "도커(Docker)/이미지 레지스트리",
     "Image/Pasted image 20240516150750.png",
     "Image/프론트에서 로그인할 때 기본 인증 서비스 호출하기-20240516150453135.webp",
