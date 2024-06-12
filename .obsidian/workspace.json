@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5cc2f2eaad33a774",
+        "id": "95ee6b6b001cdaf1",
         "type": "tabs",
         "children": [
           {
-            "id": "f36e5433a28d70a9",
+            "id": "34fbe43ae7be8372",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-06-12 13.51.03.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -73,6 +71,20 @@
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "22e99aaeefe8472c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "712e6d2b41973448",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -93,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-12 13.51.03.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-06-12 13.51.03.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,16 +133,8 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
-            }
-          },
-          {
-            "id": "712e6d2b41973448",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           },
           {
@@ -168,17 +170,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-06-12 13.51.03.excalidraw.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 347.5,
-    "collapsed": true
+    "width": 299.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,17 +190,19 @@
       "obsidian-projects:Open projects": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "workspaces:작업 공간 레이아웃 관리": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "obsidian-kanban:새 보드 만들기": false
     }
   },
-  "active": "f36e5433a28d70a9",
+  "active": "f8ad27ec21eb64bb",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-06-12 13.51.03.excalidraw.md",
+    "00. Inbox/이름 없는 보드.md",
     "00. Inbox/무제 파일.md",
     "무제 파일 2.md",
     "무제 파일.md",
     "무제 파일 1.md",
     "Untitled Diagram.svg",
-    "Excalidraw/Drawing 2024-06-12 13.51.03.excalidraw.md",
     "Image/GoodDia.svg",
     "Image/Good_0.svg",
     "Image/Good Diagram.svg",
@@ -237,7 +238,6 @@
     "Maven&Gradle/Maven/pom.xml 살펴보기.md",
     "Maven&Gradle/Maven/Spring Boot 프로젝트 Maven으로 생성하기.md",
     "Spring_React_프로젝트/AuthContext에 기본 인증 토큰 설정하기.md",
-    "Spring_React_프로젝트/인증 헤더 추가를 위한 Axios 인터셉터 설정.md",
     "Spring",
     "Spring/Thymeleaf",
     "JPA/연관관계 매핑 기초",
