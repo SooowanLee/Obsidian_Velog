@@ -11,8 +11,10 @@
             "id": "f36e5433a28d70a9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-06-12 13.51.03.excalidraw.md"
+              }
             }
           }
         ]
@@ -91,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Drawing 2024-06-12 13.51.03.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Drawing 2024-06-12 13.51.03.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00. Inbox/무제 파일.md"
+                "file": "Excalidraw/Drawing 2024-06-12 13.51.03.excalidraw.md"
               }
             }
           }
@@ -190,7 +194,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f8ad27ec21eb64bb",
+  "active": "f36e5433a28d70a9",
   "lastOpenFiles": [
     "00. Inbox/무제 파일.md",
     "무제 파일 2.md",
