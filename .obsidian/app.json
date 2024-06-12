@@ -1,6 +1,6 @@
 {
   "promptDelete": true,
-  "attachmentFolderPath": "Image",
+  "attachmentFolderPath": "99. Attachment",
   "spellcheck": false,
   "vimMode": false,
   "alwaysUpdateLinks": true,
@@ -8,6 +8,7 @@
   "showUnsupportedFiles": true,
   "trashOption": "local",
   "foldHeading": false,
-  "newFileLocation": "current",
-  "defaultViewMode": "preview"
+  "newFileLocation": "folder",
+  "defaultViewMode": "preview",
+  "newFileFolderPath": "00. Inbox"
 }
