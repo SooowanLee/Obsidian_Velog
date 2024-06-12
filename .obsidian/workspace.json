@@ -18,15 +18,7 @@
             }
           },
           {
-            "id": "2be78bbd36af379a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "5438df1947aeec6f",
+            "id": "977276df278718b0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -34,7 +26,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -47,16 +39,6 @@
         "id": "c16b704fc94bbe2a",
         "type": "tabs",
         "children": [
-          {
-            "id": "5ab3f70515b1b88c",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "byCreatedTimeReverse"
-              }
-            }
-          },
           {
             "id": "2289f872d95506e0",
             "type": "leaf",
@@ -87,8 +69,19 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "f8ad27ec21eb64bb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -206,9 +199,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5438df1947aeec6f",
+  "active": "977276df278718b0",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2024-06-12 13.51.03.excalidraw.md",
+    "무제 파일.md",
+    "Untitled Diagram.svg",
+    "Image/Good_0.svg",
     "Image/Good Diagram.svg",
     "Image/Good.svg",
     "Excalidraw/Scripts/Downloaded/Create DrawIO file.svg",
@@ -250,8 +246,6 @@
     "JPA/엔티티 매핑/JPA 매핑 - 기본 키.md",
     "JPA/연관관계 매핑 기초",
     "Image/Pasted Image 20240604150329_318.png",
-    "Image/Pasted Image 20240604150329_357.png",
-    "Image/Pasted Image 20240604150354_200.png",
     "Excalidraw/자료구조",
     "SQL/인덱스",
     "Untitled.canvas",
