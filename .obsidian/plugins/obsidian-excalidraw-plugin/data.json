@@ -85,7 +85,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.2.5",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.1.7",
     "libraryItems": [
       {
         "status": "published",
@@ -233,7 +233,6 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Document",
-            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -486,7 +485,6 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Image",
-            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -569,7 +567,6 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Folder",
-            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -797,7 +794,6 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Email",
-            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -1000,7 +996,6 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Sound",
-            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -1345,7 +1340,6 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Video",
-            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -1907,7 +1901,6 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Microphone",
-            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -2116,7 +2109,6 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Camera",
-            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -2392,7 +2384,6 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Speaker",
-            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -3072,7 +3063,6 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Model",
-            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -3386,7 +3376,6 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Network",
-            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -3724,7 +3713,6 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Internet",
-            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -3898,7 +3886,6 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "User",
-            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -4079,7 +4066,6 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Home",
-            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -4288,7 +4274,6 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Pie chart",
-            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -4507,7 +4492,6 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Bar chart",
-            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -4740,7 +4724,6 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Firewall",
-            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -4919,7 +4902,6 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Cloud",
-            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -4997,7 +4979,6 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Database",
-            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -5540,7 +5521,6 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Drive",
-            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -5619,7 +5599,6 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Server",
-            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -6125,7 +6104,6 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Host",
-            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -6358,7 +6336,6 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Device",
-            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -6437,7 +6414,6 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Printer",
-            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -7060,7 +7036,6 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Settings",
-            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -7277,7 +7252,6 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Key",
-            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -7436,7 +7410,6 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Yes",
-            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -7623,7 +7596,6 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "No",
-            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -9864,7 +9836,6 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Comment",
-            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -9947,7 +9918,6 @@
             "verticalAlign": "top",
             "containerId": "p7qAVRWw1SPg3o--WoUmB",
             "originalText": "Block",
-            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -10130,7 +10100,6 @@
             "verticalAlign": "middle",
             "containerId": "PhtNYhgDsIdhQszVpdHIB",
             "originalText": "Task",
-            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -10284,7 +10253,6 @@
             "verticalAlign": "middle",
             "containerId": "8r9b4YrSMWrnbgLnvNqaL",
             "originalText": "Pool",
-            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -10725,7 +10693,6 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "DB\n(main)",
-            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -10763,7 +10730,6 @@
             "verticalAlign": "middle",
             "containerId": null,
             "originalText": "API",
-            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -10810,7 +10776,6 @@
             "verticalAlign": "middle",
             "containerId": null,
             "originalText": "LB",
-            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -11017,7 +10982,6 @@
             "verticalAlign": "middle",
             "containerId": null,
             "originalText": "LB",
-            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -11148,7 +11112,6 @@
             "verticalAlign": "middle",
             "containerId": null,
             "originalText": "API",
-            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -11375,7 +11338,6 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "DB\n(Read)",
-            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -11446,7 +11408,6 @@
             "verticalAlign": "middle",
             "containerId": null,
             "originalText": "Users",
-            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -11517,7 +11478,6 @@
             "verticalAlign": "middle",
             "containerId": null,
             "originalText": "Admin",
-            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -11914,7 +11874,6 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Private Cloud",
-            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -11952,7 +11911,6 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Web Exposed",
-            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -12227,7 +12185,6 @@
             "verticalAlign": "top",
             "containerId": null,
             "originalText": "Stream",
-            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -12293,7 +12250,6 @@
             "verticalAlign": "middle",
             "containerId": null,
             "originalText": "Batch",
-            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -12359,7 +12315,6 @@
             "verticalAlign": "middle",
             "containerId": null,
             "originalText": "Worker",
-            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -12402,7 +12357,6 @@
             "verticalAlign": "middle",
             "containerId": null,
             "originalText": " App Servers",
-            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -12550,7 +12504,6 @@
             "verticalAlign": "middle",
             "containerId": null,
             "originalText": " App Servers",
-            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -12955,7 +12908,6 @@
             "verticalAlign": "middle",
             "containerId": null,
             "originalText": "S3",
-            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -12993,7 +12945,6 @@
             "verticalAlign": "middle",
             "containerId": null,
             "originalText": "S3",
-            "autoResize": true,
             "lineHeight": 1.25
           },
           {
@@ -13059,7 +13010,6 @@
             "verticalAlign": "middle",
             "containerId": null,
             "originalText": "CDN",
-            "autoResize": true,
             "lineHeight": 1.25
           }
         ],
@@ -30479,7 +30429,6 @@
             "verticalAlign": "middle",
             "containerId": "pPx6ynhc7GDPDKpjMZRBv",
             "originalText": "?",
-            "autoResize": true,
             "lineHeight": 1.25
           }
         ],

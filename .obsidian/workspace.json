@@ -11,8 +11,10 @@
             "id": "3e149d7fcb0118ed",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-06-12 13.51.03.excalidraw.md"
+              }
             }
           }
         ]
@@ -73,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.50152587890625
+    "width": 280.50152587890625,
+    "collapsed": true
   },
   "right": {
     "id": "5a2dcc2e0a541c4d",
@@ -90,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Drawing 2024-06-12 13.51.03.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Drawing 2024-06-12 13.51.03.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +168,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Excalidraw/Drawing 2024-06-12 13.51.03.excalidraw.md"
+              }
             }
           }
         ]
@@ -189,6 +196,13 @@
   },
   "active": "3e149d7fcb0118ed",
   "lastOpenFiles": [
+    "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.svg",
+    "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.md",
+    "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
+    "Excalidraw/Scripts/Downloaded/Add Connector Point.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw/Drawing 2024-06-12 13.51.03.excalidraw.md",
     "무제 파일.canvas",
     "Maven&Gradle/Maven/Maven이란.md",
     "JUnit_단위_테스트/JUnit과 단위 테스트는 무엇인가.md",
@@ -217,9 +231,6 @@
     "JPA/엔티티 매핑/JPA의 DB스키마 자동 생성.md",
     "JPA/엔티티 매핑/객체와 테이블 매핑.md",
     "JPA/연관관계 매핑 기초",
-    "Excalidraw/자료구조/B-Tree 자료.md",
-    "Excalidraw/자료구조/이진탐색트리_구조.md",
-    "Excalidraw/자료구조/B-Tree_데이터_삽입.md",
     "Image/Pasted Image 20240604150329_318.png",
     "Image/Pasted Image 20240604150329_357.png",
     "Image/Pasted Image 20240604150354_200.png",
@@ -228,13 +239,10 @@
     "Image",
     "Excalidraw/자료구조",
     "SQL/인덱스",
-    "SQL/DB_인덱스_자료구조",
-    "SQL",
     "Image/Pasted image 20240516150750.png",
     "Image/프론트에서 로그인할 때 기본 인증 서비스 호출하기-20240516150453135.webp",
     "Image/Untitled Diagram.svg",
     "프론트에서 로그인할 때 기본 인증 서비스 호출하기-20240516150327501.webp",
-    "Image file/Pasted image 20240515222843.png",
     "Untitled.canvas",
     "마인드맵.canvas"
   ]
