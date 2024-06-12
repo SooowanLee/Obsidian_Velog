@@ -4,18 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "95ee6b6b001cdaf1",
+        "id": "d908e08f06cf6526",
         "type": "tabs",
         "children": [
           {
-            "id": "34fbe43ae7be8372",
+            "id": "430ee0167df77580",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Spring/Thymeleaf/타임리프 기본 기능 알아보기 -1.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aed163036f7629ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00. Inbox/타임리프 기본 기능 알아보기 - 2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -27,6 +46,7 @@
       {
         "id": "c16b704fc94bbe2a",
         "type": "tabs",
+        "dimension": 61.71259842519685,
         "children": [
           {
             "id": "2289f872d95506e0",
@@ -75,6 +95,7 @@
       {
         "id": "22e99aaeefe8472c",
         "type": "tabs",
+        "dimension": 38.28740157480315,
         "children": [
           {
             "id": "712e6d2b41973448",
@@ -105,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00. Inbox/타임리프 기본 기능 알아보기 - 2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "00. Inbox/타임리프 기본 기능 알아보기 - 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +181,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "41730607c043a883",
@@ -170,14 +193,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "00. Inbox/타임리프 기본 기능 알아보기 - 2.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 299.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,11 +220,15 @@
       "obsidian-kanban:새 보드 만들기": false
     }
   },
-  "active": "f8ad27ec21eb64bb",
+  "active": "aed163036f7629ef",
   "lastOpenFiles": [
+    "Spring/Thymeleaf/타임리프 기본 기능 알아보기 -1.md",
+    "00. Inbox/타임리프 기본 기능 알아보기 - 2.md",
+    "Spring/Thymeleaf/타임리프란 무엇인가.md",
+    "JPA/영속성 관리/영속성 컨텍스트란.md",
+    "JPA/연관관계 매핑 기초/단방향 연관관계.md",
     "Excalidraw/Drawing 2024-06-12 13.51.03.excalidraw.md",
     "00. Inbox/이름 없는 보드.md",
-    "00. Inbox/무제 파일.md",
     "무제 파일 2.md",
     "무제 파일.md",
     "무제 파일 1.md",
@@ -224,7 +254,6 @@
     "Maven&Gradle/Maven/Maven이란.md",
     "JUnit_단위_테스트/JUnit과 단위 테스트는 무엇인가.md",
     "JUnit_단위_테스트/JUnit 프로젝트 - 1.md",
-    "JPA/연관관계 매핑 기초/단방향 연관관계.md",
     "Excalidraw/Docker/이미지_메타데이터.md",
     "Excalidraw/Docker/이미지_레지스트리.md",
     "Excalidraw/JPA/영속성 컨텍스트_1차캐시.md",
@@ -233,11 +262,8 @@
     "00. Inbox",
     "SQL/DB_인덱스_자료구조/B Tree - 데이터 삽입.md",
     "SQL/인덱스/B-Tree.md",
-    "Spring/Thymeleaf/타임리프 기본 기능 알아보기 -1.md",
-    "Spring/Thymeleaf/타임리프란 무엇인가.md",
     "Maven&Gradle/Maven/pom.xml 살펴보기.md",
     "Maven&Gradle/Maven/Spring Boot 프로젝트 Maven으로 생성하기.md",
-    "Spring_React_프로젝트/AuthContext에 기본 인증 토큰 설정하기.md",
     "Spring",
     "Spring/Thymeleaf",
     "JPA/연관관계 매핑 기초",
