@@ -30456,6 +30456,54 @@
         "value": "deconstructed",
         "description": "The default filename to use when deconstructing elements."
       }
+    },
+    "Downloaded/Text to Sticky Notes": {
+      "Border color": {
+        "value": "black",
+        "description": "Any legal HTML color (#000000, rgb, color-name, etc.). Set to 'transparent' for transparent color."
+      },
+      "Background color": {
+        "value": "gold",
+        "description": "Background color of the sticky note. Set to 'transparent' for transparent color."
+      },
+      "Background fill style": {
+        "value": "solid",
+        "description": "Fill style of the sticky note",
+        "valueset": [
+          "hachure",
+          "cross-hatch",
+          "solid"
+        ]
+      },
+      "Max sticky note width": {
+        "value": "600",
+        "description": "Maximum width of new sticky note. If text is longer, it will be wrapped",
+        "valueset": [
+          "400",
+          "600",
+          "800",
+          "1000",
+          "1200",
+          "1400",
+          "2000"
+        ]
+      },
+      "Sticky note width": {
+        "value": "100",
+        "description": "Preferred width of the sticky note. Set to 0 if unset."
+      },
+      "Sticky note height": {
+        "value": "120",
+        "description": "Preferred height of the sticky note. Set to 0 if unset."
+      },
+      "Rows per column": {
+        "value": "3",
+        "description": "If multiple text elements are converted to sticky notes in one step, how many rows before a next column is created. Only effective if fixed width & height are given. 0 for unset."
+      },
+      "Gap": {
+        "value": "10",
+        "description": "Gap between rows and columns"
+      }
     }
   },
   "defaultTrayMode": true,
@@ -30468,7 +30516,8 @@
   "pinnedScripts": [
     "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.md",
     "Excalidraw/Scripts/Downloaded/Rename Image.md",
-    "Excalidraw/Scripts/Downloaded/Text to Sticky Notes.md"
+    "Excalidraw/Scripts/Downloaded/Text to Sticky Notes.md",
+    "Excalidraw/Scripts/Downloaded/Create DrawIO file.md"
   ],
   "customPens": [
     {
