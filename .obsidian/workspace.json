@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d706484fdbb9dc9f",
+        "id": "c28a8c7deac34caf",
         "type": "tabs",
         "children": [
           {
-            "id": "0f98a972dd48d40f",
+            "id": "3e149d7fcb0118ed",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -182,11 +182,12 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "obsidian-projects:Open projects": false,
-      "periodic-notes:Open today": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "workspaces:작업 공간 레이아웃 관리": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "0f98a972dd48d40f",
+  "active": "3e149d7fcb0118ed",
   "lastOpenFiles": [
     "무제 파일.canvas",
     "Maven&Gradle/Maven/Maven이란.md",
