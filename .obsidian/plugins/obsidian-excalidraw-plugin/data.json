@@ -30446,7 +30446,18 @@
   "mdFontColor": "Black",
   "mdBorderColor": "Black",
   "mdCSS": "",
-  "scriptEngineSettings": {},
+  "scriptEngineSettings": {
+    "Downloaded/Deconstruct selected elements into new drawing": {
+      "Templates": {
+        "value": "",
+        "description": "Comma-separated list of template filepaths"
+      },
+      "Default file name": {
+        "value": "deconstructed",
+        "description": "The default filename to use when deconstructing elements."
+      }
+    }
+  },
   "defaultTrayMode": true,
   "previousRelease": "2.1.7",
   "showReleaseNotes": true,
@@ -30454,7 +30465,11 @@
   "latexBoilerplate": "\\color{blue}",
   "taskboneEnabled": false,
   "taskboneAPIkey": "",
-  "pinnedScripts": [],
+  "pinnedScripts": [
+    "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.md",
+    "Excalidraw/Scripts/Downloaded/Rename Image.md",
+    "Excalidraw/Scripts/Downloaded/Text to Sticky Notes.md"
+  ],
   "customPens": [
     {
       "type": "default",
