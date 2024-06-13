@@ -32,7 +32,7 @@
       {
         "id": "c16b704fc94bbe2a",
         "type": "tabs",
-        "dimension": 61.71259842519685,
+        "dimension": 61.712598425196845,
         "children": [
           {
             "id": "2289f872d95506e0",
@@ -203,8 +203,8 @@
       "obsidian-projects:Open projects": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "workspaces:작업 공간 레이아웃 관리": false,
-      "periodic-notes:Open today": false,
-      "obsidian-kanban:새 보드 만들기": false
+      "obsidian-kanban:새 보드 만들기": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "902ee78fe9470c31",
