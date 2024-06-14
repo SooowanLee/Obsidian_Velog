@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1ecdc016b0ada25a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring/Thymeleaf/타임리프 기본 기능 알아보기 - 3.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,7 +221,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d4fa9b6f872fb42d",
+  "active": "1ecdc016b0ada25a",
   "lastOpenFiles": [
     "Spring/Thymeleaf/타임리프 기본 기능 알아보기 - 2.md",
     "Spring/Thymeleaf/타임리프 기본 기능 알아보기 - 3.md",
