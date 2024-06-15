@@ -209,6 +209,7 @@
   },
   "active": "af5401c90ccaea98",
   "lastOpenFiles": [
+    "JPA/영속성 관리/영속성 컨텍스트의 특징.md",
     "JPA/연관관계 매핑 기초/단방향 연관관계.md",
     "Spring/Thymeleaf/타임리프란 무엇인가.md",
     "Spring/Thymeleaf/타임리프 기본 기능 알아보기 -1.md",
@@ -250,7 +251,6 @@
     "00. Inbox",
     "SQL/DB_인덱스_자료구조/B Tree - 데이터 삽입.md",
     "SQL/인덱스/B-Tree.md",
-    "Maven&Gradle/Maven/pom.xml 살펴보기.md",
     "Spring",
     "Spring/Thymeleaf",
     "JPA/연관관계 매핑 기초",
