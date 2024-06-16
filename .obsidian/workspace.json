@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "66fad637107a3661",
+        "id": "78d81042183820a9",
         "type": "tabs",
         "children": [
           {
-            "id": "4a2a2793596a192e",
+            "id": "b29c03cc93aa983c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "00. Inbox/트랜잭션(Transaction).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -108,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00. Inbox/트랜잭션(Transaction).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "00. Inbox/트랜잭션(Transaction).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +180,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "00. Inbox/트랜잭션(Transaction).md"
+              }
             }
           }
         ]
@@ -198,11 +207,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4a2a2793596a192e",
+  "active": "b29c03cc93aa983c",
   "lastOpenFiles": [
+    "00. Inbox/트랜잭션(Transaction).md",
     "JPA/연관관계 매핑 기초/양방향 연관관계와 연관관계의 주인 - 1.md",
     "Excalidraw/JPA/양방향 객체 연관관계.md",
-    "SQL/인덱스/MySQL - Index 알아보기.md",
+    "DATABASE/인덱스/MySQL - Index 알아보기.md",
     "JPA/연관관계 매핑 기초/단방향 연관관계.md",
     "JPA/영속성 관리/영속성 컨텍스트의 특징.md",
     "Spring/Thymeleaf/타임리프란 무엇인가.md",
@@ -239,14 +249,13 @@
     "JUnit_단위_테스트/JUnit 프로젝트 - 1.md",
     "Excalidraw/Docker/이미지_메타데이터.md",
     "Excalidraw/Docker/이미지_레지스트리.md",
-    "Excalidraw/JPA/영속성 컨텍스트_1차캐시.md",
     "99. Attachment",
     "00. Inbox",
     "Spring",
     "Spring/Thymeleaf",
     "JPA/연관관계 매핑 기초",
     "Excalidraw/자료구조",
-    "SQL/인덱스",
+    "DATABASE/인덱스",
     "Untitled.canvas",
     "마인드맵.canvas"
   ]
