@@ -30,8 +30,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/JPA/양방향 객체 연관관계.md",
+                "file": "JPA/연관관계 매핑 기초/양방향 연관관계와 연관관계의 주인.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/JPA/양방향 객체 연관관계.md",
+                "file": "JPA/연관관계 매핑 기초/양방향 연관관계와 연관관계의 주인.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/JPA/양방향 객체 연관관계.md"
+                "file": "JPA/연관관계 매핑 기초/양방향 연관관계와 연관관계의 주인.md"
               }
             }
           }
@@ -218,11 +217,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "833afd8f9eb22aa1",
+  "active": "eff01539ee604c45",
   "lastOpenFiles": [
+    "Excalidraw/JPA/양방향 객체 연관관계.md",
     "JPA/연관관계 매핑 기초/양방향 연관관계와 연관관계의 주인.md",
     "JPA/연관관계 매핑 기초/단방향 연관관계.md",
-    "Excalidraw/JPA/양방향 객체 연관관계.md",
     "JPA/영속성 관리/영속성 컨텍스트의 특징.md",
     "Spring/Thymeleaf/타임리프란 무엇인가.md",
     "Spring/Thymeleaf/타임리프 기본 기능 알아보기 -1.md",
