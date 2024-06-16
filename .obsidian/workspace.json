@@ -32,9 +32,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e3297629eeb97d8f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/JPA/양방향 객체 연관관계.md"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -127,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JPA/연관관계 매핑 기초/양방향 연관관계와 연관관계의 주인.md",
+                "file": "Excalidraw/JPA/양방향 객체 연관관계.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JPA/연관관계 매핑 기초/양방향 연관관계와 연관관계의 주인.md",
+                "file": "Excalidraw/JPA/양방향 객체 연관관계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JPA/연관관계 매핑 기초/양방향 연관관계와 연관관계의 주인.md"
+                "file": "Excalidraw/JPA/양방향 객체 연관관계.md"
               }
             }
           }
@@ -221,10 +231,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f8ad27ec21eb64bb",
+  "active": "e3297629eeb97d8f",
   "lastOpenFiles": [
-    "JPA/연관관계 매핑 기초/단방향 연관관계.md",
     "JPA/연관관계 매핑 기초/양방향 연관관계와 연관관계의 주인.md",
+    "Excalidraw/JPA/양방향 객체 연관관계.md",
+    "JPA/연관관계 매핑 기초/단방향 연관관계.md",
     "JPA/영속성 관리/영속성 컨텍스트의 특징.md",
     "Spring/Thymeleaf/타임리프란 무엇인가.md",
     "Spring/Thymeleaf/타임리프 기본 기능 알아보기 -1.md",
@@ -264,7 +275,6 @@
     "SQL/인덱스/MySQL - Index 알아보기.md",
     "99. Attachment",
     "00. Inbox",
-    "SQL/DB_인덱스_자료구조/B Tree - 데이터 삽입.md",
     "Spring",
     "Spring/Thymeleaf",
     "JPA/연관관계 매핑 기초",
