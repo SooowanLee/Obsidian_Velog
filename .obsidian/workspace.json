@@ -19,16 +19,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "833afd8f9eb22aa1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/JPA/양방향 객체 연관관계.md"
-              }
-            }
           }
         ]
       }
@@ -219,9 +209,10 @@
   },
   "active": "eff01539ee604c45",
   "lastOpenFiles": [
-    "JPA/연관관계 매핑 기초/단방향 연관관계.md",
-    "JPA/연관관계 매핑 기초/양방향 연관관계와 연관관계의 주인.md",
     "Excalidraw/JPA/양방향 객체 연관관계.md",
+    "SQL/인덱스/MySQL - Index 알아보기.md",
+    "JPA/연관관계 매핑 기초/양방향 연관관계와 연관관계의 주인.md",
+    "JPA/연관관계 매핑 기초/단방향 연관관계.md",
     "JPA/영속성 관리/영속성 컨텍스트의 특징.md",
     "Spring/Thymeleaf/타임리프란 무엇인가.md",
     "Spring/Thymeleaf/타임리프 기본 기능 알아보기 -1.md",
@@ -258,7 +249,6 @@
     "Excalidraw/Docker/이미지_메타데이터.md",
     "Excalidraw/Docker/이미지_레지스트리.md",
     "Excalidraw/JPA/영속성 컨텍스트_1차캐시.md",
-    "SQL/인덱스/MySQL - Index 알아보기.md",
     "99. Attachment",
     "00. Inbox",
     "Spring",
