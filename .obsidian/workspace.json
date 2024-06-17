@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. Inbox/트랜잭션(Transaction).md",
+                "file": "JPA/엔티티 매핑/객체와 테이블 매핑.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
+          },
+          {
+            "id": "0cc2e6735264f0fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JPA/연관관계 매핑 기초/양방향 연관관계와 연관관계의 주인 - 1.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5086555480957,
-    "collapsed": true
+    "width": 301.5086555480957
   },
   "right": {
     "id": "5a2dcc2e0a541c4d",
@@ -113,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00. Inbox/트랜잭션(Transaction).md",
+                "file": "JPA/연관관계 매핑 기초/양방향 연관관계와 연관관계의 주인 - 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00. Inbox/트랜잭션(Transaction).md",
+                "file": "JPA/연관관계 매핑 기초/양방향 연관관계와 연관관계의 주인 - 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00. Inbox/트랜잭션(Transaction).md"
+                "file": "JPA/연관관계 매핑 기초/양방향 연관관계와 연관관계의 주인 - 1.md"
               }
             }
           }
@@ -207,10 +220,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b29c03cc93aa983c",
+  "active": "0cc2e6735264f0fe",
   "lastOpenFiles": [
-    "00. Inbox/트랜잭션(Transaction).md",
+    "JPA/연관관계 매핑 기초/양방향 연관관계와 연관관계의주인 - 2.md",
     "JPA/연관관계 매핑 기초/양방향 연관관계와 연관관계의 주인 - 1.md",
+    "00. Inbox/트랜잭션(Transaction).md",
+    "JPA/엔티티 매핑/객체와 테이블 매핑.md",
     "Excalidraw/JPA/양방향 객체 연관관계.md",
     "DATABASE/인덱스/MySQL - Index 알아보기.md",
     "JPA/연관관계 매핑 기초/단방향 연관관계.md",
@@ -247,8 +262,6 @@
     "Maven&Gradle/Maven/Maven이란.md",
     "JUnit_단위_테스트/JUnit과 단위 테스트는 무엇인가.md",
     "JUnit_단위_테스트/JUnit 프로젝트 - 1.md",
-    "Excalidraw/Docker/이미지_메타데이터.md",
-    "Excalidraw/Docker/이미지_레지스트리.md",
     "99. Attachment",
     "00. Inbox",
     "Spring",
