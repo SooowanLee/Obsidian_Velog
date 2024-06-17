@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JPA/연관관계 매핑 기초/양방향 연관관계와 연관관계의주인 - 2.md",
+                "file": "JPA/연관관계 매핑 기초/양방향 연관관계와 연관관계의 주인 - 2.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JPA/연관관계 매핑 기초/양방향 연관관계와 연관관계의주인 - 2.md",
+                "file": "JPA/연관관계 매핑 기초/양방향 연관관계와 연관관계의 주인 - 2.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JPA/연관관계 매핑 기초/양방향 연관관계와 연관관계의주인 - 2.md",
+                "file": "JPA/연관관계 매핑 기초/양방향 연관관계와 연관관계의 주인 - 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JPA/연관관계 매핑 기초/양방향 연관관계와 연관관계의주인 - 2.md"
+                "file": "JPA/연관관계 매핑 기초/양방향 연관관계와 연관관계의 주인 - 2.md"
               }
             }
           }
@@ -210,7 +210,7 @@
   "active": "d2c35c34fac3a9c2",
   "lastOpenFiles": [
     "JPA/연관관계 매핑 기초/양방향 연관관계와 연관관계의 주인 - 1.md",
-    "JPA/연관관계 매핑 기초/양방향 연관관계와 연관관계의주인 - 2.md",
+    "JPA/연관관계 매핑 기초/양방향 연관관계와 연관관계의 주인 - 2.md",
     "JPA/엔티티 매핑/객체와 테이블 매핑.md",
     "00. Inbox/트랜잭션(Transaction).md",
     "Excalidraw/JPA/양방향 객체 연관관계.md",
