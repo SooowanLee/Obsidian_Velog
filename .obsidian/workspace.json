@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. Inbox/트랜잭션(Transaction).md",
+                "file": "DATABASE/기초/트랜잭션(Transaction).md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
             }
-          },
-          {
-            "id": "89ca31a60859dafd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00. Inbox/트랜잭션(Transaction).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5086555480957,
-    "collapsed": true
+    "width": 301.5086555480957
   },
   "right": {
     "id": "5a2dcc2e0a541c4d",
@@ -127,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00. Inbox/트랜잭션(Transaction).md",
+                "file": "DATABASE/기초/트랜잭션(Transaction).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00. Inbox/트랜잭션(Transaction).md",
+                "file": "DATABASE/기초/트랜잭션(Transaction).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00. Inbox/트랜잭션(Transaction).md"
+                "file": "DATABASE/기초/트랜잭션(Transaction).md"
               }
             }
           }
@@ -221,10 +206,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "89ca31a60859dafd",
+  "active": "f8ad27ec21eb64bb",
   "lastOpenFiles": [
+    "DATABASE/기초",
     "DATABASE/인덱스/MySQL - Index 알아보기.md",
-    "00. Inbox/트랜잭션(Transaction).md",
+    "DATABASE/기초/트랜잭션(Transaction).md",
     "00. Inbox/무결성(Integrity).md",
     "JPA/연관관계 매핑 기초/양방향 연관관계와 연관관계의 주인 - 2.md",
     "JPA/연관관계 매핑 기초/양방향 연관관계와 연관관계의 주인 - 1.md",
@@ -262,7 +248,6 @@
     "Excalidraw/Scripts",
     "무제 파일.canvas",
     "Maven&Gradle/Maven/Maven이란.md",
-    "JUnit_단위_테스트/JUnit과 단위 테스트는 무엇인가.md",
     "99. Attachment",
     "00. Inbox",
     "Spring",
