@@ -32,7 +32,7 @@ DBMS에서 제공하는 기능으로, 다름과 같은 명령을 사용합니다
 A계좌에서 100,000원을 먼저 차감합니다. 중간에 에러가 발생해서 B에게 100,000원을 추가할 수 없게 되었습니다. 그럼 트랜잭션 RollBack을 하여 A계좌에서 차감했던 첫번째 연산 결과도 취소됩니다. 따라서 A계좌에서 100,000원이 차감되고 B계좌에 100,000원이 추가되는 상황을 방지할 수 있습니다.
 ```SQL
 BEGIN TRANSACTION; 
-UPDATE accounts SET balance = balance - 100 WHERE account_id = 'A'; 
+UPDATE accounts SET balance = balance - 100000 WHERE account_id = 'A'; 
 -- 오류 발생, 트랜잭션 롤백 
 ROLLBACK;
 ```
@@ -44,8 +44,8 @@ ROLLBACK;
 트랜잭션 전과 후에 데이터베이스가 일관된 상태를 유지해야 한다.
 ```SQL
 BEGIN TRANSACTION; 
-UPDATE accounts SET balance = balance - 100 WHERE account_id = 'A'; 
-UPDATE accounts SET balance = balance + 100 WHERE account_id = 'B'; 
+UPDATE accounts SET balance = balance - 100000 WHERE account_id = 'A'; 
+UPDATE accounts SET balance = balance + 100000 WHERE account_id = 'B'; 
 COMMIT;
 ```
 
@@ -55,8 +55,22 @@ A+B = 100이었다면 트랜잭션이 끝난 후에도 A + B = 100이어야합�
 ### Isolation(격리성)
 각각 트랜잭션은 서로 간섭없이 독립적으로 수행되어야 한다.
 ```SQL
+-- 트랜잭션 1: A가 B에게 100,000원 송금 
+SET TRANSACTION ISOLATION LEVEL REPEATABLE READ; 
+BEGIN TRANSACTION; 
+UPDATE accounts SET balance = balance - 100000 WHERE account_id = 'A'; 
+-- 트랜잭션 1이 완료되기 전, 다른 트랜잭션은 A의 중간 상태를 볼 수 없음 
 
+-- 트랜잭션 2: B가 자신의 잔액 조회 
+SET TRANSACTION ISOLATION LEVEL REPEATABLE READ; 
+BEGIN TRANSACTION; 
+SELECT balance FROM accounts WHERE account_id = 'B'; 
+-- 트랜잭션 2는 트랜잭션 1이 완료되기 전까지 B의 잔액을 변경하지 않음 
+COMMIT;
 ```
+
+격리성 보장: 트랜잭션 1이 완료되기 전까지 트랜잭션 2는 B의 계좌에 대한 중간 상태를 볼 수 없습니다. 각 트랜잭션은 독립적으로 실행되는 것처럼 보입니다.
+
 
 #### 트랜잭션 격리 수준\
 여러 트랜잭션이 동시에 처리될 때, **특정 트랜잭션이 다른 트랜잭션에서 변경하거나 조회하는 데이터를 볼 수 있게 허용할지 여부**를 결정하는 것
