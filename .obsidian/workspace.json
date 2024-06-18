@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3e0509a2f039ef07",
+        "id": "b2658e069ff05268",
         "type": "tabs",
         "children": [
           {
-            "id": "ecd0f6d8cdcdf497",
+            "id": "4139d9e9ecc7db22",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -206,11 +206,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f8ad27ec21eb64bb",
+  "active": "4139d9e9ecc7db22",
   "lastOpenFiles": [
+    "DATABASE/기초/트랜잭션(Transaction).md",
     "DATABASE/기초",
     "DATABASE/인덱스/MySQL - Index 알아보기.md",
-    "DATABASE/기초/트랜잭션(Transaction).md",
     "00. Inbox/무결성(Integrity).md",
     "JPA/연관관계 매핑 기초/양방향 연관관계와 연관관계의 주인 - 2.md",
     "JPA/연관관계 매핑 기초/양방향 연관관계와 연관관계의 주인 - 1.md",
@@ -254,7 +254,6 @@
     "Spring/Thymeleaf",
     "JPA/연관관계 매핑 기초",
     "Excalidraw/자료구조",
-    "DATABASE/인덱스",
     "Untitled.canvas",
     "마인드맵.canvas"
   ]
