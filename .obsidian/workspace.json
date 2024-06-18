@@ -109,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5086555480957
+    "width": 301.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "5a2dcc2e0a541c4d",
@@ -220,7 +221,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f8ad27ec21eb64bb",
+  "active": "89ca31a60859dafd",
   "lastOpenFiles": [
     "DATABASE/인덱스/MySQL - Index 알아보기.md",
     "00. Inbox/트랜잭션(Transaction).md",
