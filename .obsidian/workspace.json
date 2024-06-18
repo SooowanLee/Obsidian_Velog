@@ -223,9 +223,9 @@
   },
   "active": "89ca31a60859dafd",
   "lastOpenFiles": [
-    "00. Inbox/무결성(Integrity).md",
-    "00. Inbox/트랜잭션(Transaction).md",
     "DATABASE/인덱스/MySQL - Index 알아보기.md",
+    "00. Inbox/트랜잭션(Transaction).md",
+    "00. Inbox/무결성(Integrity).md",
     "JPA/연관관계 매핑 기초/양방향 연관관계와 연관관계의 주인 - 2.md",
     "JPA/연관관계 매핑 기초/양방향 연관관계와 연관관계의 주인 - 1.md",
     "JPA/엔티티 매핑/객체와 테이블 매핑.md",
