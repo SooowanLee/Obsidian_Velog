@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "21fbb461e78f78b3",
+        "id": "43c7ed8498bcc1e7",
         "type": "tabs",
         "children": [
           {
-            "id": "a1cccd47bc5d4103",
+            "id": "7541713b290b9627",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "99. Attachment/Pasted image 20240619235717.png"
+                "file": "JPA/다양한 연관관계 매핑/다대일.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -109,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99. Attachment/Pasted image 20240619235717.png",
+                "file": "JPA/다양한 연관관계 매핑/다대일.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99. Attachment/Pasted image 20240619235717.png",
+                "file": "JPA/다양한 연관관계 매핑/다대일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99. Attachment/Pasted image 20240619235717.png"
+                "file": "JPA/다양한 연관관계 매핑/다대일.md"
               }
             }
           }
@@ -203,10 +206,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a1cccd47bc5d4103",
+  "active": "7541713b290b9627",
   "lastOpenFiles": [
+    "99. Attachment/양방향 객체 연관관계.png",
     "JPA/다양한 연관관계 매핑/다대일.md",
-    "99. Attachment/Pasted image 20240619235717.png",
     "Excalidraw/JPA/양방향 객체 연관관계.md",
     "99. Attachment/Pasted image 20240619235326.png",
     "99. Attachment/Pasted image 20240619235212.png",
