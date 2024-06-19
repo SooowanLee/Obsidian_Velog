@@ -95,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5086555480957,
-    "collapsed": true
+    "width": 301.5086555480957
   },
   "right": {
     "id": "5a2dcc2e0a541c4d",
@@ -209,9 +208,14 @@
   },
   "active": "a1cccd47bc5d4103",
   "lastOpenFiles": [
-    "99. Attachment/Pasted image 20240619234853.png",
-    "Excalidraw/JPA/양방향 객체 연관관계.md",
+    "99. Attachment/Pasted image 20240619235326.png",
+    "99. Attachment/Pasted image 20240619235212.png",
     "JPA/다양한 연관관계 매핑/다대일.md",
+    "99. Attachment/Pasted image 20240619235300.png",
+    "99. Attachment/Pasted image 20240619235256.png",
+    "99. Attachment/Pasted image 20240619235215.png",
+    "Excalidraw/JPA/양방향 객체 연관관계.md",
+    "99. Attachment/Pasted image 20240619234853.png",
     "DATABASE/기초/트랜잭션(Transaction).md",
     "JPA/다양한 연관관계 매핑",
     "DATABASE/기초",
@@ -237,16 +241,11 @@
     "Image/Good_0.svg",
     "Image/Good Diagram.svg",
     "Image/Good.svg",
-    "Excalidraw/Scripts/Downloaded/Create DrawIO file.svg",
     "Excalidraw/Scripts/Downloaded/Create DrawIO file.md",
     "Image",
     "Excalidraw/Scripts/Downloaded/Rename Image.md",
     "Excalidraw/Scripts/Downloaded/Add Connector Point.md",
-    "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
-    "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.svg",
     "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.md",
-    "Excalidraw/Scripts/Downloaded/Rename Image.svg",
-    "Excalidraw/Scripts/Downloaded/Text to Sticky Notes.svg",
     "Excalidraw/Scripts/Downloaded/Text to Sticky Notes.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
