@@ -109,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5086555480957
+    "width": 301.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "5a2dcc2e0a541c4d",
@@ -220,7 +221,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f8ad27ec21eb64bb",
+  "active": "87df45e56697e6c5",
   "lastOpenFiles": [
     "JPA/다양한 연관관계 매핑",
     "DATABASE/기초/트랜잭션(Transaction).md",
