@@ -11,12 +11,9 @@
             "id": "a1cccd47bc5d4103",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "JPA/다양한 연관관계 매핑/다대일.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "99. Attachment/Pasted image 20240619235717.png"
               }
             }
           }
@@ -112,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JPA/다양한 연관관계 매핑/다대일.md",
+                "file": "99. Attachment/Pasted image 20240619235717.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JPA/다양한 연관관계 매핑/다대일.md",
+                "file": "99. Attachment/Pasted image 20240619235717.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JPA/다양한 연관관계 매핑/다대일.md"
+                "file": "99. Attachment/Pasted image 20240619235717.png"
               }
             }
           }
@@ -208,13 +205,14 @@
   },
   "active": "a1cccd47bc5d4103",
   "lastOpenFiles": [
+    "JPA/다양한 연관관계 매핑/다대일.md",
+    "99. Attachment/Pasted image 20240619235717.png",
+    "Excalidraw/JPA/양방향 객체 연관관계.md",
     "99. Attachment/Pasted image 20240619235326.png",
     "99. Attachment/Pasted image 20240619235212.png",
-    "JPA/다양한 연관관계 매핑/다대일.md",
     "99. Attachment/Pasted image 20240619235300.png",
     "99. Attachment/Pasted image 20240619235256.png",
     "99. Attachment/Pasted image 20240619235215.png",
-    "Excalidraw/JPA/양방향 객체 연관관계.md",
     "99. Attachment/Pasted image 20240619234853.png",
     "DATABASE/기초/트랜잭션(Transaction).md",
     "JPA/다양한 연관관계 매핑",
@@ -239,8 +237,6 @@
     "Untitled Diagram.svg",
     "Image/GoodDia.svg",
     "Image/Good_0.svg",
-    "Image/Good Diagram.svg",
-    "Image/Good.svg",
     "Excalidraw/Scripts/Downloaded/Create DrawIO file.md",
     "Image",
     "Excalidraw/Scripts/Downloaded/Rename Image.md",
