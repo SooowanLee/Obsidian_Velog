@@ -11,9 +11,12 @@
             "id": "ebc21a2203270ce8",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "99. Attachment/JPA/연관관계_일대다_테스트.png"
+                "file": "JPA/다양한 연관관계 매핑/일대다.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -92,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5086555480957
+    "width": 301.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "5a2dcc2e0a541c4d",
@@ -109,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99. Attachment/JPA/연관관계_일대다_테스트.png",
+                "file": "JPA/다양한 연관관계 매핑/일대다.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99. Attachment/JPA/연관관계_일대다_테스트.png",
+                "file": "JPA/다양한 연관관계 매핑/일대다.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99. Attachment/JPA/연관관계_일대다_테스트.png"
+                "file": "JPA/다양한 연관관계 매핑/일대다.md"
               }
             }
           }
@@ -203,11 +207,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f8ad27ec21eb64bb",
+  "active": "ebc21a2203270ce8",
   "lastOpenFiles": [
+    "99. Attachment/JPA/연관관계_일대다_테스트.png",
     "JPA/다양한 연관관계 매핑/일대다.md",
     "99. Attachment/JPA/연관관계_일대다_update문.png",
-    "99. Attachment/JPA/연관관계_일대다_테스트.png",
     "JPA/다양한 연관관계 매핑/다대일.md",
     "99. Attachment/Pasted image 20240620221949.png",
     "Excalidraw/JPA/연관관계_일대다.md",
