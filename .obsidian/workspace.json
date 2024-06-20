@@ -32,19 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4381cae462b51dc5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/연관관계_일대다.md"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/연관관계_일대다.md",
+                "file": "JPA/다양한 연관관계 매핑/일대다.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/연관관계_일대다.md",
+                "file": "JPA/다양한 연관관계 매핑/일대다.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/연관관계_일대다.md"
+                "file": "JPA/다양한 연관관계 매핑/일대다.md"
               }
             }
           }
@@ -231,12 +221,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4381cae462b51dc5",
+  "active": "8211846e67afbfc0",
   "lastOpenFiles": [
-    "JPA/다양한 연관관계 매핑/일대다.md",
-    "Excalidraw/연관관계_일대다.md",
+    "99. Attachment/JPA/연관관계_일대다.png",
+    "99. Attachment/JPA/양방향 객체 연관관계.png",
     "JPA/다양한 연관관계 매핑/다대일.md",
-    "99. Attachment/양방향 객체 연관관계.png",
+    "99. Attachment/JPA",
+    "JPA/다양한 연관관계 매핑/일대다.md",
+    "Excalidraw/JPA/연관관계_일대다.md",
     "Excalidraw/JPA/양방향 객체 연관관계.md",
     "99. Attachment/Pasted image 20240619235326.png",
     "99. Attachment/Pasted image 20240619235212.png",
@@ -266,12 +258,10 @@
     "무제 파일 1.md",
     "Untitled Diagram.svg",
     "Image/GoodDia.svg",
-    "Image/Good_0.svg",
     "Excalidraw/Scripts/Downloaded/Create DrawIO file.md",
     "Image",
     "Excalidraw/Scripts/Downloaded/Rename Image.md",
     "Excalidraw/Scripts/Downloaded/Add Connector Point.md",
-    "Excalidraw/Scripts/Downloaded/Deconstruct selected elements into new drawing.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "무제 파일.canvas",
@@ -279,7 +269,6 @@
     "00. Inbox",
     "Spring",
     "Spring/Thymeleaf",
-    "JPA/연관관계 매핑 기초",
     "Untitled.canvas",
     "마인드맵.canvas"
   ]
