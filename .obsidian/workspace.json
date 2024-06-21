@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "611b3fc336707e45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JPA/다양한 연관관계 매핑/일대일.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JPA/다양한 연관관계 매핑/일대다.md",
+                "file": "JPA/다양한 연관관계 매핑/일대일.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JPA/다양한 연관관계 매핑/일대다.md",
+                "file": "JPA/다양한 연관관계 매핑/일대일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JPA/다양한 연관관계 매핑/일대다.md"
+                "file": "JPA/다양한 연관관계 매핑/일대일.md"
               }
             }
           }
@@ -207,10 +221,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ebc21a2203270ce8",
+  "active": "611b3fc336707e45",
   "lastOpenFiles": [
-    "99. Attachment/JPA/연관관계_일대다_테스트.png",
     "JPA/다양한 연관관계 매핑/일대다.md",
+    "JPA/다양한 연관관계 매핑/일대일.md",
+    "99. Attachment/JPA/연관관계_일대다_테스트.png",
     "99. Attachment/JPA/연관관계_일대다_update문.png",
     "JPA/다양한 연관관계 매핑/다대일.md",
     "99. Attachment/Pasted image 20240620221949.png",
