@@ -80,12 +80,12 @@
             }
           },
           {
-            "id": "f8ad27ec21eb64bb",
+            "id": "48735756f577f79b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "alphabetical"
               }
             }
           }
@@ -223,8 +223,9 @@
   },
   "active": "611b3fc336707e45",
   "lastOpenFiles": [
-    "JPA/다양한 연관관계 매핑/일대다.md",
+    "00. Inbox/Untitled Diagram.svg",
     "JPA/다양한 연관관계 매핑/일대일.md",
+    "JPA/다양한 연관관계 매핑/일대다.md",
     "99. Attachment/JPA/연관관계_일대다_테스트.png",
     "99. Attachment/JPA/연관관계_일대다_update문.png",
     "JPA/다양한 연관관계 매핑/다대일.md",
@@ -238,7 +239,6 @@
     "99. Attachment/Pasted image 20240619235212.png",
     "99. Attachment/Pasted image 20240619235300.png",
     "99. Attachment/Pasted image 20240619235256.png",
-    "99. Attachment/Pasted image 20240619235215.png",
     "DATABASE/기초/트랜잭션(Transaction).md",
     "JPA/다양한 연관관계 매핑",
     "DATABASE/기초",
@@ -262,7 +262,6 @@
     "Excalidraw/Scripts/Downloaded/Create DrawIO file.md",
     "Image",
     "Excalidraw/Scripts/Downloaded/Rename Image.md",
-    "Excalidraw/Scripts/Downloaded/Add Connector Point.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "무제 파일.canvas",
