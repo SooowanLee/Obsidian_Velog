@@ -11,8 +11,13 @@
             "id": "235f0b35b4c961ef",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "00. Inbox/상속관계 매핑.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -90,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5086555480957
+    "width": 301.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "5a2dcc2e0a541c4d",
@@ -107,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00. Inbox/상속관계 매핑.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "00. Inbox/상속관계 매핑.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +180,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "00. Inbox/상속관계 매핑.md"
+              }
             }
           }
         ]
@@ -199,6 +209,8 @@
   },
   "active": "235f0b35b4c961ef",
   "lastOpenFiles": [
+    "00. Inbox/상속관계 매핑.md",
+    "JPA/고급매핑",
     "JPA/다양한 연관관계 매핑/일대다.md",
     "JPA/다양한 연관관계 매핑/일대일.md",
     "00. Inbox/Untitled Diagram.svg",
@@ -244,7 +256,6 @@
     "99. Attachment",
     "00. Inbox",
     "Spring",
-    "Spring/Thymeleaf",
     "Untitled.canvas",
     "마인드맵.canvas"
   ]
