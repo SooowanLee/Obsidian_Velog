@@ -32,9 +32,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "27f20faf76daf0af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "실전_자바_프로그래밍_개발/2장 입출금 내역 분석기.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5086555480957
+    "width": 301.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "5a2dcc2e0a541c4d",
@@ -126,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Thymeleaf/타임리프 기본 기능 알아보기 - 3.md",
+                "file": "실전_자바_프로그래밍_개발/2장 입출금 내역 분석기.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/Thymeleaf/타임리프 기본 기능 알아보기 - 3.md",
+                "file": "실전_자바_프로그래밍_개발/2장 입출금 내역 분석기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/Thymeleaf/타임리프 기본 기능 알아보기 - 3.md"
+                "file": "실전_자바_프로그래밍_개발/2장 입출금 내역 분석기.md"
               }
             }
           }
@@ -220,12 +234,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ab340490532f9dd3",
+  "active": "27f20faf76daf0af",
   "lastOpenFiles": [
+    "Spring/Thymeleaf/타임리프 기본 기능 알아보기 - 3.md",
+    "실전_자바_프로그래밍_개발/2장 입출금 내역 분석기.md",
+    "실전_자바_프로그래밍_개발",
     "Spring/Thymeleaf/타임리프 기본 기능 알아보기 - 2.md",
     "Spring/Thymeleaf/타임리프 기본 기능 알아보기 -1.md",
     "00. Inbox/상속관계 매핑.md",
-    "Spring/Thymeleaf/타임리프 기본 기능 알아보기 - 3.md",
     "JPA/고급매핑",
     "JPA/다양한 연관관계 매핑/일대다.md",
     "JPA/다양한 연관관계 매핑/일대일.md",
@@ -262,13 +278,11 @@
     "무제 파일 1.md",
     "Excalidraw/Scripts/Downloaded/Create DrawIO file.md",
     "Image",
-    "Excalidraw/Scripts/Downloaded/Rename Image.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "무제 파일.canvas",
     "99. Attachment",
     "00. Inbox",
-    "Spring",
     "Untitled.canvas",
     "마인드맵.canvas"
   ]
