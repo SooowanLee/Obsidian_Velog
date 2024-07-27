@@ -84,9 +84,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ebbcdae7ac2172cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "객체지향/객체지향_사실과_오해_타입.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -179,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00. Inbox/WHAT, HOW.md",
+                "file": "객체지향/객체지향_사실과_오해_타입.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00. Inbox/WHAT, HOW.md",
+                "file": "객체지향/객체지향_사실과_오해_타입.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00. Inbox/WHAT, HOW.md"
+                "file": "객체지향/객체지향_사실과_오해_타입.md"
               }
             }
           }
@@ -273,10 +286,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a61cf9b1bcd5515a",
+  "active": "48735756f577f79b",
   "lastOpenFiles": [
-    "00. Inbox/프로그램_나누기_기술.md",
     "00. Inbox/WHAT, HOW.md",
+    "객체지향/객체지향_사실과_오해_타입.md",
+    "객체지향",
+    "00. Inbox/프로그램_나누기_기술.md",
     "자바/오브젝트_상속과 다형성.md",
     "99. Attachment/Pasted image 20240725173729.png",
     "실전_자바_프로그래밍_개발/2장 입출금 내역 분석기.md",
@@ -316,12 +331,10 @@
     "JPA/연관관계 매핑 기초/단방향 연관관계.md",
     "JPA/영속성 관리/영속성 컨텍스트의 특징.md",
     "Spring/Thymeleaf/타임리프란 무엇인가.md",
-    "JPA/영속성 관리/영속성 컨텍스트란.md",
     "Image",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "무제 파일.canvas",
-    "99. Attachment",
     "Untitled.canvas",
     "마인드맵.canvas"
   ]
