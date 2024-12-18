@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. Inbox/오브젝트_역할, 책임, 협력.md",
-                "mode": "source",
+                "file": "DATABASE/DB_인덱스_자료구조/B Tree - 데이터 삽입.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "오브젝트_역할, 책임, 협력"
+              "title": "B Tree - 데이터 삽입"
             }
           }
         ],
@@ -141,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00. Inbox/오브젝트_역할, 책임, 협력.md",
+                "file": "DATABASE/DB_인덱스_자료구조/B Tree - 데이터 삽입.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "오브젝트_역할, 책임, 협력의 백링크"
+              "title": "B Tree - 데이터 삽입의 백링크"
             }
           },
           {
@@ -160,12 +160,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00. Inbox/오브젝트_역할, 책임, 협력.md",
+                "file": "DATABASE/DB_인덱스_자료구조/B Tree - 데이터 삽입.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "오브젝트_역할, 책임, 협력의 나가는 링크"
+              "title": "B Tree - 데이터 삽입의 나가는 링크"
             }
           },
           {
@@ -219,10 +219,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00. Inbox/오브젝트_역할, 책임, 협력.md"
+                "file": "DATABASE/DB_인덱스_자료구조/B Tree - 데이터 삽입.md"
               },
               "icon": "lucide-list",
-              "title": "오브젝트_역할, 책임, 협력 개요"
+              "title": "B Tree - 데이터 삽입 개요"
             }
           }
         ]
@@ -249,8 +249,8 @@
   },
   "active": "7e1ef658631a8201",
   "lastOpenFiles": [
-    "객체지향/객체지향_사실과_오해_타입.md",
     "00. Inbox/오브젝트_역할, 책임, 협력.md",
+    "객체지향/객체지향_사실과_오해_타입.md",
     "00. Inbox/WHAT, HOW.md",
     "00. Inbox/프로그램_나누기_기술.md",
     "객체지향/오브젝트_상속과 다형성.md",
