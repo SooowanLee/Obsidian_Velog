@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "00. Inbox/SQLD.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               },
@@ -107,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5086555480957
+    "width": 301.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "5a2dcc2e0a541c4d",
@@ -202,10 +203,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DATABASE/DB_인덱스_자료구조/B Tree - 데이터 삽입.md"
+                "file": "00. Inbox/SQLD.md"
               },
               "icon": "lucide-list",
-              "title": "B Tree - 데이터 삽입 개요"
+              "title": "SQLD 개요"
             }
           }
         ]
@@ -232,8 +233,8 @@
   },
   "active": "0d44e028e50c1ae0",
   "lastOpenFiles": [
-    "00. Inbox/무제 파일.md",
     "00. Inbox/SQLD.md",
+    "00. Inbox/무제 파일.md",
     "DATABASE/기초/트랜잭션(Transaction).md",
     "프로그래밍_지식/CORS(Cross-Origin-Resource-Sharing) 알아보기.md",
     "객체지향/객체지향_사실과_오해_타입.md",
