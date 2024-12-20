@@ -14,3 +14,8 @@ tags:
 ## 프로토콜 계층
 ![](https://i.imgur.com/zzsSWgB.png)
 
+## IP 패킷 정보
+출발지 IP와 목적지 IP 등을 가진다.
+
+## TCP/IP 패킷 정보
+TCP 세그먼트를 IP 패킷으로 감싼다.
