@@ -12,4 +12,5 @@ tags:
 네트워크 인터페이스 계층
 
 ## 프로토콜 계층
+![](https://i.imgur.com/zzsSWgB.png)
 
