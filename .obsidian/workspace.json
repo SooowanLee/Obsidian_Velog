@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b828762d6cf51c04",
+        "id": "bf2ec04a71b5bcc4",
         "type": "tabs",
         "children": [
           {
-            "id": "0d44e028e50c1ae0",
+            "id": "715a9c7ea8b78ee3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. Inbox/SQLD.md",
+                "file": "00. Inbox/IP(인터넷 프로토콜).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQLD"
+              "title": "IP(인터넷 프로토콜)"
             }
           }
         ]
@@ -107,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5086555480957
+    "width": 301.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "5a2dcc2e0a541c4d",
@@ -202,10 +203,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00. Inbox/SQLD.md"
+                "file": "00. Inbox/IP(인터넷 프로토콜).md"
               },
               "icon": "lucide-list",
-              "title": "SQLD 개요"
+              "title": "IP(인터넷 프로토콜) 개요"
             }
           }
         ]
@@ -230,8 +231,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0d44e028e50c1ae0",
+  "active": "715a9c7ea8b78ee3",
   "lastOpenFiles": [
+    "00. Inbox/IP(인터넷 프로토콜).md",
+    "HTTP",
+    "00. Inbox/SQLD.md",
     "객체지향/오브젝트_상속과 다형성.md",
     "객체지향/객체지향_사실과_오해_타입.md",
     "실전_자바_프로그래밍_개발/2장 입출금 내역 분석기.md",
@@ -255,11 +259,8 @@
     "99. Attachment/JPA/양방향 객체 연관관계.png",
     "00. Inbox/WHAT, HOW.md",
     "00. Inbox/무결성(Integrity).md",
-    "00. Inbox/무제 파일.md",
     "00. Inbox/상속관계 매핑.md",
     "00. Inbox/오브젝트_역할, 책임, 협력.md",
-    "00. Inbox/프로그램_나누기_기술.md",
-    "00. Inbox/SQLD.md",
     "99. Attachment/Pasted image 20240725173729.png",
     "객체지향",
     "Image/Good_0.svg",
@@ -277,7 +278,6 @@
     "DATABASE/기초",
     "Image",
     "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
     "무제 파일.canvas",
     "Untitled.canvas",
     "마인드맵.canvas"
