@@ -39,3 +39,6 @@ ACK: 요청 수락
 - MSS - TCP로 전송할 수 있는 최대 페이로드 크기
 - TCP 헤더 크기는 제외
 ![](https://i.imgur.com/zDTnDrs.png)
+
+### TCP 세그먼트 구조
+![](https://i.imgur.com/Vu9KZOs.png)
