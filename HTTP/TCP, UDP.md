@@ -95,4 +95,17 @@ ACK: 요청 수락
  
  - 호스트 A와 B가 쓰리 웨이 핸드셰이크를 한다고 가정
 ![](https://i.imgur.com/OPu1KOd.png)
+
+
+### 연결 수립
+- 액티브 오픈(active open): 연결 시작 호스트의 연결 수립 과정
+- 패시브 오픈(passive open): 연결 수락 호스트의 연결 수립 과정
+![](https://i.imgur.com/85LqBIH.png)
+
+### 연결 종료
+- 송수신 호스트가 각자 한 번식 FIN과 ACK를 주고 받으며 TCP가 연결 종료
+	- 액티브 클로즈(active close): 종료 시작 호스트의 종료 과정
+	- 패시브 클로즈(passive close): 종료 수락 호스트의 종료 과정
+![](https://i.imgur.com/u7bQFvl.png)
+![](https://i.imgur.com/7eMw0vW.png)
  
