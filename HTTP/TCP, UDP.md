@@ -34,4 +34,8 @@ SYN: 접속 요청
 ACK: 요청 수락
 참고: 3. ACK와 함께 데이터 전송 가능
 
-
+## TCP 통신 단계
+### MSS(Maximum Segment Size) 단위
+- MSS - TCP로 전송할 수 있는 최대 페이로드 크기
+- TCP 헤더 크기는 제외
+![](https://i.imgur.com/zDTnDrs.png)
