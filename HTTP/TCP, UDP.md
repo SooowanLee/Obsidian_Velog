@@ -107,7 +107,7 @@ ACK: 요청 수락
 	- 액티브 클로즈(active close): 종료 시작 호스트의 종료 과정
 	- 패시브 클로즈(passive close): 종료 수락 호스트의 종료 과정
 ![](https://i.imgur.com/u7bQFvl.png)
-**네 단계로 연결을 종료한다는 점에서 포 웨이 핸드셰이크(four-way handshacke)라고 부리기도 한다.**
+**네 단계로 연결을 종료한다는 점에서 포 웨이 핸드셰이크(four-way handshake)라고 부리기도 한다.**
 
 ![](https://i.imgur.com/7eMw0vW.png)
 
@@ -116,3 +116,8 @@ ACK: 요청 수락
 상태를 유지하고 활용하는 TCP
 - 스테이트풀(stateful) 프로토콜
 
+### 연결이 수립되지 않은 상태
+CLOSED - 아무런 연결이 없는 상태
+LISTEN - 연결 대기 상태(SYN 세그먼트를 기다리는 상태)
+- 서버로서 동작하는 패시브 오픈 호스트는 일반적으로 LISTEN 상태 유지
+- LISTEN 호스트에게 STN 세그먼트를 보내면 3way handshake 시작
