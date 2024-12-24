@@ -88,3 +88,7 @@ ACK: 요청 수락
 
 ### 윈도우(window)
 - 수신 윈도우(한 번에 수신하고자 하는 데이터의 양)의 크기가 명시
+
+### 연결 수립: 3way handshake
+- 세 개의 단계로 이루어진 TCP의 연결 수립 과정
+![](https://i.imgur.com/Wm1OMo5.png)
