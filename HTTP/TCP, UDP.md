@@ -107,5 +107,12 @@ ACK: 요청 수락
 	- 액티브 클로즈(active close): 종료 시작 호스트의 종료 과정
 	- 패시브 클로즈(passive close): 종료 수락 호스트의 종료 과정
 ![](https://i.imgur.com/u7bQFvl.png)
+**네 단계로 연결을 종료한다는 점에서 포 웨이 핸드셰이크(four-way handshacke)라고 부리기도 한다.**
+
 ![](https://i.imgur.com/7eMw0vW.png)
- 
+
+### TCP 상태
+상태(state): 현재 어떤 통신 과정에 있는지 나타내는 정보
+상태를 유지하고 활용하는 TCP
+- 스테이트풀(stateful) 프로토콜
+
