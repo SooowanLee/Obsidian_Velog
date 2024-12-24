@@ -93,3 +93,6 @@ ACK: 요청 수락
 - 세 개의 단계로 이루어진 TCP의 연결 수립 과정
 ![](https://i.imgur.com/Wm1OMo5.png)
  
+ - 호스트 A와 B가 쓰리 웨이 핸드셰이크를 한다고 가정
+![](https://i.imgur.com/OPu1KOd.png)
+ 
