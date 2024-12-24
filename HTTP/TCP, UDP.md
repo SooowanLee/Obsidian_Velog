@@ -92,3 +92,4 @@ ACK: 요청 수락
 ### 연결 수립: 3way handshake
 - 세 개의 단계로 이루어진 TCP의 연결 수립 과정
 ![](https://i.imgur.com/Wm1OMo5.png)
+ 
