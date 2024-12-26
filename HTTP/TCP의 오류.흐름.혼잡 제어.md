@@ -25,3 +25,12 @@ tags:
 호스트가 세그먼트를 전송할 때마다 재전송 타이머(retransmission timer) 시작
 타임아웃이 발생할 때까지 ACK 세그먼트를 받지 못하면 재전송
 ![](https://i.imgur.com/XuJoIgP.png)
+
+## 재전송 기법: ARQ(Automatic Repeat Request, 자동 재전송 요구)
+수신 호스트의 답변(ACK)과 타임아웃을 토대로 문제를 진단하고 문제가 생긴 메시지를 재전송함으로써 신뢰성을 확보하는 방식
+
+## ARQ의 대표적인 세 가지 방식
+**Stop-and-Wait ARQ**
+**Go-Back-N ARQ**
+**Selective Repeat ARQ**
+![](https://i.imgur.com/NpiOlbE.png)
