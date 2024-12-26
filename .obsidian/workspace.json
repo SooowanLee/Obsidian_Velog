@@ -8,37 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "723d308131ad703f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTTP/TCP, UDP.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TCP, UDP"
-            }
-          },
-          {
             "id": "55aaac35d98f3e4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTTP/TCP, UDP.md",
+                "file": "HTTP/TCP의 오류.흐름.혼잡 제어.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TCP, UDP"
+              "title": "TCP의 오류.흐름.혼잡 제어"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "진행중",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "22e99aaeefe8472c",
@@ -123,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5086555480957
+    "width": 301.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "5a2dcc2e0a541c4d",
@@ -246,10 +231,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "69ebdaf4a243a1e0",
+  "active": "55aaac35d98f3e4f",
   "lastOpenFiles": [
-    "HTTP/TCP의 오류.흐름.혼잡 제어.md",
     "HTTP/TCP, UDP.md",
+    "HTTP/TCP의 오류.흐름.혼잡 제어.md",
     "무제 폴더",
     "HTTP/IP(인터넷 프로토콜).md",
     "00. Inbox/SQLD.md",
