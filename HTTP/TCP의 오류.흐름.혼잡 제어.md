@@ -52,5 +52,11 @@ tags:
 
 ### Go-Back-N ARQ
 파이프라이닝 기반 ARQ 일종
-여러 세그먼트 전송 중 오류가 발생하면 해당 세그먼트부터 전송 재전송
+여러 세그먼트 전송 중 **오류가 발생하면 해당 세그먼트부터 전부 재전송**
 ![](https://i.imgur.com/aElYpBx.png)
+
+순서 번호 n번에 대한 ACK 세그먼트는 'n번만의' 확인 응답이 아닌 '**n번까지의 누적 확인 응답**'
+누적 확인 응답(CACK, Cumulative Acknowledment)
+
+## 빠른 재전송(fact retransmit)
+재전송 타이머가 만료되기 전이라도 세 번의 동일한 ACK 세그먼트를 받았다면 곧바로 재전송![](https://i.imgur.com/UjLJgBJ.png)
