@@ -83,5 +83,16 @@ Selective Repeat ARQ를 사용하지 않을 경우 Go-Back-N ARQ로 동작
 ### 슬라이딩 윈도우(sliding window): TCP 흐름 제어 기법
 윈도우(window) - 송신 호스트가 파이프라이닝할 수 있는 최대량
 윈도우의 크기만큼 확인 응답을 받지 않고 한 번에 전송 가능하다.
-ex) 마트에서 장바구니 단위로 물품을 확인하면 확인된 장바구니안의 물품은 모두 안전한 것
 ![](https://i.imgur.com/efOeBSm.png)
+
+### 송신 윈도우
+수신 호스트는 **TCP 헤더(윈도우 필드)를 통해** 송신 호스트에게 자신이 받을 데이터의 양을 알려줌
+송신 윈도우: 헤더로 전달받은 수신 윈도우 토대로 연산
+![](https://i.imgur.com/swCTXtq.png)
+![](https://i.imgur.com/Ybi8BqU.png)
+
+## 혼잡 제어
+### 혼잡(congestion)
+많은 트래픽으로 인해 패킷의 처리 속도가 늦어지거나 유실될 우려가 있는 네트워크 상황
+![](https://i.imgur.com/zEICIhz.png)
+ 
