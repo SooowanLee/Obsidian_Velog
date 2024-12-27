@@ -19,6 +19,7 @@ tags:
 - 중복된 ACK 세그먼트를 수신했을 때
 - 타임아웃이 발생했을 때
 
+## TCP의 재전송 기반 오류 제어
 ### 중복된 ACK 세그먼트를 수신했을 때
 ![](https://i.imgur.com/RVr0RC8.png)
 ### 타임아웃이 발생했을 때
@@ -69,3 +70,8 @@ Go-Back-N ARQ의 ACK 세그먼트가 누적 확인 응답이라면, Selective Re
 대부분의 호스트는 Selective Repeat ARQ 지원
 Selective Repeat ARQ를 사용하지 않을 경우 Go-Back-N ARQ로 동작
 ![](https://i.imgur.com/0YPW2CR.png)
+
+## 흐름 제어
+### 파이프라이닝 기반 Go-Back-N ARQ/Selective Repeat ARQ
+**수신호스트가 한 번에 얼마나 받아 처리할 수 있는지 반드시 고려해야한다.**
+호스트가 한 번에 받아서 처리할 수 있는 세그먼트의 양에는 한계가 있다.
