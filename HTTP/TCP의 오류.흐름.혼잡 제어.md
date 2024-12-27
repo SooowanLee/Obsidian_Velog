@@ -107,3 +107,32 @@ Selective Repeat ARQ를 사용하지 않을 경우 Go-Back-N ARQ로 동작
 수신 윈도우는 수신 호스트가 헤더로 알려줌
 혼잡 윈도우는 손신 호스트가 알아서 직접 계산해서 알아내야 함
 
+송신 호스트는 어떻게 네트워크가 혼잡한지 알 수 있을까?
+### TCP의 혼잡 제어 알고리즘
+가장 기본적인 알고리즘인 AIMD(Additive Increase/Multiplicative Decrease)
+	'합으로 증가, 곱으로 감소'
+	혼잡이 감지되지 않는다면 - 혼잡 윈도우를 RTTT(Round Trip Time)마다 1씩 선형적으로 증가
+	혼잡이 감지되면 - 혼잡 윈도우를 절반으로 떨어뜨리는 동작을 반복
+
+![](https://i.imgur.com/PlL0F7p.png)
+### RTT(Round Trip Time)
+메세지를 전송한 뒤 그에 대한 답변까지 걸리는 시간
+![](https://i.imgur.com/MdfgyJz.png)
+
+### 송신호스트가 네트워크의 혼잡을 결정하는 척도
+1. 중복된 ACK 세그먼트를 수신했을 때
+2. 타임아웃이 발생했을 때
+
+
+## AIMD(Additive Increase/Multiplicative Decrease) 의 고도화
+### 느린 시작(slow start) 알고리즘
+혼잡 윈도우를 1부터 시작해 문제 없이 수신된 ACK 세그먼트 하나당 1씩 증가시키는 방식
+혼잡 윈도우는 RTT마다 2배씩 지수적으로 증가: 초기 전송 속도 빠른 확보
+
+느린시작 임계치(slow start threshold)
+혼잡 윈도우 값이 계속 증가하다가
+	혼잡 윈도우 크기가 느린 시작 임계치 이상이 되거나
+	타임아웃이 발생하거나
+	세 번 중복된 ACK 세그먼트를 수신하면
+	다음 세 가지 방법 중 하나를 선택
+	![](https://i.imgur.com/JfaS9Ue.png)
