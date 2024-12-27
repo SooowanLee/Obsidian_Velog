@@ -60,3 +60,12 @@ tags:
 
 ## 빠른 재전송(fact retransmit)
 재전송 타이머가 만료되기 전이라도 세 번의 동일한 ACK 세그먼트를 받았다면 곧바로 재전송![](https://i.imgur.com/UjLJgBJ.png)
+
+### Selective Repeat ARQ
+선택적으로 재전송: 각각의 패킷들에 대해 ACK 세그먼트를 보내는 방식
+문제가 발생한 ACK 세그먼트만 재전송
+Go-Back-N ARQ의 ACK 세그먼트가 누적 확인 응답이라면, Selective Repeat ARQ의 ACK 세그먼트는 개별 확인 응답(Selective Acknowledgment)
+
+대부분의 호스트는 Selective Repeat ARQ 지원
+Selective Repeat ARQ를 사용하지 않을 경우 Go-Back-N ARQ로 동작
+![](https://i.imgur.com/0YPW2CR.png)
