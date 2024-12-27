@@ -95,4 +95,7 @@ Selective Repeat ARQ를 사용하지 않을 경우 Go-Back-N ARQ로 동작
 ### 혼잡(congestion)
 많은 트래픽으로 인해 패킷의 처리 속도가 늦어지거나 유실될 우려가 있는 네트워크 상황
 ![](https://i.imgur.com/zEICIhz.png)
- 
+
+### TCP의 혼잡 제어(congestion control)
+송신 호스트가 혼잡한 정도에 맞춰 유동적으로 전송량을 조절하는 기능
+흐름 제어의 주체가 수신 호스트라면 혼잡 제어의 주체는 송신 호스트
