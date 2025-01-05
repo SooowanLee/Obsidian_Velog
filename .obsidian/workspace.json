@@ -11,10 +11,15 @@
             "id": "2db7e5bb88de7278",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00. Inbox/2차원 배열.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "2차원 배열"
             }
           }
         ]
@@ -228,6 +233,7 @@
   },
   "active": "2db7e5bb88de7278",
   "lastOpenFiles": [
+    "00. Inbox/2차원 배열.md",
     "HTTP/TCP의 오류.흐름.혼잡 제어.md",
     "HTTP/PORT, DNS.md",
     "HTTP/TCP, UDP.md",
@@ -257,7 +263,6 @@
     "99. Attachment/JPA/연관관계_일대다.png",
     "99. Attachment/JPA/양방향 객체 연관관계.png",
     "00. Inbox/WHAT, HOW.md",
-    "00. Inbox/무결성(Integrity).md",
     "99. Attachment/Pasted image 20240725173729.png",
     "객체지향",
     "Image/Good_0.svg",
