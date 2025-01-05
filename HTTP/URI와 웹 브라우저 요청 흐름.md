@@ -1,9 +1,9 @@
 ---
-상태: 진행중
+상태: 완료
 tags:
   - HTTP
 시작일: 2025-01-05
-마감일:
+마감일: 2025-01-05
 ---
 ## URI(Uniform Resource Identifier)
 
@@ -12,7 +12,7 @@ tags:
 
 URL은 리소스의 위치 현재는 대부분 URL로 표현
 
-**U**niform: 리소스 식별하는 통일된 방식
+**U**niform: 리소스 식별하는 통일된 방식 <
 **R**esource: 자원, URI로 식별할 수 있는 모든 것(제한 없음)
 **I**dentifier: 다른 항목과 구분하는데 필요한 정보
 
@@ -32,4 +32,11 @@ https://www.google.com/443/search?q=hello&hi=ko
 	http, https, ftp 등등
 http/80, https/443 포트 생략 가능(대부분 URL에서 포트는 생략되어 있다.)
 http에 보안이 추가되면 https(HTTP Secure)
- 
+
+URL은 보통 계층적 구조로 되어있다.
+
+### 쿼리(query)
+key=value 형태
+?로 시작, &로 추가 가능 ?key1=value1&key2=value2
+query parameter, query string으로 불림(데이터가 문자형태
+로 넘어간다), 웹서버에 제공하는 파라미터 문자 형태
