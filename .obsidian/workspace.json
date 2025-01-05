@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-01-05 (일).md",
+                "file": "HTTP/URI와 웹 브라우저 요청 흐름.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-05 (일)"
+              "title": "URI와 웹 브라우저 요청 흐름"
             }
           }
         ],
@@ -50,7 +50,7 @@
       {
         "id": "c16b704fc94bbe2a",
         "type": "tabs",
-        "dimension": 68.60282574568289,
+        "dimension": 56.35792778649922,
         "children": [
           {
             "id": "2289f872d95506e0",
@@ -107,7 +107,7 @@
       {
         "id": "22e99aaeefe8472c",
         "type": "tabs",
-        "dimension": 31.39717425431711,
+        "dimension": 43.64207221350079,
         "children": [
           {
             "id": "712e6d2b41973448",
@@ -123,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5086555480957
+    "width": 301.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "5a2dcc2e0a541c4d",
@@ -246,10 +247,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "48735756f577f79b",
+  "active": "6067a7f0db981513",
   "lastOpenFiles": [
-    "HTTP/URI와 웹 브라우저 요청 흐름.md",
     "2025-01-05 (일).md",
+    "HTTP/URI와 웹 브라우저 요청 흐름.md",
     "00. Inbox/오브젝트_역할, 책임, 협력.md",
     "00. Inbox/프로그램_나누기_기술.md",
     "00. Inbox/무결성(Integrity).md",
