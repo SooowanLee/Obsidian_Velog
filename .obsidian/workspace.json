@@ -4,41 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "bf2ec04a71b5bcc4",
+        "id": "ce7d5516780ae32f",
         "type": "tabs",
         "children": [
           {
-            "id": "55aaac35d98f3e4f",
+            "id": "2db7e5bb88de7278",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTTP/TCP의 오류.흐름.혼잡 제어.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "TCP의 오류.흐름.혼잡 제어"
-            }
-          },
-          {
-            "id": "8ad4bf39497f57fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTTP/PORT, DNS.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PORT, DNS"
+              "title": "새 탭"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -247,7 +226,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8ad4bf39497f57fe",
+  "active": "2db7e5bb88de7278",
   "lastOpenFiles": [
     "HTTP/TCP의 오류.흐름.혼잡 제어.md",
     "HTTP/PORT, DNS.md",
