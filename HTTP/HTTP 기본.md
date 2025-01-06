@@ -41,3 +41,6 @@ Request Response 구조
 
 정리
 ![](https://i.imgur.com/loK6TNo.png)
+
+
+![](https://i.imgur.com/iUid3vk.png)
