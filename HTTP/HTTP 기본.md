@@ -75,7 +75,7 @@ tags:
 ### 가장 중요한 **HTTP 메세지 기능**
 ![](https://i.imgur.com/AIRlqQH.png)
 
-#### 시작라인
+#### REQUEST 시작라인
 - start-line = request-line / status-line
 - request-line = method SP(공백) request-target SP HTTP-version CRLF(엔터)
 
