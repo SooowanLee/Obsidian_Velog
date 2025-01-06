@@ -31,3 +31,13 @@ Request Response 구조
 장점: 서버 확장성 높음(스케일 아웃)
 단점: 클라이언트가 추가 데이터 전송
 
+#### Stateful, Stateless 차이
+상태유지 - Stateful
+![](https://i.imgur.com/pwZKsBY.png)
+
+상태유지 - Stateful, 점원이 중간에 바뀌면?
+![](https://i.imgur.com/Zlae0Oo.png)
+
+
+정리
+![](https://i.imgur.com/loK6TNo.png)
