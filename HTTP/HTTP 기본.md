@@ -73,4 +73,5 @@ tags:
 - 지금은 HTTP 지속 연결(Persistent Connections)로 문제 해결
 
 ### 가장 중요한 **HTTP 메세지 기능**
-![](https://i.imgur.com/VaCFwZ2.png)
+![](https://i.imgur.com/AIRlqQH.png)
+
