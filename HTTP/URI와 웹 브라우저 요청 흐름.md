@@ -10,9 +10,9 @@ tags:
 ## URI
 >로케이터(locator), 이름(name) 또는 둘 다 추가로 분류될 수 있다. URI, URL, URN 중 가장 큰 개념
 
-URL은 리소스의 위치 현재는 대부분 URL로 표현
+URL은 리소스의 위치로 자원을 식별 / 현재는 대부분 URL로 표현
 
-**U**niform: 리소스 식별하는 통일된 방식 <
+**U**niform: 리소스 식별하는 통일된 방식
 **R**esource: 자원, URI로 식별할 수 있는 모든 것(제한 없음)
 **I**dentifier: 다른 항목과 구분하는데 필요한 정보
 
@@ -26,7 +26,8 @@ scheme/authority/path/query/fragment
 scheme://[userinfo@]host[:port][/path][?query][#fragment]
 https://www.google.com/443/search?q=hello&hi=ko
 
-주로 프로토콜 사용
+
+스키마는 주로 프로토콜 사용
 
 프로토콜: 어떤 방식으로 자원에 접근할 것인가 하는 약속 규칙
 	http, https, ftp 등등
