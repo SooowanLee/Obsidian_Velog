@@ -75,3 +75,12 @@ tags:
 ### 가장 중요한 **HTTP 메세지 기능**
 ![](https://i.imgur.com/AIRlqQH.png)
 
+#### 시작라인
+- start-line = request-line / status-line
+- request-line = method SP(공백) request-target SP HTTP-version CRLF(엔터)
+
+**HTTP 메서드**
+- 종류 - GET, POST, PUT, DELETE...
+- 서버가 수행해야 할 동작 지정
+	- GET - 리소스 조회
+	- POST - 요청 내역 처리
