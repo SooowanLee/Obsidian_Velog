@@ -8,33 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2db7e5bb88de7278",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00. Inbox/오브젝트_역할, 책임, 협력.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "오브젝트_역할, 책임, 협력"
-            }
-          },
-          {
             "id": "6067a7f0db981513",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTTP/TCP, UDP.md",
+                "file": "HTTP/TCP의 오류.흐름.혼잡 제어.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TCP, UDP"
+              "title": "TCP의 오류.흐름.혼잡 제어"
+            }
+          },
+          {
+            "id": "cf5860cf5ddc8808",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTTP/HTTP 기본.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HTTP 기본"
             }
           }
         ],
@@ -123,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5086555480957
+    "width": 301.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "5a2dcc2e0a541c4d",
@@ -246,12 +247,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6067a7f0db981513",
+  "active": "cf5860cf5ddc8808",
   "lastOpenFiles": [
-    "HTTP/PORT, DNS.md",
-    "HTTP/HTTP 기본.md",
     "HTTP/TCP의 오류.흐름.혼잡 제어.md",
     "HTTP/TCP, UDP.md",
+    "HTTP/HTTP 기본.md",
+    "HTTP/PORT, DNS.md",
     "00. Inbox/프로그램_나누기_기술.md",
     "HTTP/URI와 웹 브라우저 요청 흐름.md",
     "2025-01-05 (일).md",
