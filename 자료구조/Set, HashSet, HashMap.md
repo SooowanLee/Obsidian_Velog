@@ -57,3 +57,7 @@ HashMap을 사용해서 배우 이름이 나올 때 마다 key에 저장을 하�
 
 HashMap에서 또 다른 의미의 해시 충돌
 **hf(key1) != hf(key2) BUT!!! hf(key1) % M == hf(key2) % M**
+
+**왜 발생하는가?**
+- perfect hash function 구현의 어려움
+- key의 사이즈에 비해 hash map의 사이즈가 작기 때문
