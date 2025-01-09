@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "자료구조/Set, HashSet.md",
+                "file": "자료구조/Set, HashSet, HashMap.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Set, HashSet"
+              "title": "Set, HashSet, HashMap"
             }
           }
         ],
@@ -234,10 +234,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "자료구조/Set, HashSet.md"
+                "file": "자료구조/Set, HashSet, HashMap.md"
               },
               "icon": "lucide-list",
-              "title": "Set, HashSet 개요"
+              "title": "Set, HashSet, HashMap 개요"
             }
           }
         ]
@@ -266,7 +266,7 @@
   "lastOpenFiles": [
     "HTTP/PORT, DNS.md",
     "HTTP/HTTP 기본.md",
-    "자료구조/Set, HashSet.md",
+    "자료구조/Set, HashSet, HashMap.md",
     "HTTP/TCP의 오류.흐름.혼잡 제어.md",
     "HTTP/TCP, UDP.md",
     "00. Inbox/프로그램_나누기_기술.md",
