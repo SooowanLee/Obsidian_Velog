@@ -77,4 +77,9 @@ HashMap에서 또 다른 의미의 해시 충돌
 	- Quadratic probing: **제곱수**로 이동하여 빈 공간을 찾음
 		- 데이터가 군집된 곳에 빠졌을 때 빠르게 탈출실 수 있다.
 	- Double Hashing: **또 다른 hash function**을 사용하여 빈 공간을 찾음
- 
+
+### Open addressing 주의점
+중간 연결고리 역할을 하는 key 의 삭제 시, 이미 있는 값도 없다고 판단할 수 있음
+
+ 해결챌
+- 
