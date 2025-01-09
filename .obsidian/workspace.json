@@ -36,9 +36,24 @@
               "icon": "lucide-file",
               "title": "HTTP 기본"
             }
+          },
+          {
+            "id": "5d9f1cba5dfa028f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "자료구조/Set, HashSet.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Set, HashSet"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -219,10 +234,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTTP/TCP, UDP.md"
+                "file": "자료구조/Set, HashSet.md"
               },
               "icon": "lucide-list",
-              "title": "TCP, UDP 개요"
+              "title": "Set, HashSet 개요"
             }
           }
         ]
@@ -247,12 +262,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cf5860cf5ddc8808",
+  "active": "5d9f1cba5dfa028f",
   "lastOpenFiles": [
+    "HTTP/PORT, DNS.md",
+    "HTTP/HTTP 기본.md",
+    "자료구조/Set, HashSet.md",
     "HTTP/TCP의 오류.흐름.혼잡 제어.md",
     "HTTP/TCP, UDP.md",
-    "HTTP/HTTP 기본.md",
-    "HTTP/PORT, DNS.md",
     "00. Inbox/프로그램_나누기_기술.md",
     "HTTP/URI와 웹 브라우저 요청 흐름.md",
     "2025-01-05 (일).md",
@@ -276,7 +292,6 @@
     "DATABASE/기초/트랜잭션(Transaction).md",
     "Excalidraw/자료구조/B-Tree_데이터_삽입.md",
     "Excalidraw/자료구조/B-Tree 자료.md",
-    "Excalidraw/자료구조/이진탐색트리_구조.md",
     "99. Attachment/JPA/연관관계_일대다.png",
     "99. Attachment/JPA/양방향 객체 연관관계.png",
     "99. Attachment/Pasted image 20240725173729.png",
