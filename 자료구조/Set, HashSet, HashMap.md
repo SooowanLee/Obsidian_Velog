@@ -69,10 +69,12 @@ HashMap에서 또 다른 의미의 해시 충돌
 **그럼 이용할 사람이 5천만인데 메모리가 2000이라고 치면 사용자%메모리 크기를 하기 때문에 해시 충돌이 일어날 수밖에 없다.**
 
 ### HashMap의 해시 충돌 해결 방법
+최대한 
 - Separate chaining: **추가적인 공간**을 활용하여 해결하는 방식
 	- Linked List 사용
 - Open addressing: 충돌 발생 시 **인접한 비어있는 공간**(bucket)에 저장
 	- Linear probing: **고정폭**으로 이동하여 빈 공간을 찾음
 	- Quadratic probing: **제곱수**로 이동하여 빈 공간을 찾음
+		- 데이터가 군집된 곳에 빠졌을 때 빠르게 탈출실 수 있다.
 	- Double Hashing: **또 다른 hash function**을 사용하여 빈 공간을 찾음
  
