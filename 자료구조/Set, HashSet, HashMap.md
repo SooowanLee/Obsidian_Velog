@@ -34,3 +34,9 @@ key:value로 데이터를 저장
 
 List를 사용해서 미리 배우 이름을 넣어두기에는 배우가 너무 많다.
 HashMap을 사용해서 배우 이름이 나올 때 마다 key에 저장을 하고 똑같은 배우가 나온다면 value++하면 효율적으로 투표가 가능하다.
+
+### HashMap(=Hash Table)
+- 배열로 구현
+- value는 배열의 index에 저장된다.
+- HashFunction 함수를 사용해서 key를 배열의 index로 변환해준다.
+
