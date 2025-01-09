@@ -40,6 +40,15 @@ HashMap을 사용해서 배우 이름이 나올 때 마다 key에 저장을 하�
 - 하나의 key는 하나의 value에 맵핑
 - value는 배열의 index에 저장
 - HashFunction 함수를 사용해서 key를 배열의 index로 변환
+- key는 중복X
+
+
+#### 내부 구현
+- 배열(Array)을 사용하여 구현
+- 배열에 저장하기 위해 key의 hash를 구해야함
+- hash function으로 key의 hash를 구함
+- 구해진 hash를 배열 사이즈로 modular(%) 한 값을 index로 사용
+
 
 #### HashFunction이 중요하다!
 충돌 가능성에 영향을 준다.
