@@ -48,7 +48,12 @@ HashMap을 사용해서 배우 이름이 나올 때 마다 key에 저장을 하�
 - 배열에 저장하기 위해 key의 hash를 구해야함
 - hash function으로 key의 hash를 구함
 - 구해진 hash를 배열 사이즈로 modular(%) 한 값을 index로 사용
-
-
 #### HashFunction이 중요하다!
 충돌 가능성에 영향을 준다.
+
+#### 해시 충돌(Hash Collision)
+서로 다른 key들이 같은 hash를 가질 때 발생
+**key1 != key2 BUT!!! hf(key1) == hf(key2)**
+
+HashMap에서 또 다른 의미의 해시 충돌
+**hf(key1) != hf(key2) BUT!!! hf(key1) % M == hf(key2) % M**
