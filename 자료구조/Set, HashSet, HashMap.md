@@ -87,3 +87,7 @@ HashMap에서 또 다른 의미의 해시 충돌
 	- 단점: DELETE를 만나면 무조건 다음 위치를 확인해야함
 - 삭제 위치 다음의  open addressing된 key들은 한 단계씩 앞으로 옮겨준다.
 	- 단점: 이동시키는 추가적인 비용 발생
+
+## Java에서는 해시 충돌을 어떻게 해결했을까?
+Jdk7까지는 LinkedList를 사용한 separate chaining을 활용
+Jdk8에서 LinkedList와 Red Black Tree를 혼용한 separate chaining을 활용
