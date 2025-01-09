@@ -75,3 +75,4 @@ HashMap에서 또 다른 의미의 해시 충돌
 	- Linear probing: **고정폭**으로 이동하여 빈 공간을 찾음
 	- Quadratic probing: **제곱수**로 이동하여 빈 공간을 찾음
 	- Double Hashing: **또 다른 hash function**을 사용하여 빈 공간을 찾음
+ 
