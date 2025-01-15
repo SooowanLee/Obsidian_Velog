@@ -39,3 +39,4 @@ tags:
 - **Separate Chaining**
 
 #### Separate Chaining(분리 연결법)
+**각 해시 테이블의 슬롯(bucket)은 LinkedList의 헤더 역할을 합니다.** 즉, 각 슬롯은 해당 해시 값으로 해싱되는 모든 키-값 쌍의 목록을 저장하는 연결 리스트의 시작점을 가리킵니다.
