@@ -28,3 +28,14 @@ tags:
 	- 해시 테이블의 크기가 100이라면, 해시 값 10은 그대로 인덱스 10으로 사용될 수 있다.
 4. **데이터 저장**: 계산된 인덱스에 키와 값의 쌍이 저장된다.
 
+### Hash Collistion(해시 충돌)
+- **Key는 다른데 hash가 같을때**
+- **key도 hash도 다른데 hash % map_capa 결과가 같을 때**
+
+해시충동을 피할 수 없지만 충돌이 최대한 없게 만들어야 한다.
+
+### Hash Collision 해결 방법
+- **open addressing**
+- **separate chaining**
+
+#### separate chaining
