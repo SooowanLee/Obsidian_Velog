@@ -35,8 +35,7 @@ tags:
 해시충동을 피할 수 없지만 충돌이 최대한 없게 만들어야 한다.
 
 ### Hash Collision 해결 방법
-- **open addressing**
-- **separate chaining**
+- **Open Addressing**
+- **Separate Chaining**
 
-#### separate chaining
-buket을 LinkedList로 관리한다.
+#### Separate Chaining(분리 연결법)
