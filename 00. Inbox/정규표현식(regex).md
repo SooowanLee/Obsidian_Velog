@@ -46,3 +46,4 @@ _*_: 없거나 있거나 많거나(zero or more)
 **\s**: space 공백
 **\S**: space 공백 아님
 
+**[정규표현식 연습 사이트](https://regexr.com/3952i)**
