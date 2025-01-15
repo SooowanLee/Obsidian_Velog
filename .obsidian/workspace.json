@@ -37,7 +37,8 @@
               "title": "정규표현식(regex)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -246,12 +247,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5d9f1cba5dfa028f",
+  "active": "fee115db0afba9b8",
   "lastOpenFiles": [
+    "00. Inbox/Map, HashTable 핵심만 모아보기.md",
     "자료구조/Set, HashSet, HashMap.md",
     "00. Inbox/정규표현식(regex).md",
     "00. Inbox/Red Black Tree.md",
-    "00. Inbox/Map, HashTable 핵심만 모아보기.md",
     "무제 폴더",
     "HTTP/TCP의 오류.흐름.혼잡 제어.md",
     "HTTP/HTTP 기본.md",
