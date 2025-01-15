@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. Inbox/Map, HashTable 핵심만 모아보기.md",
+                "file": "00. Inbox/정규표현식(regex).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Map, HashTable 핵심만 모아보기"
+              "title": "정규표현식(regex)"
             }
           }
         ],
@@ -98,7 +98,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "정규표현",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -279,8 +279,8 @@
   },
   "active": "e355d12f39137bc5",
   "lastOpenFiles": [
-    "00. Inbox/정규표현식(regex).md",
     "00. Inbox/Map, HashTable 핵심만 모아보기.md",
+    "00. Inbox/정규표현식(regex).md",
     "00. Inbox/Red Black Tree.md",
     "무제 폴더",
     "자료구조/Set, HashSet, HashMap.md",

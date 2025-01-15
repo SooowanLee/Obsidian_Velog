@@ -46,4 +46,3 @@ _*_: 없거나 있거나 많거나(zero or more)
 **\s**: space 공백
 **\S**: space 공백 아님
 
-
