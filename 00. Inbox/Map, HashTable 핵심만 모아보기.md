@@ -39,3 +39,4 @@ tags:
 - **separate chaining**
 
 #### separate chaining
+buket을 LinkedList로 관리한다.
