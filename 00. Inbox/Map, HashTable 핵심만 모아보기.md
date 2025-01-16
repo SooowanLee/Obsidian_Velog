@@ -46,7 +46,7 @@ tags:
 	ex) index 1에 데이터가 있다면 다음 인덱스가 비었다면 index 2에 데이터를 저장한다.
 
 
-### Hash Table읠 Capacity는 2의 거듭제곱으로 늘어난다.
+### Hash Table의 Capacity는 2의 거듭제곱으로 늘어난다.
 - **비트 AND 연산을 통한 빠른 인덱스 계산**
 - **균등한 분포**
 - **메모리 관리 효율성**
@@ -57,3 +57,5 @@ tags:
 
 - 예를 들어, `capacity`가 16(2^4)인 경우, `hashValue % 16`은 `hashValue & 15`와 같습니다. 여기서 15는 이진수로 `1111`입니다.
 - 일반적인 모듈러 연산은 나눗셈 연산을 포함하지만, 비트 AND 연산은 단순히 비트 단위의 AND 연산만 수행하면 되므로 훨씬 빠릅니다.
+#### 균등한 분포
+**Hash Table** **은 내부적으로 Hash Function을 통해서 해시 값을 추출하고 추출된 Hash값을 Hash Teble의 Capacity로 모듈러 연산을 한다. 그렇게 나온 값을 Hash Table의 index로 사용하는 것이 일반적입니다.**
