@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "00. Inbox/Map, HashTable 핵심만 모아보기.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               },
@@ -228,7 +228,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "workspaces:작업 공간 레이아웃 관리": false,
       "obsidian-kanban:새 보드 만들기": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "obsidian-git:Open Git source control": false,
+      "translate:Open translation view": false
     }
   },
   "floating": {
