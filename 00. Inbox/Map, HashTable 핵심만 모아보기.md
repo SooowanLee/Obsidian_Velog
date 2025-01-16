@@ -8,7 +8,7 @@ tags:
 ## Map
 > Key-Value 로 데이터를 저장하는 ADT(추상 자료형)
 > key는 중복될 수 없다.
-> associative array, dictionary라고 불리기도 한다.
+> Associative Array, Dictionary라고 불리기도 한다.
 
 ### Hash Table(Hash Map)
 **배열과 해시 함수**(hash function)를 사용하여 **Map을 구현한 자료 구조**
