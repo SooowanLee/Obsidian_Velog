@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "자료구조/Set, HashSet, HashMap.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               },
@@ -107,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5086555480957
+    "width": 301.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "5a2dcc2e0a541c4d",
