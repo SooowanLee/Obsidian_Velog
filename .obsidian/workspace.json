@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "649e1efdea57dff3",
+        "id": "d07004659b2a4b14",
         "type": "tabs",
         "children": [
           {
-            "id": "154c57e41fff86f3",
+            "id": "3186c7c6c6f53d28",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -273,7 +273,7 @@
       }
     ]
   },
-  "active": "154c57e41fff86f3",
+  "active": "3186c7c6c6f53d28",
   "lastOpenFiles": [
     "2025-01-16 (목).md",
     "00. Inbox/Map, HashTable 핵심만 모아보기.md",
