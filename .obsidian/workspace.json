@@ -228,9 +228,8 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "workspaces:작업 공간 레이아웃 관리": false,
       "obsidian-kanban:새 보드 만들기": false,
-      "periodic-notes:Open today": false,
       "obsidian-git:Open Git source control": false,
-      "translate:Open translation view": false
+      "periodic-notes:Open today": false
     }
   },
   "floating": {
