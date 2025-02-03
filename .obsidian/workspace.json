@@ -123,8 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5086555480957,
-    "collapsed": true
+    "width": 301.5086555480957
   },
   "right": {
     "id": "5a2dcc2e0a541c4d",
@@ -250,10 +249,10 @@
   },
   "active": "84472ebdd2c9a0af",
   "lastOpenFiles": [
-    "자료구조/Map, HashTable 핵심만 모아보기.md",
-    "자료구조/Set, HashSet, HashMap.md",
     "2025-01-16 (목).md",
     "00. Inbox/정규표현식(regex).md",
+    "자료구조/Map, HashTable 핵심만 모아보기.md",
+    "자료구조/Set, HashSet, HashMap.md",
     "00. Inbox/Red Black Tree.md",
     "무제 폴더",
     "HTTP/TCP의 오류.흐름.혼잡 제어.md",
