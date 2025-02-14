@@ -51,8 +51,8 @@ public class Fibonacci {
     public static int fib(int n) {
         if (n <= 1) return n;
         
-        // Map에 n이 있다면 Map에서 가져다 사용
-        // 이 로직 때문에 시간복잡도가 O(n)까지 내려간다.
+        // Map에 n이 있다면 Map에서 데이터를 가져다 사용
+        // 이 로직 때문에 시간복잡도가 O(n)으로 감소한다.
         if (memo.containsKey(n)) return memo.get(n); 
 
         int result = fib(n - 1) + fib(n - 2);
@@ -64,5 +64,9 @@ public class Fibonacci {
         System.out.println(fib(10)); // 55
     }
 }
+
+```
+#### 2. Bottom-up 방식 (탭 메모이제이션)
+```java
 
 ```
