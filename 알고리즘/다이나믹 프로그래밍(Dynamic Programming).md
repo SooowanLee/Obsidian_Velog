@@ -43,30 +43,44 @@ public class Fibonacci {
 ###  DP를 활용한 개선 방법
 #### 1. Top-Down 방식 (메모이제이션)
 ```java
-import java.util.*;
-
-public class Fibonacci {
-    static Map<Integer, Integer> memo = new HashMap<>();
-
-    public static int fib(int n) {
-        if (n <= 1) return n;
-        
-        // Map에 n이 있다면 Map에서 데이터를 가져다 사용
-        // 이 로직 때문에 시간복잡도가 O(n)으로 감소한다.
-        if (memo.containsKey(n)) return memo.get(n); 
-
-        int result = fib(n - 1) + fib(n - 2);
-        memo.put(n, result);
-        return result;
-    }
-
-    public static void main(String[] args) {
-        System.out.println(fib(10)); // 55
-    }
+static class TopDown {  
+	static Map<Integer, Integer> memo = new HashMap<>();  
+  
+	public static int fib(int n) {  
+		if(n <= 1) return n;  
+		if (memo.containsKey(n)) return memo.get(n);  
+  
+		int result = fib(n - 1) + fib(n - 2);  
+		memo.put(n, result);  
+  
+		return result;  
+	}  
 }
-
 ```
 #### 2. Bottom-up 방식 (탭 메모이제이션)
 ```java
-
+static class BottomUp {  
+	public static int fib(int n) {  
+		if (n <= 1) return n;  
+  
+		int[] dp = new int[n + 1];  
+		dp[0] = 0;  
+		dp[1] = 1;  
+  
+		for (int i = 2; i <= n; i++) {  
+			dp[i] = dp[i - 1] + dp[i - 2];  
+		}  
+  
+		return dp[n];  
+	}  
+}
 ```
+
+### DP 문제 해결 패턴
+- DP인지 판단하는 법
+	- 문제가 겹치는 부분 문제와 최적 부분 구조를 만족하는지 확인
+- 작은 문제로 나누어 점화식 찾기
+	- 예: 피보나치 수열 -> `F(n) = F(n-1) + F(n-2)`
+- Top-Down(재귀 + 메모이제이션) 또는 Bottom-Up(반복문 + 테이블(배열)) 선택
+	- 보통 Bottom-Up 방식이 성능적으로 더 우수함
+
