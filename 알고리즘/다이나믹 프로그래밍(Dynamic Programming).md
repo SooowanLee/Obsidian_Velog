@@ -38,3 +38,4 @@ public class Fibonacci {
 }
 
 ```
+✅**시간 복잡도: O(2^n)** → 너무 느림 (중복 계산 발생)
