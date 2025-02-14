@@ -32,7 +32,7 @@ public final class Integer extends Number implements Comparable {
 		int v1 = this.value;
 		int v2 = anotherInteger.value;
 		// 같으면0, 오른쪽 값이 크면 -1, 작으면 1을 반환
-		return (v1 < v2 ? -1 : (v1==v2 ? 0 : 1));
+		return (v1 < v2 ? -1 : (v1 == v2 ? 0 : 1));
 	}
 }
 ```
@@ -41,4 +41,3 @@ public final class Integer extends Number implements Comparable {
 
 대소문자를 구분하지 않고 정렬하고 싶다면 정렬 기준으로 String.CASE_INSENSITIVE_ORDER을 사용할 수 있다.
 
-<<
