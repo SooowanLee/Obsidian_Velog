@@ -38,3 +38,5 @@ public final class Integer extends Number implements Comparable {
 ```
 
 `String`에서는 기본적으로 `Comparable`을 구현하고 있다. `Comparable`은 내부적으로 `int compareTo()` 가 있다. 그래서 `Arrays.sort(String str)` 정렬기준이 없이 정렬 대상만 매개변수로 줘도 정렬이 가능하다. **String의 기본정렬은 사전순으로 되어있다.** 
+
+대소문자를 구분하지 않고 정렬하고 싶다면 
