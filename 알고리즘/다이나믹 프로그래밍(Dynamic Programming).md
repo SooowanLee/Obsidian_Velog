@@ -39,3 +39,27 @@ public class Fibonacci {
 
 ```
 ✅**시간 복잡도: O(2^n)** → 너무 느림 (중복 계산 발생)
+
+###  DP를 활용한 개선 방법
+#### 1. Top-Down 방식 (메모이제이션)
+```java
+import java.util.*;
+
+public class Fibonacci {
+    static Map<Integer, Integer> memo = new HashMap<>();
+
+    public static int fib(int n) {
+        if (n <= 1) return n;
+        if (memo.containsKey(n)) return memo.get(n);
+
+        int result = fib(n - 1) + fib(n - 2);
+        memo.put(n, result);
+        return result;
+    }
+
+    public static void main(String[] args) {
+        System.out.println(fib(10)); // 55
+    }
+}
+
+```
