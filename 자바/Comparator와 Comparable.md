@@ -8,6 +8,8 @@ tags:
 ## Comparator와 Comparable
 > 객체 정렬에 필요한 메서드(정렬기준 제공)를 정의한 인터페이스
 
+### 기본적으로 정렬(자리바꿈)은 대상과 기준이 필요하다.
+
 **Comparator** : 기본 정렬기준 외에 **다른 기준으로 정렬하고자 할 때** 사용
 **Comparable** : **기본 정렬기준**을 구현하는데 사용.
 
@@ -34,3 +36,5 @@ public final class Integer extends Number implements Comparable {
 	}
 }
 ```
+
+`String`에서는 기본적으로 `Comparable`을 구현하고 있다. `Comparable`은 내부적으로 `int compareTo()` 가 있다. 그래서 `Arrays.sort(String str)` 정렬기준이 없이 정렬 대상만 매개변수로 줘도 정렬이 가능하다. **String의 기본정렬은 사전순으로 되어있다.** 
