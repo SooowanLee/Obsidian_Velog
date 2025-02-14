@@ -20,3 +20,21 @@ tags:
 - **Bottom-up** (탭 메모이제이션, Tabulation)
 	- 작은 문제부터 차례로 풀어나가며 **테이블(배열)에 결과를 저장**
 	- 재귀 호출을 사용하지 않고 반복문을 활용하여 성능이 더욱 향상됨
+
+### DP를 사용하는 이유 (vs. 단순 재귀)
+#### ❌ 일반적인 재귀 방식의 문제점
+단순 재귀는 같은 부분 문제가 여러 번 반복적으로 호출되어 비효율적입니다.
+예제: 피보나치 수열 (일반 재귀)
+```java
+public class Fibonacci {
+    public static int fib(int n) {
+        if (n <= 1) return n;
+        return fib(n - 1) + fib(n - 2);
+    }
+
+    public static void main(String[] args) {
+        System.out.println(fib(10)); // 55
+    }
+}
+
+```
