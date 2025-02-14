@@ -77,6 +77,7 @@ static class BottomUp {
 	}  
 }
 ```
+✅**시간 복잡도: O(n)**
 
 ### DP 문제 해결 패턴
 - DP인지 판단하는 법
