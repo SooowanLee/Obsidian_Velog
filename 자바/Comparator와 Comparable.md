@@ -11,7 +11,7 @@ tags:
 ### 기본적으로 정렬(자리바꿈)은 대상과 기준이 필요하다.
 
 **Comparator** : 기본 정렬기준 외에 **다른 기준으로 정렬하고자 할 때** 사용
-**Comparable** : **기본 정렬기준**을 구현하는데 사용.
+**Comparable** : **기본 정렬기준**을 구현하는 데 사용
 
 ```java
 public interface Comparator {
