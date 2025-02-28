@@ -21,8 +21,8 @@ Java에서는 class를 사용해서 객체를 구조화 한다. 객체는 생성
 아래와 같은 `User` 클래스가 있다고 할 때
 ```java
 public class User {
-	private final String name;
-	private final int age;
+	private String name;
+	private int age;
 
 	public String getName(){
 		return this.name;
