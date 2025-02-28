@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bea3849b28952028",
+        "id": "c1dadfeccc1f1052",
         "type": "tabs",
         "children": [
           {
-            "id": "6440a9f1e2a21e1b",
+            "id": "92aa9653789ec3c2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/다이나믹 프로그래밍(Dynamic Programming).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "다이나믹 프로그래밍(Dynamic Programming)"
+              "title": "새 탭"
             }
           }
         ]
@@ -108,8 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5086555480957,
-    "collapsed": true
+    "width": 301.5086555480957
   },
   "right": {
     "id": "5a2dcc2e0a541c4d",
@@ -236,10 +230,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6440a9f1e2a21e1b",
+  "active": "92aa9653789ec3c2",
   "lastOpenFiles": [
-    "프로그래밍_지식/정규표현식(regex).md",
+    "자바TPC(생각하고, 표현하고, 코딩하고)/JVM 메모리 모델.md",
+    "자바TPC(생각하고, 표현하고, 코딩하고)/자바의 데이터 타입.md",
     "알고리즘/다이나믹 프로그래밍(Dynamic Programming).md",
+    "프로그래밍_지식/정규표현식(regex).md",
     "00. Inbox/프로그램_나누기_기술.md",
     "00. Inbox/Red Black Tree.md",
     "00. Inbox/2025-02-14.md",
@@ -264,8 +260,6 @@
     "00. Inbox/SQLD.md",
     "HTTP",
     "객체지향/오브젝트_상속과 다형성.md",
-    "객체지향/객체지향_사실과_오해_타입.md",
-    "자바TPC(생각하고, 표현하고, 코딩하고)/자바의 데이터 타입.md",
     "99. Attachment/JPA/연관관계_일대다.png",
     "99. Attachment/JPA/양방향 객체 연관관계.png",
     "99. Attachment/Pasted image 20240725173729.png",
