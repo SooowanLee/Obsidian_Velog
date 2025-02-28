@@ -46,3 +46,4 @@ public class User {
 > **클래스와 멤버(변수, 메서드)에 사용되며 외부에서 해당 클래스나 메서드에 대해 접근 권한을 설정할 수 있는 제어자를 의미**
 
 종류 : public, private, protected, default
+
