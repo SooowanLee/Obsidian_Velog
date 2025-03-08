@@ -15,3 +15,6 @@ ex) git add, git commit, git push 등
 - **working directory**: 프로젝트의 파일들을 수정하는 곳
 - **staging area**: 버전 히스토리에 저장할 준비된 파일들이 있는 곳
 - **.git directory**: 버전의 히스토리를 가지고 있는 git repository나 git directory가 있다.
+
+#### working directory
+**working directory**에는 **untracked** | **tracked** 이 있다. 그 중에 **tracked**안에는 **unmodified** | **modified** 이 있다.
