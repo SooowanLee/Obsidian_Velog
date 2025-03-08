@@ -22,4 +22,4 @@ ex) git add, git commit, git push 등
 
 ### History(.git directory)에 어느정도 주기로 Commit 하는 것이 좋을까?
 1. 프로젝트를 초기화 하는 커밋
-2. 
+2. 작은 단위로 의미있는 작업을 했을 때 커밋을 한다.(LoginService module, LoginRepository module, homPage, welecome)
