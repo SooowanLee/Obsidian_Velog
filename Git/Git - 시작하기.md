@@ -10,3 +10,8 @@ ex) git add, git commit, git push 등
 **git init**을 하면 **.git**이라는 폴더와 함께 깃이 관리하는 폴더가 되는것을 알 수 있다.
 여기서 **.** 은 숨겨진 폴더라는 의미이다. 생성된 **.git** 폴더를 삭제하고 싶다면 **rm -rf .git** 명령어를 사용하면 된다.
 
+### Git Workflow
+총 세가지의 작업 환경으로 나누어져 있다.
+- **working directory**: 프로젝트의 파일들을 수정하는 곳
+- **staging area**: 버전 히스토리에 저장할 준비된 파일들이 있는 곳
+- **.git directory**: 버전의 히스토리를 가지고 있는 git repository나 git directory가 있다.
