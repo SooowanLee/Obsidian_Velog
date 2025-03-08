@@ -14,7 +14,7 @@ ex) git add, git commit, git push 등
 총 세가지의 작업 환경으로 나누어져 있다.
 - **working directory**: 프로젝트의 파일들을 수정하는 곳
 - **staging area**: 버전 히스토리에 저장할 준비된 파일들이 있는 곳
-- **.git directory**: 버전의 히스토리를 가지고 있는 git repository나 git directory가 있다.
+- **repository**: 버전의 히스토리를 가지고 있는 저장소
 
 #### working directory
 **working directory**에는 **untracked** | **tracked** 이 있다. 그 중에 **tracked**안에는 **unmodified** | **modified** 이 있다. **새로 생성된 파일**은 **working directory**의 **untracked**상태이다. 
@@ -26,6 +26,6 @@ ex) git add, git commit, git push 등
 #### staging area
 
 
-### History(.git directory)에 어느정도 주기로 Commit 하는 것이 좋을까?
+### repository에 어느정도 주기로 Commit 하는 것이 좋을까?
 1. 프로젝트를 초기화 하는 커밋
 2. 작은 단위로 의미있는 작업을 했을 때 커밋을 한다.(LoginService module, LoginRepository module, homPage, welecome)
