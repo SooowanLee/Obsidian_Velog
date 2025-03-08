@@ -51,9 +51,21 @@
               "icon": "lucide-file",
               "title": "백엔드 기초 개념"
             }
+          },
+          {
+            "id": "ee5aeca52cecdf5a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -266,7 +278,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "631f953e2f42921a",
+  "active": "ee5aeca52cecdf5a",
   "lastOpenFiles": [
     "회사회의 진행/주간회의 꿀팁.md",
     "프로그래밍_지식/백엔드 기초 개념.md",
