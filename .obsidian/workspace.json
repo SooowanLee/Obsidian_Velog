@@ -51,21 +51,9 @@
               "icon": "lucide-file",
               "title": "백엔드 기초 개념"
             }
-          },
-          {
-            "id": "ee5aeca52cecdf5a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,7 +139,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5086555480957
+    "width": 301.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "5a2dcc2e0a541c4d",
@@ -278,10 +267,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ee5aeca52cecdf5a",
+  "active": "37a137aa3e067c18",
   "lastOpenFiles": [
-    "회사회의 진행/주간회의 꿀팁.md",
     "프로그래밍_지식/백엔드 기초 개념.md",
+    "회사회의 진행/주간회의 꿀팁.md",
     "자바TPC(생각하고, 표현하고, 코딩하고)/객체생성과정(new, 생성자 메서드, this).md",
     "회사회의 진행",
     "자바TPC(생각하고, 표현하고, 코딩하고)/JVM 메모리 모델.md",
