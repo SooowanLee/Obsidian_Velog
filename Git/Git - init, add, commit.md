@@ -30,5 +30,3 @@ commit을 하기전에 commit될 준비가 된 파일들이 모여 있는 장소
 ### repository에 어느정도 주기로 Commit 하는 것이 좋을까?
 1. 프로젝트를 초기화 하는 커밋
 2. 작은 단위로 의미있는 작업을 했을 때 커밋을 한다.(LoginService module, LoginRepository module, homPage, welecome)
-
-
