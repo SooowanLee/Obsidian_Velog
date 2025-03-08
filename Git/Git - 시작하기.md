@@ -18,3 +18,8 @@ ex) git add, git commit, git push 등
 
 #### working directory
 **working directory**에는 **untracked** | **tracked** 이 있다. 그 중에 **tracked**안에는 **unmodified** | **modified** 이 있다.
+
+
+### History(.git directory)에 어느정도 주기로 Commit 하는 것이 좋을까?
+1. 프로젝트를 초기화 하는 커밋
+2. 
