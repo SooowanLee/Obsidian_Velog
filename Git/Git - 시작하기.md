@@ -24,8 +24,11 @@ ex) git add, git commit, git push 등
 그리고 git add 를 해서 **tracked 상태**가 된 파일을 **untracked 상태로 만들고 싶다**면 **git restore --staged 파일.확장자|(test.txt)** 를 하면 된다.
 
 #### staging area
+commit을 하기전에 commit될 준비가 된 파일들이 모여 있는 장소
 
 
 ### repository에 어느정도 주기로 Commit 하는 것이 좋을까?
 1. 프로젝트를 초기화 하는 커밋
 2. 작은 단위로 의미있는 작업을 했을 때 커밋을 한다.(LoginService module, LoginRepository module, homPage, welecome)
+
+
