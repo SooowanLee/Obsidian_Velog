@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Git - branch.md",
+                "file": "Git/Git - branch, rebase.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Git - branch"
+              "title": "Git - branch, rebase"
             }
           },
           {
@@ -319,7 +319,7 @@
   "active": "a131f6b4449c48f6",
   "lastOpenFiles": [
     "Git/Git - init, add, commit.md",
-    "Git/Git - branch.md",
+    "Git/Git - branch, rebase.md",
     "00. Inbox/2025-03-08.md",
     "자바TPC(생각하고, 표현하고, 코딩하고)/객체생성과정(new, 생성자 메서드, this).md",
     "회사회의 진행/주간회의 꿀팁.md",
