@@ -16,7 +16,6 @@
 ### git merge를 하고 나면 사용한 branch는 삭제한다.
 git branch -d 브랜치명
 
-
 ### rebase를 사용하는 이유
 > 간단하고 짧은 브랜치들은 rebase를 하면 git history, log를 출력할 때 깔끔하게 보인다.
 ### git rebase & merge
