@@ -19,7 +19,7 @@ ex) git add, git commit, git push 등
 #### working directory
 **working directory**에는 **untracked** | **tracked** 이 있다. 그 중에 **tracked**안에는 **unmodified** | **modified** 이 있다. **새로 생성된 파일**은 **working directory**의 **untracked**상태이다. 
 
-만약 **test.txt** 파일 있다고 할때 **git add test.txt**를 하게되면 **tracked 상태**가 된다. 즉, **git이 관리하는 파일**이 되었다는 뜻이다. 그리고 **tracked 상태**에서 **test.txt** 파일에 **변경이 생긴**다면 **modified 상태**가 된다. 
+만약 **test.txt** 파일 있다고 할때 **git add test.txt**를 하게되면 **tracked 상태**가 된다. 그리고 **tracked 상태**에서 **test.txt** 파일에 **변경이 생긴**다면 **modified 상태**가 된다. 
 
 그리고 git add 를 해서 **tracked 상태**가 된 파일을 **untracked 상태로 만들고 싶다**면 **git restore --staged 파일.확장자|(test.txt)** 를 하면 된다.
 
