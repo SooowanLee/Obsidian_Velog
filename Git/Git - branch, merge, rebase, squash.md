@@ -22,6 +22,12 @@ git switch 이동할 브랜치명
 남기고 싶은 메세지를 제외하고 지운다.
 ![](https://i.imgur.com/Y04tkce.png)
 
+다시 `git add, commit` 를 해준다.
+![](https://i.imgur.com/5jyvN6v.png)
+
+정상적으로 `merge`가 되었다.
+![](https://i.imgur.com/mxDSdD2.png)
+
 ### git merge
 1. 중심브랜치로 이동
 2. git merge 새로운브랜치명(ex: login) 
@@ -30,6 +36,7 @@ git switch 이동할 브랜치명
 
 ### git merge를 하고 나면 사용한 branch는 삭제한다.
 git branch -d 브랜치명
+![](https://i.imgur.com/8QbA8vI.png)
 
 ### rebase를 사용하는 이유
 > 간단하고 짧은 브랜치들은 rebase를 하면 git history, log를 출력할 때 깔끔하게 보인다.
