@@ -30,4 +30,5 @@ git branch -d 브랜치명
 ❗**단점** : 기존 커밋을 억지로 다른 곳에 이어 붙이는 것이기 때문에 conflict가 많이 발생할 수 있다. merge에서 해결하는 것처럼 필요한 메세지만 남기고 지워준다 그리고 다시 git add, commit을 한다.
 
 ### squash & merge
+> rebase와 마찬가지로 history를 깔끔하게 유지할 수 있다.
 - git merge --squash 새브랜치
