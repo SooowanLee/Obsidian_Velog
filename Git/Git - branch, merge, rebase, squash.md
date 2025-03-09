@@ -7,8 +7,13 @@ tags:
 ### 브랜치 생성 git branch 브랜치명
 브랜치를 생성하기 위해서 branch라는 명령어를 사용한다. **실제 사용 : git branch login(브랜치이름은 작업하는 의미있는 이름으로 하면 된다.)**
 ### 브랜치 이동 git switch 브랜치명
+git switch 이동할 브랜치명
+- `git switch test`
 ### 브랜치 합치기는 기준 브랜치 이동 후 git merge 브랜치명
-### 충돌 해결은 코드고치고 git add & git commit
+만약 `test` 브랜치에서 작업을 하다 `main` 브랜치와 합치려면 `git switch main` 으로 돌아와서
+`git merge main`을 하면 된다. 
+### 충돌 해결은 코드 고치고 git add & git commit
+`merge`를 하다가 충돌이 나는 경우 
 
 ### git merge
 1. 중심브랜치로 이동
