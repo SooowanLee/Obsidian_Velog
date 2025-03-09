@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Git - branch, merge, rebase.md",
+                "file": "Git/Git - branch, merge, rebase, squash.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Git - branch, merge, rebase"
+              "title": "Git - branch, merge, rebase, squash"
             }
           },
           {
@@ -308,7 +308,7 @@
     "회사에서 사용하는 공부해야 할 기능/SMS 본인 인증 기능.md",
     "회사에서 사용하는 공부해야 할 기능/카카오톡 1대1 채팅문의.md",
     "회사회의 진행/주간회의 꿀팁.md",
-    "Git/Git - branch, merge, rebase.md",
+    "Git/Git - branch, merge, rebase, squash.md",
     "자바TPC(생각하고, 표현하고, 코딩하고)/객체생성과정(new, 생성자 메서드, this).md",
     "Git/Git - init, add, commit.md",
     "00. Inbox/2025-03-08.md",
