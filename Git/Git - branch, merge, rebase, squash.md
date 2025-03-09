@@ -14,6 +14,13 @@ git switch 이동할 브랜치명
 `git merge main`을 하면 된다. 
 ### 충돌 해결은 코드 고치고 git add & git commit
 `merge`를 하다가 충돌이 나는 경우 
+![](https://i.imgur.com/JOTSBe0.png)
+
+충돌되었다는 메세지가 보인다.
+![](https://i.imgur.com/hyJsjr4.png)
+
+남기고 싶은 메세지를 제외하고 지운다.
+![](https://i.imgur.com/Y04tkce.png)
 
 ### git merge
 1. 중심브랜치로 이동
