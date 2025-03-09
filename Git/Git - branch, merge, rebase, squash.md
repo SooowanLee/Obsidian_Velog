@@ -1,5 +1,8 @@
-
-
+---
+상태: 완료
+tags:
+  - Git
+---
 
 ### 브랜치 생성 git branch 브랜치명
 브랜치를 생성하기 위해서 branch라는 명령어를 사용한다. **실제 사용 : git branch login(브랜치이름은 작업하는 의미있는 이름으로 하면 된다.)**
@@ -31,4 +34,4 @@ git branch -d 브랜치명
 
 ### squash & merge
 > rebase와 마찬가지로 history를 깔끔하게 유지할 수 있다.
-- git merge --squash 새브랜치
+- git merge --squash 브랜치명
